@@ -36,19 +36,19 @@ def perform_metadata_search(query: str, filters: dict, n_results: int = 5) -> st
 
 @tool
 def fetch_sec_section(company_ticker: str, year: int, section_name: str) -> str:
-    """Fetches an exact SEC Markdown section by name (e.g., 'Item 3' for Legal, 'Item 7' for MD&A)."""
+    """
+    Fetches an exact SEC Markdown section by name instead of semantic search.
+    E.g., section_name='Item 7' for MD&A, or 'Item 8' for Financial Statements.
+    """
     filters = {"ticker": company_ticker.upper(), "year": year, "Item": section_name}
     return perform_metadata_search(query="financials", filters=filters, n_results=3)
 
 @tool
-def search_unstructured_text(query: str, company_ticker: str, year: int) -> str:
-    """Performs semantic search over the 10-K for qualitative questions (e.g., legal, risks, business)."""
-    filters = {"ticker": company_ticker.upper(), "year": year}
-    return perform_metadata_search(query=query, filters=filters, n_results=5)
-
-@tool
 def extract_and_query_markdown_table(markdown_table: str, query_code: str) -> str:
-    """Parses a Markdown table into Pandas and runs query_code."""
+    """
+    Parses a Markdown table into a Pandas DataFrame and executes python query_code against it.
+    Example query_code: "df['Revenue'].sum()"
+    """
     try:
         cleaned = re.sub(r'(^\|)|(\|$)', '', markdown_table, flags=re.MULTILINE)
         lines = [line for line in cleaned.split('\n') if not re.match(r'^[\s\-|:]+$', line)]
@@ -57,17 +57,18 @@ def extract_and_query_markdown_table(markdown_table: str, query_code: str) -> st
         
         local_env = {"df": df, "pd": pd}
         exec(f"result = {query_code}", local_env)
-        return f"Table Query Result: {local_env.get('result', 'Success')}"
+        return f"Table Query Result: {local_env.get('result', 'Execution successful but no result returned')}"
     except Exception as e:
-        return f"Table error: {e}"
+        return f"Table parsing error: {e}"
 
 python_calculator = PythonAstREPLTool(
     name="python_calculator",
-    description="Python shell. Use this to execute math."
+    description="Python shell. Use this to execute math, percentages, or differences. Input valid python."
 )
 
+# These are the specific functions your error was complaining about missing
 def get_researcher_tools(): 
-    return [fetch_sec_section, search_unstructured_text]
+    return [fetch_sec_section]
 
 def get_quant_tools(): 
     return [extract_and_query_markdown_table, python_calculator]
