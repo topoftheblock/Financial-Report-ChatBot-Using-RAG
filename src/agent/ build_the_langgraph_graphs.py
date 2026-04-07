@@ -63,3 +63,17 @@ graph_builder.add_edge(["agent"], "aggregate_answers")
 graph_builder.add_edge("aggregate_answers", END)
 
 agent_graph = graph_builder.compile(checkpointer=checkpointer, interrupt_before=["request_clarification"])
+
+# --- Visualisation Execution ---
+if __name__ == "__main__":
+    print("Generating LangGraph visualizations...")
+    
+    # Save the main graph
+    with open("main_agent_graph.png", "wb") as f:
+        f.write(agent_graph.get_graph().draw_mermaid_png())
+        
+    # Save the subgraph
+    with open("subgraph.png", "wb") as f:
+        f.write(agent_subgraph.get_graph().draw_mermaid_png())
+        
+    print("Graphs saved successfully to your current directory!")
