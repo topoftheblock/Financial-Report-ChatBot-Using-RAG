@@ -11,6 +11,7 @@ Parses the .html file and converts them into a markdown format
 
 from pathlib import Path
 import os
+import io
 
 import re
 import numpy as np
@@ -21,16 +22,16 @@ from openai import OpenAI
 import time
 
 # %% Macros
-BASE_DIR = "C:/Users/patri/Desktop/Financial-Report-ChatBot-Using-RAG/"
+# Dynamically find the root project folder (Financial-Report-ChatBot-Using-RAG)
+# __file__ is parser.py, we go up two levels: ingestion -> src -> root
+BASE_DIR = os.path.abspath(os.path.join(os.path.dirname(__file__), "..", ".."))
 
 # %% Parser
-import os
 from dotenv import load_dotenv
 
 # Load the .env file explicitly
 load_dotenv()
 
-from openai import OpenAI
 client = OpenAI()
 # ── Regex patterns ────────────────────────────────────────────────────────────
 _PART_RE = re.compile(r'^PART\s+(I{1,3}V?|IV)$',   re.IGNORECASE)
@@ -300,6 +301,11 @@ def _process_table(table):
             # ---------------------------------------------------------
             # STEP 4: CELL-BY-CELL CONDENSER (AMENDED)
             # ---------------------------------------------------------
+            
+            # Convert the dataframe to object type to prevent Pandas FutureWarnings 
+            # when appending string characters (like % or $) to numerical columns.
+            df = df.astype(object)
+            
             # Iterate RIGHT-TO-LEFT to merge $ and %, and eliminate duplicates.
             # By collapsing everything to the LEFT, we ensure that both the header 
             # (e.g., 'Adjusted Cost') and the data (e.g., '$28267') anchor 
@@ -377,10 +383,6 @@ def _process_table(table):
         fb = table.get_text(separator=' | ', strip=True)
         return fb if fb.strip() else None
     
-    
-# ── Table Summary ──────────────────────────────────────────────────────────
-client = OpenAI()
-
 # ── LLM Table Summarization ───────────────────────────────────────────────────
 def _summarize_table_with_llm(table_md: str) -> str:
     """
@@ -416,6 +418,7 @@ def _summarize_table_with_llm(table_md: str) -> str:
     except Exception as e:
         print(f"LLM Summarization failed: {e}")
         return ""
+
 # ── Main parser ───────────────────────────────────────────────────────────────
 def parse_10k_html(file_path: str, output_path: str) -> str:
     """

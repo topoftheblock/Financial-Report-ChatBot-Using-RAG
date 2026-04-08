@@ -372,6 +372,10 @@ As of October 17, 2025, there were 22,429 shareholders of record.
 
 Share repurchase activity during the three months ended September 27, 2025, was as follows (in millions, except number of shares, which are reflected in thousands, and per-share amounts):
 
+**Table Context:** The table summarizes the share repurchase activity of a company over specific periods, detailing the number of shares purchased, the average price paid, and the remaining dollar value available for repurchase under announced plans. 
+
+Metrics included: Total Number of Shares Purchased, Average Price Paid Per Share, Total Number of Shares Purchased as Part of Publicly Announced Plans or Programs, Approximate Dollar Value of Shares That May Yet Be Purchased Under the Plans or Programs.
+
 | Periods | Total Number of Shares Purchased | Average Price Paid Per Share | Total Number of Shares Purchased as Part of Publicly Announced Plans or Programs | Approximate Dollar Value ofShares That May Yet Be PurchasedUnder the Plans or Programs (1) |
 |:--------------------------------------------------------------------------------------|-----------------------------------:|:-------------------------------|-----------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------|
 | June 29, 2025 to August 2, 2025: Open market and privately negotiated purchases | 33265 | $210.43 | 33265 | nan |
@@ -386,6 +390,10 @@ Apple Inc. | 2025 Form 10-K | 19
 ### Company Stock Performance
 
 The following graph shows a comparison of five-year cumulative total shareholder return, calculated on a dividend-reinvested basis, for the Company, the S&P 500 Index and the Dow Jones U.S. Technology Total Stock Market Index. The graph assumes $100 was invested in each of the Company’s common stock, the S&P 500 Index and the Dow Jones U.S. Technology Total Stock Market Index as of the market close on September 25, 2020. Past stock price performance is not necessarily indicative of future stock price performance.
+
+**Table Context:** The table compares the performance of Apple Inc. against major stock market indices over several years. 
+
+Metrics included: Revenue, S&P 500 Index, Dow Jones U.S. Technology Total Stock Market Index
 
 | col1 | September 2020 | September 2021 | September 2022 | September 2023 | September 2024 | September 2025 |
 |:---------------------------------------------------|:-----------------|:-----------------|:-----------------|:-----------------|:-----------------|:-----------------|
@@ -452,6 +460,10 @@ Beginning in the second quarter of 2025, new U.S. Tariffs were announced, includ
 
 The following table shows net sales by reportable segment for 2025, 2024 and 2023 (dollars in millions):
 
+**Table Context:** The table summarizes the total net sales across different geographic regions for the years 2023 to 2025, highlighting changes in sales figures over time. 
+
+Metrics included: Total net sales, Americas sales, Europe sales, Greater China sales, Japan sales, Rest of Asia Pacific sales, Change in sales (Americas), Change in sales (Europe), Change in sales (Greater China), Change in sales (Japan), Change in sales (Rest of Asia Pacific), Change in total net sales.
+
 | col1 | 2025 | Change | 2024 | Change | 2023 |
 |:---------------------|:----------|:---------|:----------|:---------|:----------|
 | Americas | $178353.0 | 7 | $167045.0 | 3 | $162560.0 |
@@ -476,6 +488,10 @@ Apple Inc. | 2025 Form 10-K | 22
 ### Products and Services Performance
 
 The following table shows net sales by category for 2025, 2024 and 2023 (dollars in millions):
+
+**Table Context:** The table summarizes the revenue performance of various product categories over multiple years, highlighting changes in sales figures. 
+
+Metrics included: iPhone Revenue, Mac Revenue, iPad Revenue, Wearables Revenue, Home and Accessories Revenue, Services Revenue, Total Net Sales.
 
 | col1 | 2025 | Change | 2024 | Change | Change | 2023 |
 |:--------------------------------|:----------|:---------|:----------|:---------|:---------|:----------|
@@ -504,11 +520,19 @@ Apple Inc. | 2025 Form 10-K | 23
 
 Products and Services gross margin and gross margin percentage for 2025, 2024 and 2023 were as follows (dollars in millions):
 
+**Table Context:** The table summarizes the gross margin figures for products and services over three fiscal years. 
+
+Metrics included: Gross Margin: Products, Gross Margin: Services, Total Gross Margin
+
 | col1 | 2025 | 2024 | 2023 |
 |:-----------------------|:----------|:----------|:----------|
 | Gross margin: Products | $112887.0 | $109633.0 | $108803.0 |
 | Gross margin: Services | 82314 | 71050 | 60345 |
 | Total gross margin | $195201.0 | $180683.0 | $169148.0 |
+
+**Table Context:** The table presents the gross margin percentages for products and services over three periods. 
+
+Metrics included: Gross Margin Percentage for Products, Gross Margin Percentage for Services, Total Gross Margin Percentage
 
 | Gross margin percentage: | col1 | col4 | col7 |
 |:------------------------------|-------:|-------:|-------:|
@@ -528,6 +552,10 @@ The Company’s future gross margins can be impacted by a variety of factors, as
 
 Operating expenses for 2025, 2024 and 2023 were as follows (dollars in millions):
 
+**Table Context:** The table summarizes the company's operating expenses and their percentage relative to total net sales over three fiscal years. 
+
+Metrics included: Research and Development, Selling, General and Administrative Expenses, Total Operating Expenses, Percentage of Total Net Sales.
+
 | col1 | 2025 | Change | 2024 | Change | 2023 |
 |:------------------------------------|:---------|---------:|:---------|---------:|:---------|
 | Research and development | $34550.0 | 10 | $31370.0 | 5 | $29915.0 |
@@ -546,6 +574,10 @@ Apple Inc. | 2025 Form 10-K | 24
 ### Provision for Income Taxes
 
 Provision for income taxes, effective tax rate and statutory federal income tax rate for 2025, 2024 and 2023 were as follows (dollars in millions):
+
+**Table Context:** The table summarizes key tax-related financial metrics for the years 2023 to 2025. 
+
+Metrics included: Provision for income taxes, Effective tax rate, Statutory federal income tax rate
 
 | col1 | 2025 | 2024 | 2023 |
 |:----------------------------------|:---------|:---------|:---------|
@@ -611,6 +643,10 @@ The Company is exposed to economic risk from interest rates and foreign exchange
 The Company is primarily exposed to fluctuations in U.S. interest rates and their impact on the Company’s investment portfolio and term debt. Increases in interest rates will negatively affect the fair value of the Company’s investment portfolio and increase the interest expense on the Company’s term debt. To protect against interest rate risk, the Company may use derivative instruments, offset interest rate–sensitive assets and liabilities, or control duration of the investment and term debt portfolios.
 The following table sets forth potential impacts on the Company’s investment portfolio and term debt, including the effects of any associated derivatives, that would result from a hypothetical increase in relevant interest rates as of September 27, 2025 and September 28, 2024 (dollars in millions):
 
+**Table Context:** The table outlines the potential financial impacts of hypothetical interest rate changes on specific interest rate-sensitive instruments for the years 2024 and 2025. 
+
+Metrics included: Investment Portfolio Fair Value, Term Debt Annual Interest Expense, Hypothetical Interest Rate Increase, Potential Impact, Year 2025 Value, Year 2024 Value.
+
 | Interest RateSensitive Instrument | Hypothetical InterestRate Increase | Potential Impact | 2025 | 2024 |
 |:------------------------------------|:-------------------------------------|:------------------------------------|:--------|:--------|
 | Investment portfolio | 100 basis points, all tenors | Decline in fair value | $2416.0 | $2755.0 |
@@ -623,6 +659,10 @@ The Company applied a value-at-risk (“VAR”) model to its foreign currency de
 Apple Inc. | 2025 Form 10-K | 27
 
 ## Item 8. Financial Statements and Supplementary Data
+
+**Table Context:** The table outlines the various consolidated financial statements included in the SEC 10-K report, detailing the company's financial performance and position over specified periods. 
+
+Metrics included: Consolidated Statements of Operations, Consolidated Statements of Comprehensive Income, Consolidated Balance Sheets, Consolidated Statements of Shareholders’ Equity, Consolidated Statements of Cash Flows, Total Assets, Total Liabilities, Shareholder Equity, Net Income, Operating Expenses, Operating Cash Flow, Gross Margin, Earnings Per Share (EPS), Long-Term Debt, Retained Earnings, Revenue, Cost of Goods Sold, Capital Expenditures.
 
 | Index to Consolidated Financial Statements | Page |
 |:----------------------------------------------------------------------------------------------------------------------------------|-------:|
@@ -642,6 +682,10 @@ Apple Inc. | 2025 Form 10-K | 28
 ### CONSOLIDATED STATEMENTS OF OPERATIONS
 
 (In millions, except number of shares, which are reflected in thousands, and per-share amounts)
+
+**Table Context:** The table summarizes key financial metrics related to the company's sales, costs, expenses, and income over three fiscal years. 
+
+Metrics included: Net sales: Products, Net sales: Services, Total net sales, Cost of sales: Products, Cost of sales: Services, Total cost of sales, Gross margin, Operating expenses: Research and development, Operating expenses: Selling, general and administrative, Total operating expenses, Operating income, Other income/(expense), net, Income before provision for income taxes, Provision for income taxes, Net income, Earnings per share: Basic, Earnings per share: Diluted, Shares used in computing earnings per share: Basic, Shares used in computing earnings per share: Diluted.
 
 | col1 | September 27, 2025 | September 28, 2024 | September 30, 2023 |
 |:--------------------------------------------------------|:---------------------|:---------------------|:---------------------|
@@ -674,6 +718,10 @@ Apple Inc. | 2025 Form 10-K | 29
 
 (In millions)
 
+**Table Context:** The table summarizes the company's net income and other comprehensive income/loss for the fiscal years ending September 27, 2025, September 28, 2024, and September 30, 2023. 
+
+Metrics included: Net Income, Other Comprehensive Income/(Loss), Change in Foreign Currency Translation, Change in Unrealized Gains/Losses on Derivative Instruments, Adjustment for Net (Gains)/Losses Realized and Included in Net Income, Total Change in Unrealized Gains/Losses on Derivative Instruments, Change in Unrealized Gains/Losses on Marketable Debt Securities, Adjustment for Net (Gains)/Losses Realized and Included in Net Income, Total Change in Unrealized Gains/Losses on Marketable Debt Securities, Total Other Comprehensive Income/(Loss), Total Comprehensive Income.
+
 | col1 | September 27, 2025 | September 28, 2024 | September 30, 2023 |
 |:---------------------------------------------------------------------------------------------------------------------------------------------------|:---------------------|:---------------------|:---------------------|
 | Net income | $112010 | $93736 | $96995 |
@@ -695,6 +743,10 @@ Apple Inc. | 2025 Form 10-K | 30
 ### CONSOLIDATED BALANCE SHEETS
 
 (In millions, except number of shares, which are reflected in thousands, and par value)
+
+**Table Context:** The table summarizes the financial position of a company by detailing its assets, liabilities, and shareholders' equity as of two different dates. 
+
+Metrics included: Current assets: Cash and cash equivalents, Current assets: Marketable securities, Current assets: Accounts receivable, net, Current assets: Vendor non-trade receivables, Current assets: Inventories, Current assets: Other current assets, Total current assets, Non-current assets: Marketable securities, Non-current assets: Property, plant and equipment, net, Non-current assets: Other non-current assets, Total non-current assets, Total assets, Current liabilities: Accounts payable, Current liabilities: Other current liabilities, Current liabilities: Deferred revenue, Current liabilities: Commercial paper, Current liabilities: Term debt, Total current liabilities, Non-current liabilities: Term debt, Non-current liabilities: Other non-current liabilities, Total non-current liabilities, Total liabilities, Commitments and contingencies, Shareholders’ equity: Common stock and additional paid-in capital, Shareholders’ equity: Accumulated deficit, Shareholders’ equity: Accumulated other comprehensive loss, Total shareholders’ equity, Total liabilities and shareholders’ equity.
 
 | col1 | September 27, 2025 | September 28, 2024 |
 |:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:---------------------|:---------------------|
@@ -736,6 +788,10 @@ Apple Inc. | 2025 Form 10-K | 31
 
 (In millions, except per-share amounts)
 
+**Table Context:** The table summarizes the changes in shareholders' equity and related components over three fiscal years, detailing the beginning and ending balances, net income, dividends, and other comprehensive income/loss. 
+
+Metrics included: Total Shareholders’ Equity, Common Stock and Additional Paid-in Capital: Beginning Balances, Common Stock and Additional Paid-in Capital: Common Stock Issued, Common Stock and Additional Paid-in Capital: Common Stock Withheld Related to Net Share Settlement of Equity Awards, Common Stock and Additional Paid-in Capital: Share-based Compensation, Common Stock and Additional Paid-in Capital: Ending Balances, Accumulated Deficit: Beginning Balances, Accumulated Deficit: Net Income, Accumulated Deficit: Dividends and Dividend Equivalents Declared, Accumulated Deficit: Common Stock Withheld Related to Net Share Settlement of Equity Awards, Accumulated Deficit: Common Stock Repurchased, Accumulated Deficit: Ending Balances, Accumulated Other Comprehensive Loss: Beginning Balances, Accumulated Other Comprehensive Loss: Other Comprehensive Income/(Loss), Accumulated Other Comprehensive Loss: Ending Balances, Total Shareholders’ Equity: Ending Balances, Dividends and Dividend Equivalents Declared per Share or
+
 | col1 | September 27, 2025 | September 28, 2024 | September 30, 2023 |
 |:--------------------------------------------------------------------------------------------------------------------|:---------------------|:---------------------|:---------------------|
 | Total shareholders’ equity, beginning balances | $56950 | $62146 | $50672 |
@@ -764,6 +820,10 @@ Apple Inc. | 2025 Form 10-K | 32
 ### CONSOLIDATED STATEMENTS OF CASH FLOWS
 
 (In millions)
+
+**Table Context:** The table summarizes the cash flow activities of the company over three fiscal years, detailing cash generated and used in operating, investing, and financing activities.
+
+Metrics included: Cash, cash equivalents, and restricted cash and cash equivalents, beginning balances, Net income, Depreciation and amortization, Share-based compensation expense, Other adjustments, Accounts receivable, net, Vendor non-trade receivables, Inventories, Other current and non-current assets, Accounts payable, Other current and non-current liabilities, Cash generated by operating activities, Purchases of marketable securities, Proceeds from maturities of marketable securities, Proceeds from sales of marketable securities, Payments for acquisition of property, plant and equipment, Other investing activities, Cash generated by investing activities, Payments for taxes related to net share settlement of equity awards, Payments for dividends and dividend equivalents, Repurchases of common stock, Proceeds from issuance of term debt, net, Repayments of term debt, Proceeds from/(Repayments of) commercial paper, net, Other financing activities, Cash used in financing activities, Increase/(Decrease) in cash, cash equivalents, and restricted cash and cash equivalents, Cash, cash equivalents, and restricted cash and cash equivalents, ending balances, Cash
 
 | col1 | September 27, 2025 | September 28, 2024 | September 30, 2023 |
 |:----------------------------------------------------------------------------------------------------------------|:---------------------|:---------------------|:---------------------|
@@ -874,6 +934,10 @@ For the sale of third-party products where the Company obtains control of the pr
 Apple Inc. | 2025 Form 10-K | 35
 The following table shows disaggregated net sales, as well as the portion of total net sales that was previously deferred, for 2025, 2024 and 2023 (in millions):
 
+**Table Context:** The table summarizes the revenue generated from various product categories and total net sales over three fiscal years. 
+
+Metrics included: iPhone Revenue, Mac Revenue, iPad Revenue, Wearables Revenue, Home and Accessories Revenue, Services Revenue, Total Net Sales, Deferred Revenue.
+
 | col1 | 2025 | 2024 | 2023 |
 |:---------------------------------------------------------------------------------------------------|:----------|:----------|:----------|
 | iPhone | $209586.0 | $201183.0 | $200583.0 |
@@ -905,6 +969,10 @@ As of September 27, 2025 and September 28, 2024, the Company had total deferre
 
 The following table shows the computation of basic and diluted earnings per share for 2025, 2024 and 2023 (net income in millions and shares in thousands):
 
+**Table Context:** The table summarizes key earnings metrics, specifically focusing on net income and earnings per share calculations over three fiscal years. 
+
+Metrics included: Net Income, Weighted-average Basic Shares Outstanding, Effect of Dilutive Share-based Awards, Weighted-average Diluted Shares, Basic Earnings Per Share, Diluted Earnings Per Share
+
 | col1 | 2025 | 2024 | 2023 |
 |:-------------------------------------------------------|:----------|:---------|:---------|
 | Numerator: Net income | $112010.0 | $93736.0 | $96995.0 |
@@ -925,6 +993,10 @@ Apple Inc. | 2025 Form 10-K | 36
 
 The following tables show the Company’s cash, cash equivalents and marketable securities by significant investment category as of September 27, 2025 and September 28, 2024 (in millions):
 
+**Table Context:** The table summarizes the financial position of a company by detailing its cash and cash equivalents, marketable securities, and their fair values as of 2025. 
+
+Metrics included: Total Assets, Cash and Cash Equivalents, Current Marketable Securities, Non-Current Marketable Securities, Level 1: Money Market Funds, Level 1: Mutual Funds, Level 1: Subtotal, Level 2: U.S. Treasury Securities, Level 2: U.S. Agency Securities, Level 2: Non-U.S. Government Securities, Level 2: Certificates of Deposit and Time Deposits, Level 2: Commercial Paper, Level 2: Corporate Debt Securities, Level 2: Municipal Securities, Level 2: Mortgage- and Asset-Backed Securities, Level 2: Subtotal, Total, Unrealized Gains, Unrealized Losses, Fair Value.
+
 | col1 | 2025 | 2025 | 2025 | 2025 | 2025 | 2025 | 2025 |
 |:-------------------------------------------------------|:--------------|:-----------------|:------------------|:-----------|:--------------------------|:------------------------------|:----------------------------------|
 | nan | Adjusted Cost | Unrealized Gains | Unrealized Losses | Fair Value | Cash and Cash Equivalents | Current Marketable Securities | Non-Current Marketable Securities |
@@ -942,6 +1014,10 @@ The following tables show the Company’s cash, cash equivalents and marketable 
 | Level 2 (1): Mortgage- and asset-backed securities | 24130 | 126 | (1,252) | 23004 | — | 94 | 22910 |
 | Level 2 (1): Subtotal | 100493 | 559 | (3,025) | 98027 | 2395 | 17909 | 77723 |
 | Total | $134711 | $736 | $(3,027) | $132420 | $35934 | $18763 | $77723 |
+
+**Table Context:** The table summarizes the financial assets and their fair values, including various categories of marketable securities and their unrealized gains and losses. 
+
+Metrics included: Cash, Adjusted Cost, Unrealized Gains, Unrealized Losses, Fair Value, Cash and Cash Equivalents, Current Marketable Securities, Non-Current Marketable Securities, Level 1: Money market funds, Level 1: Mutual funds, Level 1: Subtotal, Level 2 (1): U.S. Treasury securities, Level 2 (1): U.S. agency securities, Level 2 (1): Non-U.S. government securities, Level 2 (1): Certificates of deposit and time deposits, Level 2 (1): Commercial paper, Level 2 (1): Corporate debt securities, Level 2 (1): Municipal securities, Level 2 (1): Mortgage- and asset-backed securities, Level 2 (1): Subtotal, Total (2)(3).
 
 | col1 | 2024 | 2024 | 2024 | 2024 | 2024 | 2024 | 2024 |
 |:-------------------------------------------------------|:--------------|:-----------------|:------------------|:-----------|:--------------------------|:------------------------------|:----------------------------------|
@@ -1008,6 +1084,10 @@ To protect the Company’s term debt or marketable securities from fluctuations 
 Apple Inc. | 2025 Form 10-K | 38
 The notional amounts of the Company’s outstanding derivative instruments as of September 27, 2025 and September 28, 2024, were as follows (in millions):
 
+**Table Context:** The table summarizes the values of various derivative instruments designated and not designated as accounting hedges for the years 2025 and 2024. 
+
+Metrics included: Derivative instruments designated as accounting hedges: Foreign exchange contracts, Derivative instruments designated as accounting hedges: Interest rate contracts, Derivative instruments not designated as accounting hedges: Foreign exchange contracts.
+
 | col1 | 2025 | 2024 |
 |:---------------------------------------------------------------------------------------|:----------|:---------|
 | Derivative instruments designated as accounting hedges: Foreign exchange contracts | $62647.0 | $64069.0 |
@@ -1053,6 +1133,10 @@ two
 
 The following table shows the Company’s gross property, plant and equipment by major asset class and accumulated depreciation as of September 27, 2025 and September 28, 2024 (in millions):
 
+**Table Context:** The table provides a summary of the company's property, plant, and equipment assets over two fiscal years. 
+
+Metrics included: Land and buildings, Machinery, equipment and internal-use software, Leasehold improvements, Gross property, plant and equipment, Accumulated depreciation, Total property, plant and equipment, net.
+
 | col1 | 2025 | 2024 |
 |:-----------------------------------------------|:---------|:---------|
 | Land and buildings | $27337 | $24690 |
@@ -1077,6 +1161,10 @@ The following tables show the Company’s consolidated financial statement detai
 
 ### Other Non-Current Assets
 
+**Table Context:** The table summarizes the changes in various non-current asset categories over the fiscal years 2024 and 2025. 
+
+Metrics included: Deferred Tax Assets, Other Non-Current Assets, Total Other Non-Current Assets
+
 | col1 | 2025 | 2024 |
 |:-------------------------------|:---------|:---------|
 | Deferred tax assets | $20777.0 | $19499.0 |
@@ -1084,6 +1172,10 @@ The following tables show the Company’s consolidated financial statement detai
 | Total other non-current assets | $83727.0 | $74834.0 |
 
 ### Other Current Liabilities
+
+**Table Context:** The table summarizes various current liabilities reported in the SEC 10-K financial statements for the years 2024 and 2025. 
+
+Metrics included: Income Taxes Payable, Accrued Distribution and Marketing, Other Current Liabilities, Total Other Current Liabilities.
 
 | col1 | 2025 | 2024 |
 |:-----------------------------------|:---------|:---------|
@@ -1113,6 +1205,10 @@ The Company and Ireland appealed the State Aid Decision to the General Court of 
 
 The provision for income taxes for 2025, 2024 and 2023, consisted of the following (in millions):
 
+**Table Context:** The table summarizes the income tax provisions across different categories for the years 2023 to 2025. 
+
+Metrics included: Federal Current, Federal Deferred, Federal Total, State Current, State Deferred, State Total, Foreign Current, Foreign Deferred, Foreign Total, Provision for Income Taxes
+
 | col1 | 2025 | 2024 | 2023 |
 |:---------------------------|:--------|:--------|:--------|
 | Federal: Current | $11487 | $5571 | $9445 |
@@ -1138,6 +1234,10 @@ A reconciliation of the provision for income taxes to the amount computed by app
 21
 % in 2025, 2024 and 2023) to income before provision for income taxes for 2025, 2024 and 2023 is as follows (dollars in millions):
 
+**Table Context:** The table summarizes various tax-related financial metrics and adjustments impacting the company's earnings over three fiscal years. 
+
+Metrics included: Computed expected tax, Earnings of foreign subsidiaries, Change in valuation allowance, Research and development credit, net, Impact of the State Aid Decision, Other, Provision for income taxes, Effective tax rate.
+
 | col1 | 2025 | 2024 | 2023 |
 |:-------------------------------------|:--------|:--------|:--------|
 | Computed expected tax | $27873 | $25932 | $23885 |
@@ -1152,6 +1252,10 @@ A reconciliation of the provision for income taxes to the amount computed by app
 ### Deferred Tax Assets and Liabilities
 
 As of September 27, 2025 and September 28, 2024, the significant components of the Company’s deferred tax assets and liabilities were as follows (in millions):
+
+**Table Context:** The table summarizes the company's deferred tax assets and liabilities, providing insights into their financial position regarding tax-related items over two fiscal years. 
+
+Metrics included: Deferred tax assets: Capitalized research and development, Deferred tax assets: Tax credit carryforwards, Deferred tax assets: Accrued liabilities and other reserves, Deferred tax assets: Deferred revenue, Deferred tax assets: Lease liabilities, Deferred tax assets: Other, Total deferred tax assets, Valuation allowance, Total deferred tax assets, net, Deferred tax liabilities: Depreciation, Deferred tax liabilities: Right-of-use assets, Deferred tax liabilities: Minimum tax on foreign earnings, Deferred tax liabilities: Other, Total deferred tax liabilities, Net deferred tax assets.
 
 | col1 | 2025 | 2024 |
 |:------------------------------------------------------------|:---------|:--------|
@@ -1190,6 +1294,10 @@ As of September 27, 2025, the total amount of gross unrecognized tax benefits w
 10.8
  billion, if recognized, would have impacted the Company’s effective tax rate.
 The aggregate change in the balance of gross unrecognized tax benefits, which excludes interest and penalties, for 2025, 2024 and 2023 is as follows (in millions):
+
+**Table Context:** The table summarizes the changes in tax positions over three fiscal years, detailing the beginning and ending balances along with various increases and decreases related to tax positions. 
+
+Metrics included: Beginning Balances, Increases Related to Tax Positions Taken During a Prior Year, Decreases Related to Tax Positions Taken During a Prior Year, Increases Related to Tax Positions Taken During the Current Year, Decreases Related to Settlements with Taxing Authorities, Decreases Related to Expiration of the Statute of Limitations, Ending Balances.
 
 | col1 | 2025 | 2024 | 2023 |
 |:-----------------------------------------------------------------|:--------|:--------|:--------|
@@ -1237,6 +1345,10 @@ The Company made fixed cash payments related to operating leases of $
  billion for 2025, 2024 and 2023, respectively.
 The following table shows ROU assets and lease liabilities, and the associated financial statement line items, as of September 27, 2025 and September 28, 2024 (in millions):
 
+**Table Context:** The table summarizes the lease-related assets and liabilities of a company, detailing the financial statement line items associated with operating and finance leases for the years 2024 and 2025. 
+
+Metrics included: Right-of-use assets, Operating leases, Finance leases, Total right-of-use assets, Lease liabilities, Operating leases, Other current liabilities, Other non-current liabilities, Total lease liabilities.
+
 | Lease-Related Assets and Liabilities | Financial Statement Line Items | 2025 | 2024 |
 |:---------------------------------------|:-----------------------------------|:---------|:---------|
 | Right-of-use assets: Operating leases | Other non-current assets | $11205.0 | $10234.0 |
@@ -1250,6 +1362,10 @@ The following table shows ROU assets and lease liabilities, and the associated f
 
 Apple Inc. | 2025 Form 10-K | 42
 Lease liability maturities as of September 27, 2025, are as follows (in millions):
+
+**Table Context:** The table summarizes the future lease obligations of a company, detailing both operating and finance leases over several years, along with total undiscounted liabilities and total lease liabilities. 
+
+Metrics included: Operating Leases, Finance Leases, Total Lease Obligations, Total Undiscounted Liabilities, Imputed Interest, Total Lease Liabilities
 
 | col1 | Operating Leases | Finance Leases | Total |
 |:-------------------------------|:-------------------|:-----------------|:--------|
@@ -1298,6 +1414,10 @@ nine months
 % as of September 27, 2025 and September 28, 2024, respectively. 
 The following table provides a summary of cash flows associated with commercial paper for 2025, 2024 and 2023 (in millions):
 
+**Table Context:** The table summarizes the cash flows related to commercial paper transactions over three fiscal years. 
+
+Metrics included: Proceeds from commercial paper, Repayments of commercial paper, Total proceeds from/(repayments of) commercial paper, Maturities 90 days or less, Maturities greater than 90 days.
+
 | col1 | 2025 | 2024 | 2023 |
 |:-------------------------------------------------------------------------------------|:---------|:-------|:---------|
 | Maturities 90 days or less: Proceeds from/(Repayments of) commercial paper, net | $(5,820) | $3960 | $(1,333) |
@@ -1312,6 +1432,10 @@ Apple Inc. | 2025 Form 10-K | 43
 
 The Company has outstanding Notes, which are senior unsecured obligations with interest payable in arrears. 
 The following table provides a summary of the Company’s term debt as of September 27, 2025 and September 28, 2024:
+
+**Table Context:** The table summarizes the company's debt maturities and related financial metrics over different calendar years. 
+
+Metrics included: Total Term Debt Principal, Unamortized Premium/(Discount) and Issuance Costs, Hedge Accounting Fair Value Adjustments, Total Term Debt, Current Portion of Term Debt, Non-Current Portion of Term Debt, Effective Interest Rate, Debt Issuances, Fixed-Rate Notes.
 
 | col1 | Maturities(calendar year) | 2025 | 2025 | 2024 | 2024 |
 |:-------------------------------------------------------------|:----------------------------|:--------------------|:------------------------|:--------------------|:------------------------|
@@ -1328,6 +1452,10 @@ The following table provides a summary of the Company’s term debt as of Septem
 To manage interest rate risk on certain of its U.S. dollar–denominated fixed-rate notes, the Company uses interest rate swaps to effectively convert the fixed interest rates to floating interest rates on a portion of these notes. Additionally, to manage foreign exchange rate risk on certain of its foreign currency–denominated notes, the Company uses cross-currency swaps to effectively convert these notes to U.S. dollar–denominated notes.
 The effective interest rates for the Notes include the interest on the Notes, amortization of the discount or premium and, if applicable, adjustments related to hedging.
 The future principal payments for the Company’s Notes as of September 27, 2025, are as follows (in millions):
+
+**Table Context:** The table summarizes projected financial figures related to term debt principal over a series of years. 
+
+Metrics included: Total Term Debt Principal, 2026, 2027, 2028, 2029, 2030, Thereafter
 
 | 2026 | $ |
 |:--------------------------|:---------|
@@ -1359,6 +1487,10 @@ Apple Inc. | 2025 Form 10-K | 44
 
 The following table shows the changes in shares of common stock for 2025, 2024 and 2023 (in thousands):
 
+**Table Context:** The table summarizes the changes in common stock outstanding for a company over three fiscal years. 
+
+Metrics included: Common stock outstanding, beginning balances, Common stock repurchased, Common stock issued, net of shares withheld for employee taxes, Common stock outstanding, ending balances.
+
 | col1 | 2025 | 2024 | 2023 |
 |:---------------------------------------------------------------|:----------|:----------|:----------|
 | Common stock outstanding, beginning balances | 15116786 | 15550061 | 15943425 |
@@ -1381,6 +1513,10 @@ one
 ### Restricted Stock Units
 
 A summary of the Company’s RSU activity and related information for 2025 is as follows:
+
+**Table Context:** The table provides an overview of Restricted Stock Units (RSUs) granted, vested, forfeited, and the balance of RSUs over two fiscal years, along with their weighted-average grant-date fair value. 
+
+Metrics included: Number of RSUs, Balance as of September 28, 2024, RSUs granted, RSUs vested, RSUs forfeited, Balance as of September 27, 2025, Weighted-Average Grant-Date Fair Value Per RSU.
 
 | col1 | Number ofRSUs(in thousands) | Weighted-AverageGrant-Date FairValue Per RSU |
 |:---------------------------------|:------------------------------|:-----------------------------------------------|
@@ -1412,6 +1548,10 @@ The total vesting-date fair value of RSUs was $
 
 The following table shows share-based compensation expense and the related income tax benefit included in the Consolidated Statements of Operations for 2025, 2024 and 2023 (in millions):
 
+**Table Context:** The table summarizes the share-based compensation expenses and related income tax benefits over three fiscal years. 
+
+Metrics included: Share-based compensation expense, Income tax benefit related to share-based compensation expense
+
 | col1 | 2025 | 2024 | 2023 |
 |:---------------------------------------------------------------|:---------|:---------|:---------|
 | Share-based compensation expense | $12863 | $11688 | $10833 |
@@ -1430,6 +1570,10 @@ Apple Inc. | 2025 Form 10-K | 45
 
 The Company has entered into certain off–balance sheet commitments that require the future purchase of goods or services (“unconditional purchase obligations”). The Company’s unconditional purchase obligations primarily consist of supplier arrangements, licensed intellectual property and content, and distribution rights. 
 Future payments under unconditional purchase obligations with a remaining term in excess of one year as of September 27, 2025, are as follows (in millions):
+
+**Table Context:** The table summarizes projected financial figures over a series of years, culminating in a total amount. 
+
+Metrics included: Total Assets, Total Liabilities, Shareholder Equity, Revenue, Net Income, Operating Expenses, Operating Cash Flow, Gross Margin, Earnings Per Share (EPS), Long-Term Debt, Retained Earnings, Cost of Goods Sold, Capital Expenditures.
 
 | 2026 | $ |
 |:-----------|:---------|
@@ -1458,6 +1602,10 @@ The Company’s reportable segments consist of the Americas, Europe, Greater Chi
 The CODM uses segment net sales and operating income information to make certain decisions, such as product and service pricing, and to decide how to allocate resources related to sales activities and marketing investments. Net sales for geographic segments are generally based on the location of customers and sales through the Company’s retail stores located in those geographic locations. Operating income for each segment consists of net sales to third parties, related cost of sales, and operating expenses directly attributable to the segment. The information provided to the CODM for purposes of making decisions and assessing segment performance excludes asset information.
 The following tables show information by reportable segment for 2025, 2024 and 2023 (in millions):
 
+**Table Context:** The table summarizes the financial performance of a company across different geographic regions for the year 2025, detailing revenues, costs, and operating income. 
+
+Metrics included: Net Sales, Cost of Sales, Research and Development Expenses, Selling and Marketing Expenses, General and Administrative Expenses, Operating Income/Loss, Total Revenue, Total Costs, Total Operating Expenses.
+
 | col1 | 2025 | 2025 | 2025 | 2025 | 2025 | 2025 | 2025 |
 |:---------------------------|:---------|:---------|:-------------|:---------|:---------------------|:----------|:----------|
 | nan | Americas | Europe | GreaterChina | Japan | Rest of Asia Pacific | Corporate | Total |
@@ -1468,6 +1616,10 @@ The following tables show information by reportable segment for 2025, 2024 and 2
 | General and administrative | — | — | — | — | — | (8,077) | (8,077) |
 | Operating income/(loss) | $72480 | $47739 | $26917 | $13955 | $14586 | $(42,627) | $133050 |
 
+**Table Context:** The table summarizes the financial performance of a company across different regions for the year 2024, detailing revenues, costs, and operating income. 
+
+Metrics included: Net Sales, Cost of Sales, Research and Development, Selling and Marketing, General and Administrative Expenses, Operating Income/Loss, Total Revenue, Total Expenses, Gross Profit, Operating Expenses, and Regional Revenue Breakdown.
+
 | col1 | 2024 | 2024 | 2024 | 2024 | 2024 | 2024 | 2024 |
 |:---------------------------|:---------|:---------|:-------------|:---------|:---------------------|:----------|:----------|
 | nan | Americas | Europe | GreaterChina | Japan | Rest of Asia Pacific | Corporate | Total |
@@ -1477,6 +1629,10 @@ The following tables show information by reportable segment for 2025, 2024 and 2
 | Selling and marketing | (9,802) | (4,341) | (2,351) | (854) | (1,291) | — | (18,639) |
 | General and administrative | — | — | — | — | — | (7,458) | (7,458) |
 | Operating income/(loss) | $67656 | $41790 | $27082 | $12454 | $13062 | $(38,828) | $123216 |
+
+**Table Context:** The table summarizes the financial performance of a company across different regions for the year 2023, detailing revenues, costs, and operating income. 
+
+Metrics included: Net Sales, Cost of Sales, Research and Development Expenses, Selling and Marketing Expenses, General and Administrative Expenses, Operating Income/Loss, Total Revenue, Total Expenses, Gross Profit, Operating Expenses.
 
 | col1 | 2023 | 2023 | 2023 | 2023 | 2023 | 2023 | 2023 |
 |:---------------------------|:---------|:---------|:-------------|:---------|:---------------------|:----------|:----------|
@@ -1491,12 +1647,20 @@ The following tables show information by reportable segment for 2025, 2024 and 2
 Apple Inc. | 2025 Form 10-K | 47
 The following tables show net sales for 2025, 2024 and 2023 and long-lived assets as of September 27, 2025 and September 28, 2024 for countries that individually accounted for 10% or more of the respective totals, as well as aggregate amounts for the remaining countries (in millions):
 
+**Table Context:** The table summarizes the net sales figures for a company across different regions over three fiscal years. 
+
+Metrics included: Net Sales: U.S., Net Sales: China, Net Sales: Other Countries, Total Net Sales
+
 | col1 | 2025 | 2024 | 2023 |
 |:---------------------------|:----------|:----------|:----------|
 | Net sales: U.S. | $151790.0 | $142196.0 | $138573.0 |
 | Net sales: China (1) | 64377 | 66952 | 72559 |
 | Net sales: Other countries | 199994 | 181887 | 172153 |
 | Total net sales | $416161.0 | $391035.0 | $383285.0 |
+
+**Table Context:** The table summarizes the long-lived assets of a company across different geographic regions for the years 2025 and 2024. 
+
+Metrics included: Long-lived assets: U.S., Long-lived assets: China, Long-lived assets: Other countries, Total long-lived assets
 
 | col1 | 2025 | 2024 |
 |:-----------------------------------|:---------|:---------|
@@ -1529,9 +1693,17 @@ We conducted our audits in accordance with the standards of the PCAOB. Those sta
 
 The critical audit matter communicated below is a matter arising from the current period audit of the financial statements that was communicated or required to be communicated to the audit committee and that: (1) relates to accounts or disclosures that are material to the financial statements and (2) involved our especially challenging, subjective, or complex judgments. The communication of the critical audit matter does not alter in any way our opinion on the financial statements, taken as a whole, and we are not, by communicating the critical audit matter below, providing a separate opinion on the critical audit matter or on the account or disclosure to which it relates.
 
+**Table Context:** The table provides information regarding the company's uncertain tax positions and their potential impact on financial statements and effective tax rates. 
+
+Metrics included: Unrecognized Tax Benefits, Effective Tax Rate, Income Taxes, GAAP Compliance, Domestic Tax Laws, International Tax Laws.
+
 Uncertain Tax Positions | Description of the Matter | As discussed in Note 7 to the financial statements, the Company is subject to income taxes in the U.S. and numerous foreign jurisdictions. As of September 27, 2025, the total amount of gross unrecognized tax benefits was $23.2 billion, of which $10.6 billion, if recognized, would impact the Company’s effective tax rate. In accounting for some of the uncertain tax positions, the Company uses significant judgment in the interpretation and application of GAAP and complex domestic and international tax laws. | Auditing management’s evaluation of whether an uncertain tax position is more likely than not to be sustained and the measurement of the benefit of various tax positions can be complex, involves significant judgment, and is based on interpretations of tax laws.
 
 Apple Inc. | 2025 Form 10-K | 49
+
+**Table Context:** The table outlines the audit procedures and evaluations conducted regarding the company's uncertain tax positions and related disclosures. 
+
+Metrics included: Total Assets, Total Liabilities, Shareholder Equity, Net Income, Operating Expenses, Operating Cash Flow, Gross Margin, Earnings Per Share (EPS), Long-Term Debt, Retained Earnings, Revenue, Cost of Goods Sold, Capital Expenditures.
 
 How We Addressed the | Matter in Our Audit | We tested controls relating to the evaluation of uncertain tax positions, including controls over management’s assessment as to whether tax positions are more likely than not to be sustained, management’s process to measure the benefit of its tax positions that qualify for recognition, and the related disclosures. | We evaluated the Company’s assessment of which tax positions are more likely than not to be sustained and the related measurement of the amount of tax benefit that qualifies for recognition. Our audit procedures included, among others, reading and evaluating management’s assumptions and analysis, and, as applicable, the Company’s communications with taxing authorities, that detailed the basis and technical merits of the uncertain tax positions. We involved our tax subject matter resources in assessing the technical merits of certain of the Company’s tax positions based on our knowledge of relevant tax laws and experience with related taxing authorities. In addition, we evaluated the Company’s disclosure in relation to these matters included in Note 7 to the financial statements.
 
@@ -1642,6 +1814,10 @@ Documents filed as part of this report
 (1)
 All financial statements
 
+**Table Context:** The table outlines the various consolidated financial statements and their respective pages in the SEC 10-K report, providing a comprehensive overview of the company's financial performance and position over multiple years. 
+
+Metrics included: Consolidated Statements of Operations, Consolidated Statements of Comprehensive Income, Consolidated Balance Sheets, Consolidated Statements of Shareholders’ Equity, Consolidated Statements of Cash Flows, Total Assets, Total Liabilities, Shareholder Equity, Net Income, Operating Expenses, Operating Cash Flow, Gross Margin, Earnings Per Share (EPS), Long-Term Debt, Retained Earnings, Revenue, Cost of Goods Sold, Capital Expenditures.
+
 | Index to Consolidated Financial Statements | Page |
 |:----------------------------------------------------------------------------------------------------------------------------------|-------:|
 | Consolidated Statements of Operations for the years ended September 27, 2025, September 28, 2024 and September 30, 2023 | 29 |
@@ -1663,6 +1839,10 @@ All financial statement schedules have been omitted, since the required informat
 Exhibits required by Item 601 of Regulation S-K 
 (1)
 
+**Table Context:** The table provides a list of exhibits related to the Registrant's corporate documents and securities filings. 
+
+Metrics included: Total Assets, Net Income, Total Liabilities, Operating Expenses, Shareholder Equity, Operating Cash Flow, Gross Margin, Earnings Per Share (EPS), Long-Term Debt, Retained Earnings, Revenue, Cost of Goods Sold, Capital Expenditures.
+
 | Exhibit Number | Exhibit Description | Form | Exhibit | Filing Date/ Period End Date |
 |:-----------------|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:-------|----------:|:-------------------------------|
 | 3.1 | Restated Articles of Incorporation of the Registrant filed on August 3, 2020. | 8-K | 3.1 | 8/7/20 |
@@ -1677,6 +1857,10 @@ Exhibits required by Item 601 of Regulation S-K 
 | 4.8 | Officer’s Certificate of the Registrant, dated as of July 31, 2015, including forms of global notes representing the 3.05% Notes due 2029 and 3.60% Notes due 2042. | 8-K | 4.1 | 7/31/15 |
 
 Apple Inc. | 2025 Form 10-K | 54
+
+**Table Context:** The table provides a list of various officer's certificates related to global notes issued by the registrant, detailing their respective dates and descriptions. 
+
+Metrics included: Officer’s Certificate, Global Notes, Notes due 2024, Notes due 2027, Floating Rate Notes, Notes due 2019, Notes due 2021, Notes due 2018, Notes due 2026, Notes due 2036, Notes due 2046, Notes due 2020, Notes due 2022, Notes due 2025, Notes due 2029, Notes due 2031, Notes due 2030, Notes due 2049, Notes due 2050, Notes due 2060, Indenture, Trustee.
 
 | Exhibit Number | Exhibit Description | Form | Exhibit | Filing Date/ Period End Date |
 |-----------------:|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:-------|----------:|:-------------------------------|
@@ -1699,6 +1883,10 @@ Apple Inc. | 2025 Form 10-K | 54
 | 4.25 | Officer’s Certificate of the Registrant, dated as of August 5, 2021, including forms of global notes representing the 1.400% Notes due 2028, 1.700% Notes due 2031, 2.700% Notes due 2051 and 2.850% Notes due 2061. | 8-K | 4.1 | 8/5/21 |
 
 Apple Inc. | 2025 Form 10-K | 55
+
+**Table Context:** The table provides a list of various exhibits and documents filed by the Registrant with the SEC, detailing their descriptions, forms, and filing dates. 
+
+Metrics included: Total Assets, Net Income, Total Liabilities, Operating Expenses, Shareholder Equity, Operating Cash Flow, Gross Margin, Earnings Per Share (EPS), Long-Term Debt, Retained Earnings, Revenue, Cost of Goods Sold, Capital Expenditures.
 
 | Exhibit Number | Exhibit Description | Form | Exhibit | Filing Date/ Period End Date |
 |:-----------------|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:-------|----------:|:-------------------------------|
@@ -1733,6 +1921,10 @@ Apple Inc. | 2025 Form 10-K | 55
 
 Apple Inc. | 2025 Form 10-K | 56
 
+**Table Context:** The table provides information about the exhibits related to the consolidated financial statements included in the SEC 10-K report. 
+
+Metrics included: Total Assets, Net Income, Total Liabilities, Operating Expenses, Shareholder Equity, Operating Cash Flow, Gross Margin, Earnings Per Share (EPS), Long-Term Debt, Retained Earnings, Revenue, Cost of Goods Sold, Capital Expenditures.
+
 | Exhibit Number | Exhibit Description |
 |:-----------------|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | 101** | Inline XBRL Document Set for the consolidated financial statements and accompanying notes in Part II, Item 8, “Financial Statements and Supplementary Data” of this Annual Report on Form 10-K. |
@@ -1760,6 +1952,10 @@ Pursuant to the requirements of Section 13 or 15(d) of the Securities Exchange A
 
 KNOW ALL PERSONS BY THESE PRESENTS, that each person whose signature appears below constitutes and appoints Timothy D. Cook and Kevan Parekh, jointly and severally, his or her attorneys-in-fact, each with the power of substitution, for him or her in any and all capacities, to sign any amendments to this Annual Report on Form 10-K, and to file the same, with exhibits thereto and other documents in connection therewith, with the Securities and Exchange Commission, hereby ratifying and confirming all that each of said attorneys-in-fact, or his substitute or substitutes, may do or cause to be done by virtue hereof.
 Pursuant to the requirements of the Securities Exchange Act of 1934, this report has been signed below by the following persons on behalf of the Registrant and in the capacities and on the dates indicated:
+
+**Table Context:** The table lists the names and titles of key executives and directors of a company, along with the date of their signatures, as part of the company's SEC 10-K filing. 
+
+Metrics included: Total Assets, Net Income, Total Liabilities, Operating Expenses, Shareholder Equity, Operating Cash Flow, Gross Margin, Earnings Per Share (EPS), Long-Term Debt, Retained Earnings, Revenue, Cost of Goods Sold, Capital Expenditures.
 
 | Name | Title | Date |
 |:-----------------------|:-----------------------------------------------------------------------------|:-----------------|

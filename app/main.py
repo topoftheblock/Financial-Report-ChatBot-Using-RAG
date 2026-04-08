@@ -48,8 +48,14 @@ if prompt := st.chat_input("Ask about Boeing's Net Income or Apple's risks..."):
                 
                 final_answer = response.get("output", "Analysis complete.")
                 
-                # ESCAPE DOLLAR SIGNS: Prevent Streamlit from rendering math/LaTeX equations
+                # 1. ESCAPE DOLLAR SIGNS: Prevent currency from triggering inline math
                 final_answer = final_answer.replace("$", r"\$")
+                
+                # 2. CONVERT LATEX MATH BLOCKS: Change \[ \] to $$ $$ so Streamlit renders them as UI math equations
+                final_answer = final_answer.replace(r"\[", "$$").replace(r"\]", "$$")
+                
+                # (Optional) If your agent also outputs inline math like \( ... \), you can convert them to $
+                final_answer = final_answer.replace(r"\(", "$").replace(r"\)", "$")
                 
                 agent_steps = response.get("intermediate_steps", [])
                 

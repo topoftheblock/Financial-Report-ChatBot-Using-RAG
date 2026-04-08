@@ -33,6 +33,10 @@ property rights in the aggregate are important to the operation of each of our b
 As of December 31, 2024, Boeing’s total workforce was approximately 172,000 with 15% located outside of the U.S. As of December 31, 2024, our global workforce was comprised of approximately 24% women, and our U.S. workforce was comprised of 39% racial and ethnic minorities and 14% U.S. veterans.
 As of December 31, 2024, our workforce included approximately 58,000 union members. Our principal collective bargaining agreements and their current status are summarized in the following table:
 
+**Table Context:** The table summarizes the representation of various unions within the workforce and the status of major agreements with those unions. 
+
+Metrics included: Percent of Total Workforce Represented, Status of Major Agreements, Expiration Dates of Agreements.
+
 | Union | Percent of our Total Workforce Represented | Status of Major Agreements with Union |
 |:-------------------------------------------------------------------------------------|:---------------------------------------------|:----------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | The International Association of Machinists and Aerospace Workers (IAM) | 21% | We have two major agreements; one with IAM District 837 (Missouri) expiring in July 2025 and one with IAM District 751 (Washington) expiring in September 2028. |
@@ -300,6 +304,10 @@ The Council meets monthly and updates key members of the Company’s Executive C
 
 We had approximately 94 million square feet of floor space on December 31, 2024 for manufacturing, warehousing, engineering, administration and other productive uses, of which approximately 86% was located in the United States. The following table provides a summary of the floor space by business as of December 31, 2024:
 
+**Table Context:** The table provides a breakdown of square footage for various categories of owned, leased, and government-owned properties related to commercial operations. 
+
+Metrics included: Owned Square Feet, Leased Square Feet, Government Owned Square Feet, Total Square Feet, Commercial Airplanes Square Feet, Defense Space & Security Square Feet, Global Services Square Feet, Other Square Feet, Total Owned Square Feet, Total Leased Square Feet, Total Government Owned Square Feet.
+
 | (Square feet in thousands) | Owned | Leased | Government Owned | Total |
 |:-----------------------------|--------:|---------:|-------------------:|--------:|
 | Commercial Airplanes | 40073 | 11011 | nan | 51084 |
@@ -339,6 +347,10 @@ The principal market for our common stock is the New York Stock Exchange where i
 
 The following table provides information about purchases we made during the quarter ended December 31, 2024, of our common stock, which is registered by us pursuant to Section 12 of the Exchange Act:
 (Dollars in millions, except per share data)
+
+**Table Context:** The table summarizes the share repurchase activity of a company over specific periods, detailing the number of shares purchased and the average price paid per share. 
+
+Metrics included: Total Number of Shares Purchased, Average Price Paid per Share, Total Number of Shares Purchased as Part of Publicly Announced Plans or Programs, Approximate Dollar Value of Shares That May Yet be Purchased Under the Plans or Programs.
 
 | col1 | (a) | (b) | (c) | (d) |
 |:--------------------------|:-----------------------------------|:-----------------------------|:---------------------------------------------------------------------------------|:---------------------------------------------------------------------------------------|
@@ -380,6 +392,10 @@ At BGS, we expect commercial revenues to remain strong in future quarters as the
 
 The following table summarizes key indicators of consolidated results of operations:
 
+**Table Context:** The table summarizes key financial performance metrics for a company over three fiscal years, highlighting revenues, losses, margins, and earnings per share. 
+
+Metrics included: Revenues, GAAP Loss from operations, Operating margins, Effective income tax rate, Net loss attributable to Boeing shareholders, Diluted loss per share, Non-GAAP Core operating loss, Core operating margins, Core loss per share.
+
 | (Dollars in millions, except per share data) | col1 | col4 | col7 |
 |:-----------------------------------------------|:----------|:---------|:---------|
 | Years ended December 31, | 2024 | 2023 | 2022 |
@@ -400,6 +416,10 @@ These measures exclude certain components of pension and other postretirement be
 
 The following table summarizes Revenues:
 
+**Table Context:** The table summarizes the revenue contributions from different business segments of a company over three fiscal years. 
+
+Metrics included: Commercial Airplanes Revenue, Defense Space & Security Revenue, Global Services Revenue, Unallocated Items, Eliminations and Other, Total Revenue
+
 | (Dollars in millions) | col1 | col4 | col7 |
 |:------------------------------------------|:--------|:--------|:--------|
 | Years ended December 31, | 2024 | 2023 | 2022 |
@@ -416,6 +436,10 @@ We expect that revenues will continue to be significantly impacted until deliver
 ### Loss From Operations
 
 The following table summarizes Loss from operations:
+
+**Table Context:** The table summarizes the financial performance of different segments of a company over three years, highlighting operating losses and adjustments related to pension and postretirement costs. 
+
+Metrics included: Commercial Airplanes, Defense, Space & Security, Global Services, Segment Operating Loss, Unallocated Items, Eliminations and Other, Pension FAS/CAS Service Cost Adjustment, Postretirement FAS/CAS Service Cost Adjustment, Loss from Operations (GAAP), FAS/CAS Service Cost Adjustment, Core Operating Loss (Non-GAAP)
 
 | (Dollars in millions) | col1 | col4 | col7 |
 |:-----------------------------------------------|:----------|:---------|:---------|
@@ -443,6 +467,10 @@ Core operating loss increased by $9,982 million in 2024 compared with 2023 and d
 
 The most significant items included in Unallocated items, eliminations and other (expense)/income are shown in the following table:
 
+**Table Context:** The table summarizes various financial line items related to share-based plans, deferred compensation, amortization, and research and development expenses over three fiscal years. 
+
+Metrics included: Share-based plans, Deferred compensation, Amortization of previously capitalized interest, Research and development expense, Eliminations and other unallocated items, Unallocated items, eliminations and other.
+
 | (Dollars in millions) | col1 | col4 | col7 |
 |:------------------------------------------------|:---------|:---------|:---------|
 | Years ended December 31, | 2024 | 2023 | 2022 |
@@ -459,6 +487,10 @@ Research and development expense increased by $62 million in 2024 and $37 millio
 Eliminations and other unallocated items expense increased by $411 million in 2024 primarily due to a second quarter earnings charge of $244 million that reflects a fine that would be paid if an agreement with the U.S. Department of Justice is approved by the federal district court. Eliminations and other unallocated items was largely unchanged in 2023 compared to 2022. 
 Net periodic pension benefit costs included in Loss from operations were as follows:
 
+**Table Context:** The table summarizes the pension-related costs and adjustments allocated to business segments over three fiscal years. 
+
+Metrics included: Allocated to business segments, Pension FAS/CAS service cost adjustment, Net periodic pension benefit cost included in Loss from operations
+
 | (Dollars in millions) | Pension | Pension | Pension |
 |:-------------------------------------------------------------------|:----------|:----------|:----------|
 | Years ended December 31, | 2024 | 2023 | 2022 |
@@ -470,6 +502,10 @@ The pension FAS/CAS service cost adjustment recognized in Loss from operations w
 For additional discussion related to Postretirement Plans, see Note 17 to our Consolidated Financial Statements.
 
 ### Other Earnings Items
+
+**Table Context:** The table summarizes the financial performance of a company over three years, focusing on losses, income, and expenses. 
+
+Metrics included: Loss from operations, Other income, net, Interest and debt expense, Loss before income taxes, Income tax benefit/(expense), Net loss, Net loss attributable to noncontrolling interest, Net loss attributable to Boeing shareholders.
 
 | (Dollars in millions) | col1 | col4 | col7 |
 |:-------------------------------------------------------|:----------|:---------|:---------|
@@ -494,6 +530,10 @@ For a discussion related to Income Taxes, see Note 5 to our Consolidated Financi
 Cost of sales, for both products and services, consists primarily of raw materials, parts, sub-assemblies, labor, overhead and subcontracting costs. Our BCA segment predominantly uses program accounting to account for cost of sales. Under program accounting, cost of sales for each commercial aircraft program equals the product of (i) revenue recognized in connection with customer deliveries and (ii) the estimated cost of sales percentage applicable to the total remaining program. For long-term contracts, the amount reported as cost of sales is recognized as incurred. Substantially all contracts at our BDS segment and certain contracts at our BGS segment are long-term contracts with the U.S. government and other customers that generally extend over several years. Cost of sales for commercial spare parts is recorded at average cost.
 The following table summarizes cost of sales:
 
+**Table Context:** The table provides a comparative analysis of cost of sales and its percentage relative to revenues over multiple years. 
+
+Metrics included: Cost of Sales, Cost of Sales as a Percentage of Revenues, Change in Cost of Sales, Revenue, Year Ended December 31.
+
 | (Dollars in millions) | col1 | col4 | col7 | col10 | col13 | col16 |
 |:---------------------------------|:--------|:--------|:---------|:--------|:--------|:--------|
 | Years ended December 31 | 2024 | 2023 | Change | 2023 | 2022 | Change |
@@ -506,6 +546,10 @@ Cost of sales increased by $6,992 million in 2023 compared with 2022, primarily 
 ### Research and Development
 
 The following table summarizes our Research and development expense:
+
+**Table Context:** The table summarizes the revenue generated by different business segments of a company over three fiscal years. 
+
+Metrics included: Revenue, Commercial Airplanes Revenue, Defense Space & Security Revenue, Global Services Revenue, Other Revenue, Total Revenue.
 
 | (Dollars in millions) | col1 | col4 | col7 |
 |:--------------------------|:-------|:-------|:-------|
@@ -522,6 +566,10 @@ Research and development expense increased by $525 million in 2023 compared with
 ### Backlog
 
 Our backlog at December 31 was as follows:
+
+**Table Context:** The table summarizes the financial performance and backlog metrics of a company across different business segments for the years ended December 31, 2024, and 2023. 
+
+Metrics included: Commercial Airplanes Revenue, Defense, Space & Security Revenue, Global Services Revenue, Unallocated Items, Eliminations and Other Revenue, Total Backlog, Contractual Backlog, Unobligated Backlog.
 
 | (Dollars in millions) | col1 | col4 |
 |:------------------------------------------|:---------|:---------|
@@ -567,6 +615,10 @@ The commercial aircraft market and the airline industry both remain extremely co
 
 ### Results of Operations
 
+**Table Context:** The table summarizes the financial performance of a company over three years, highlighting key revenue and operational metrics. 
+
+Metrics included: Revenues, % of total company revenues, Loss from operations, Operating margins, Research and development.
+
 | (Dollars in millions) | col1 | col4 | col7 |
 |:----------------------------|:---------|:---------|:---------|
 | Years ended December 31, | 2024 | 2023 | 2022 |
@@ -581,6 +633,10 @@ The commercial aircraft market and the airline industry both remain extremely co
 BCA revenues decreased by $11,040 million in 2024 compared with 2023 primarily due to lower deliveries across all programs and 737-9 customer considerations related to the January 2024 grounding.
 BCA revenues increased by $7,875 million in 2023 compared with 2022 primarily due to higher 787 deliveries in 2023.
 BCA deliveries, including intercompany deliveries, as of December 31 were as follows:
+
+**Table Context:** The table summarizes cumulative and individual delivery metrics over multiple years for a company, likely in the context of its operational performance.
+
+Metrics included: Cumulative Deliveries, Deliveries, Total
 
 | col1 | 737.0 | * | 747.0 | 767.0 | * | 777.0 | 787.0 | Total |
 |:----------------------|--------:|:-----|--------:|--------:|:-----|--------:|--------:|--------:|
@@ -610,6 +666,10 @@ Accounting Quantity
  The accounting quantity is our estimate of the quantity of airplanes that will be produced for delivery under existing and anticipated contracts. The determination of the accounting quantity is limited by the ability to make reasonably dependable estimates of the revenue and cost of existing and anticipated contracts. It is a key determinant of the gross margins we recognize on sales of individual airplanes throughout a program’s life. Estimation of each program’s accounting quantity takes into account several factors that are indicative of the demand for that program, including firm orders, letters of intent from prospective customers and market studies. We review our program accounting quantities quarterly.
 The accounting quantity for each program may include units that have been delivered, undelivered units under contract and units anticipated to be under contract in the reasonable future (anticipated orders). In developing total program estimates, all of these items within the accounting quantity must be considered.
 The following table provides details of the accounting quantities and firm orders by program as of December 31. Cumulative firm orders represent the cumulative number of commercial jet aircraft deliveries plus undelivered firm orders. Firm orders include certain military derivative aircraft that are not included in program accounting quantities. All revenues and costs associated with military derivative aircraft production are reported in the BDS segment.
+
+**Table Context:** The table summarizes program accounting quantities, undelivered units under firm orders, and cumulative firm orders for the years 2022, 2023, and 2024. 
+
+Metrics included: Program accounting quantities, Undelivered units under firm orders, Cumulative firm orders.
 
 | col1 | 737 | col5 | 747 | 767 | 777 | 777X | 787 | † |
 |:------------------------------------|------:|:-------|------:|------:|------:|-------:|------:|:----|
@@ -682,6 +742,10 @@ The non-U.S. market continues to be driven by complex and evolving security chal
 
 ### Results of Operations
 
+**Table Context:** The table summarizes the financial performance of a company over three years, focusing on revenues and operational losses. 
+
+Metrics included: Revenues, % of total company revenues, Loss from operations, Operating margins
+
 | (Dollars in millions) | col1 | col4 | col7 |
 |:----------------------------|:---------|:---------|:---------|
 | Years ended December 31, | 2024 | 2023 | 2022 |
@@ -692,6 +756,10 @@ The non-U.S. market continues to be driven by complex and evolving security chal
 
 Since our operating cycle is long-term and involves many different types of development and production contracts with varying delivery and milestone schedules, the operating results of a particular period may not be indicative of future operating results. In addition, depending on the customer and their funding sources, our orders might be structured as annual follow-on contracts, or as one large multi-year order or long-term award. As a result, period-to-period comparisons of backlog are not necessarily indicative of future workloads. The following discussions of comparative results among periods should be viewed in this context.
 Deliveries of new-build production units, including remanufactures and modifications, were as follows:
+
+**Table Context:** The table summarizes the production quantities of various military and commercial aircraft models over three fiscal years. 
+
+Metrics included: F/A-18 Models, F-15 Models, T-7A Red Hawk, CH-47 Chinook (New), CH-47 Chinook (Renewed), AH-64 Apache (New), AH-64 Apache (Remanufactured), MH-139 Grey Wolf, KC-46 Tanker, P-8 Models, Commercial Satellites, Military Satellites, Total.
 
 | Years ended December 31, | 2024.0 | 2023.0 | 2022.0 |
 |:------------------------------|---------:|---------:|---------:|
@@ -744,6 +812,10 @@ Aviation services is a competitive market with many domestic and international c
 
 ### Results of Operations
 
+**Table Context:** The table summarizes key financial performance metrics for a company over three fiscal years, highlighting revenue and earnings trends. 
+
+Metrics included: Revenues, Earnings from operations, Operating margins, % of total company revenues
+
 | (Dollars in millions) | col1 | col4 | col7 |
 |:----------------------------|:--------|:--------|:--------|
 | Years ended December 31, | 2024 | 2023 | 2022 |
@@ -769,6 +841,10 @@ BGS total backlog of $21,403 million at December 31, 2024 increased by 8% from 
 ### Liquidity and Capital Resources
 
 ### Cash Flow Summary
+
+**Table Context:** The table summarizes the cash flow activities and net loss of a company over three fiscal years, highlighting the changes in cash and cash equivalents as well as the impact of non-cash items and asset/liability changes.
+
+Metrics included: Net Loss, Non-Cash Items, Changes in Assets and Liabilities, Net Cash (Used)/Provided by Operating Activities, Net Cash (Used)/Provided by Investing Activities, Net Cash Provided/(Used) by Financing Activities, Effect of Exchange Rate Changes on Cash and Cash Equivalents, Net Increase/(Decrease) in Cash & Cash Equivalents, Cash & Cash Equivalents, Including Restricted, at Beginning of Year, Cash & Cash Equivalents, Including Restricted, at End of Year.
 
 | (Dollars in millions) | col1 | col4 | col7 |
 |:-------------------------------------------------------------------------|:----------|:---------|:---------|
@@ -802,6 +878,10 @@ We had 0.4 million, 1.7 million and 0.2 million shares transferred to us from em
 
 The following table summarizes certain cash requirements for known contractual and other obligations as of December 31, 2024, and the estimated timing thereof. See Note 13 for future operating lease payments.
 
+**Table Context:** The table summarizes the company's long-term and current financial obligations, including debt and pension liabilities. 
+
+Metrics included: Long-term debt, Current portion of long-term debt, Total long-term debt, Interest on debt, Pension liabilities, Other postretirement obligations, Purchase obligations, Total liabilities.
+
 | (Dollars in millions) | Current | Long-term | Total |
 |:-------------------------------------------|:----------|:------------|:--------|
 | Long-term debt (including current portion) | $1,268 | $53,101 | $54,369 |
@@ -832,6 +912,10 @@ Off-Balance Sheet Arrangements
 
 The following table summarizes our commercial commitments outstanding as of December 31, 2024.
 
+**Table Context:** The table summarizes the company's financial commitments and potential losses over various time horizons. 
+
+Metrics included: Total Amounts Committed, Maximum Amount of Loss, Standby Letters of Credit, Surety Bonds, Commercial Aircraft Financing Commitments, Total Commercial Commitments, Amounts Committed Less than 1 Year, Amounts Committed 1-3 Years, Amounts Committed 4-5 Years, Amounts Committed After 5 Years.
+
 | (Dollars in millions) | Total Amounts Committed/Maximum Amount of Loss | Less than 1 year | 1-3 years | 4-5 years | After 5 years |
 |:-------------------------------------------|:-------------------------------------------------|:-------------------|:------------|:------------|:----------------|
 | Standby letters of credit and surety bonds | $2,991 | $1,944 | $880 | $12 | $155 |
@@ -860,6 +944,10 @@ Management uses Core operating earnings/(loss), Core operating margins and Core 
 ### Reconciliation of Non-GAAP Measures to GAAP Measures
 
 The table below reconciles the non-GAAP financial measures of Core operating loss, Core operating margins and Core loss per share with the most directly comparable GAAP financial measures of Loss from operations, Operating margins and Diluted loss per share.
+
+**Table Context:** The table summarizes key financial metrics and performance indicators for a company over three fiscal years, highlighting revenues, losses, margins, and per-share data. 
+
+Metrics included: Revenues, Loss from operations, Operating margins, Pension FAS/CAS service cost adjustment, Postretirement FAS/CAS service cost adjustment, FAS/CAS service cost adjustment, Core operating loss (non-GAAP), Core operating margins (non-GAAP), Diluted loss per share, Pension FAS/CAS service cost adjustment, Postretirement FAS/CAS service cost adjustment, Non-operating pension income, Non-operating postretirement income, Provision for deferred income taxes on adjustments, Core loss per share (non-GAAP), Weighted average diluted shares.
 
 | (Dollars in millions, except per share data) | col1 | col4 | col7 |
 |:-------------------------------------------------------|:----------|:---------|:---------|
@@ -949,6 +1037,10 @@ Participants in deferred compensation plans can diversify the deferred amounts a
 
 ### Index to the Consolidated Financial Statements
 
+**Table Context:** The table summarizes various financial statements and notes that provide insights into the company's financial performance and position. 
+
+Metrics included: Consolidated Statements of Operations, Consolidated Statements of Comprehensive Income, Consolidated Statements of Financial Position, Consolidated Statements of Cash Flows, Consolidated Statements of Equity, Earnings Per Share (EPS), Total Assets, Total Liabilities, Shareholder Equity, Revenue, Cost of Goods Sold, Operating Expenses, Operating Cash Flow, Gross Margin, Long-Term Debt, Retained Earnings, Capital Expenditures, Accounts Receivable, Inventories, Property, Plant and Equipment, Investments, Liabilities, Commitments and Contingencies, Debt, Share-Based Compensation, Derivative Financial Instruments, Fair Value Measurements, Segment and Revenue Information.
+
 | Consolidated Statements of Operations | 54 |
 |:-----------------------------------------------------------------------|-----:|
 | Consolidated Statements of Comprehensive Income | 55 |
@@ -985,6 +1077,10 @@ Participants in deferred compensation plans can diversify the deferred amounts a
 
 ### Consolidated Statements of Operations
 
+**Table Context:** The table summarizes the financial performance of the company over three years, detailing revenues, costs, expenses, and net income metrics. 
+
+Metrics included: Sales of products, Sales of services, Total revenues, Cost of products, Cost of services, Total costs and expenses, Income/(loss) from operating investments, General and administrative expense, Research and development expense, Gain on dispositions, Loss from operations, Other income, Interest and debt expense, Loss before income taxes, Income tax benefit/(expense), Net loss, Net loss attributable to noncontrolling interest, Net loss attributable to Boeing shareholders, Mandatory convertible preferred stock dividends, Net loss attributable to Boeing common shareholders, Basic loss per share, Diluted loss per share.
+
 | (Dollars in millions, except per share data) | col1 | col4 | col7 |
 |:------------------------------------------------------------------------------------|:----------|:---------|:---------|
 | Years ended December 31, | 2024 | 2023 | 2022 |
@@ -1018,6 +1114,10 @@ See Notes to the Consolidated Financial Statements on pages 60 - 119.
 
 ### Consolidated Statements of Comprehensive Income
 
+**Table Context:** The table summarizes the comprehensive loss and various components of other comprehensive income/loss for the years ended December 31 for a company, highlighting the financial performance and adjustments related to pension plans and derivative instruments.
+
+Metrics included: Net Loss, Other Comprehensive Income/Loss, Currency Translation Adjustments, Unrealized Gain/Loss on Investments, Unrealized Gain/Loss on Derivative Instruments, Reclassification Adjustment for Loss/Gain, Total Unrealized Gain/Loss on Derivative Instruments, Net Actuarial Gain/Loss from Defined Benefit Pension Plans, Amortization of Actuarial Gain/Loss, Settlement Gain, Amortization of Prior Service Credits, Prior Service Credits, Pension and Postretirement Benefit Costs, Total Defined Benefit Pension Plans, Other Comprehensive Income, Comprehensive Loss, Comprehensive Loss Attributable to Noncontrolling Interest, Comprehensive Loss Attributable to Shareholders.
+
 | (Dollars in millions) | col1 | col3 | col5 |
 |:------------------------------------------------------------------------------------------------------------------------------------------------------|:----------|:---------|:---------|
 | Years ended December 31, | 2024 | 2023 | 2022 |
@@ -1044,6 +1144,10 @@ See Notes to the Consolidated Financial Statements on pages 60 - 119.
 ### The Boeing Company and Subsidiaries
 
 ### Consolidated Statements of Financial Position
+
+**Table Context:** The table summarizes the financial position of the company as of December 31 for the years 2024 and 2023, detailing its assets, liabilities, and shareholders' equity. 
+
+Metrics included: Cash and cash equivalents, Short-term and other investments, Accounts receivable, net, Unbilled receivables, net, Current portion of financing receivables, net, Inventories, Other current assets, net, Total current assets, Financing receivables and operating lease equipment, net, Property, plant and equipment, net, Goodwill, Acquired intangible assets, net, Deferred income taxes, Investments, Other assets, net, Total assets, Accounts payable, Accrued liabilities, Advances and progress billings, Short-term debt and current portion of long-term debt, Total current liabilities, Deferred income taxes, Accrued retiree health care, Accrued pension plan liability, net, Other long-term liabilities, Long-term debt, Total liabilities, Mandatory convertible preferred stock, Common stock, Additional paid-in capital, Treasury stock, at cost, Retained earnings, Accumulated other comprehensive loss, Total shareholders’ deficit, Noncontrolling interests, Total equity, Total liabilities and equity.
 
 | (Dollars in millions, except per share data) | col1 | col4 |
 |:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:---------|:---------|
@@ -1091,6 +1195,10 @@ See Notes to the Consolidated Financial Statements on pages 60 - 119.
 ### The Boeing Company and Subsidiaries
 
 Consolidated Statements of Cash Flows
+
+**Table Context:** The table summarizes the cash flow activities of the company over three years, detailing the net cash provided or used in operating, investing, and financing activities.
+
+Metrics included: Net Loss, Non-Cash Items – Share-Based Plans Expense, Treasury Shares Issued for 401(k) Contribution, Depreciation and Amortization, Investment/Asset Impairment Charges, Gain on Dispositions, 777X and 767 Reach-Forward Losses, Other Charges and Credits, Changes in Assets and Liabilities – Accounts Receivable, Unbilled Receivables, Advances and Progress Billings, Inventories, Other Current Assets, Accounts Payable, Accrued Liabilities, Income Taxes Receivable, Payable and Deferred, Other Long-Term Liabilities, Pension and Other Postretirement Plans, Financing Receivables and Operating Lease Equipment, Net, Other, Net Cash (Used)/Provided by Operating Activities, Payments to Acquire Property, Plant and Equipment, Proceeds from Disposals of Property, Plant and Equipment, Acquisitions, Net of Cash Acquired, Proceeds from Dispositions, Contributions to Investments, Proceeds from Investments, Supplier Notes Receivable, Repayments on Supplier Notes Receivable, Purchase of Distribution Rights, Net Cash
 
 | (Dollars in millions) | col1 | col4 | col7 |
 |:----------------------------------------------------------------------------------------------------------------------------------|:----------|:---------|:---------|
@@ -1148,6 +1256,10 @@ See Notes to the Consolidated Financial Statements on pages 60 - 119.
 
 ### Consolidated Statements of Equity
 
+**Table Context:** The table summarizes the changes in equity and related financial metrics over multiple periods, highlighting the company's net losses, comprehensive income, and equity transactions.
+
+Metrics included: Mandatory Convertible Preferred Stock, Common Stock, Additional Paid-In Capital, Treasury Stock, Retained Earnings, Accumulated Other Comprehensive Loss, Non-Controlling Interests, Total Equity, Net Loss, Other Comprehensive Income, Share-Based Compensation, Treasury Shares Issued for Stock Options Exercised, Treasury Shares Issued for Other Share-Based Plans, Treasury Shares Issued for 401(k) Contribution, Subsidiary Shares Purchased from Noncontrolling Interests, Other Changes in Noncontrolling Interests, Cash Dividends Declared on Mandatory Convertible Preferred Stock, Common Stock Issued, Treasury Shares Issued for Other Share-Based Plans (Net), Total Comprehensive Income.
+
 | (Dollars in millions, except per share data) | Mandatory convertible preferred stock | Commonstock | Additionalpaid-incapital | Treasury stock | Retainedearnings | Accumulatedother comprehensive loss | Non-controllinginterests | Total |
 |:--------------------------------------------------------------------|:----------------------------------------|:--------------|:---------------------------|:-----------------|:-------------------|:--------------------------------------|:---------------------------|:----------|
 | Balance at January 1, 2022 | nan | $5,061 | $9,052 | ($51,861) | $34,408 | ($11,659) | $153 | ($14,846) |
@@ -1185,6 +1297,10 @@ See Notes to the Consolidated Financial Statements on pages 60 - 119.
 ### Notes to the Consolidated Financial Statements
 
 ### Summary of Business Segment Data
+
+**Table Context:** The table summarizes the financial performance of a company over three years, detailing revenues, losses, and net income across various segments. 
+
+Metrics included: Revenues, Commercial Airplanes Revenue, Defense Space & Security Revenue, Global Services Revenue, Unallocated Items, Eliminations and Other Revenue, Total Revenues, Loss from Operations, Commercial Airplanes Loss from Operations, Defense Space & Security Loss from Operations, Global Services Operating Income, Segment Operating Loss, Unallocated Items, Eliminations and Other Loss, FAS/CAS Service Cost Adjustment, Loss from Operations Total, Other Income, Net, Interest and Debt Expense, Loss Before Income Taxes, Income Tax Benefit/(Expense), Net Loss, Net Loss Attributable to Noncontrolling Interest, Net Loss Attributable to Boeing Shareholders, Mandatory Convertible Preferred Stock Dividends Accumulated During the Period, Net Loss Attributable to Boeing Common Shareholders.
 
 | (Dollars in millions) | col1 | col4 | col7 |
 |:------------------------------------------------------------------------------------|:----------|:---------|:---------|
@@ -1250,6 +1366,10 @@ Long-term contract revenue is recognized over the contract term (over time) as t
 The accounting for long-term contracts involves a judgmental process of estimating total revenues, costs and profit for each performance obligation. Cost of sales is recognized as incurred. The amount reported as revenues is determined by adding a proportionate amount of the estimated profit to the amount reported as cost of sales. Recognizing revenue as costs are incurred provides an objective measure of progress on the long-term contract and thereby best depicts the extent of transfer of control to the customer.
 For long-term contracts for which revenue is recognized over time, changes in estimated revenues, cost of sales and the related effect on operating income are recognized using a cumulative catch-up adjustment which recognizes in the current period the cumulative effect of the changes on current and prior periods based on a long-term contract’s percentage-of-completion. When the current estimates of total revenues and costs at completion for a long-term contract indicate a loss, a provision for the entire reach-forward loss on the long-term contract is recognized.
 The table below reflects the impact of net cumulative catch-up adjustments for changes in estimated revenues and costs at completion across all long-term contracts including the impact to Loss from operations from estimated losses on unexercised options for the years ended December 31:
+
+**Table Context:** The table summarizes the changes in key financial metrics related to revenue and losses over three fiscal years. 
+
+Metrics included: Decrease to Revenue, Increase to Loss from Operations, Increase to Diluted Loss per Share
 
 | col1 | 2024 | 2023 | 2022 |
 |:-----------------------------------|:---------|:---------|:---------|
@@ -1521,6 +1641,10 @@ Merger Agreement is terminated in accordance with its terms, the then outstandin
 
 Changes in the carrying amount of goodwill for the years ended December 31, 2024 and 2023 were as follows:
 
+**Table Context:** The table summarizes the balance sheet items and adjustments for different business segments of a company over multiple years, highlighting changes in assets and acquisitions. 
+
+Metrics included: Balance at December 31, 2022, Balance at December 31, 2023, Balance at December 31, 2024, Acquisitions, Goodwill adjustments, Dispositions, Total Assets, Total Liabilities, Shareholder Equity.
+
 | col1 | Commercial Airplanes | Defense, Space & Security | Global Services | Other | Total |
 |:-----------------------------|:-----------------------|:----------------------------|:------------------|:--------|:--------|
 | Balance at December 31, 2022 | $1,316 | $3,224 | $3,432 | $85 | $8,057 |
@@ -1539,6 +1663,10 @@ As of December 31, 2024 and 2023, we had indefinite-lived intangible assets with
  related to in process research and development for a next-generation air vehicle.
 The gross carrying amounts and accumulated amortization of our acquired finite-lived intangible assets were as follows at December 31:
 
+**Table Context:** The table summarizes the gross carrying amounts and accumulated amortization of various intangible assets for the years 2023 and 2024. 
+
+Metrics included: Gross Carrying Amount, Accumulated Amortization, Distribution Rights, Product Know-How, Customer Base, Developed Technology, Other Intangible Assets, Total Intangible Assets.
+
 | col1 | 2024 | 2024 | 2023 | 2023 |
 |:---------------------|:----------------------|:-------------------------|:----------------------|:-------------------------|
 | nan | Gross Carrying Amount | Accumulated Amortization | Gross Carrying Amount | Accumulated Amortization |
@@ -1556,6 +1684,10 @@ Amortization expense for acquired finite-lived intangible assets for the years e
 . 
 Estimated amortization expense for the five succeeding years is as follows:
 
+**Table Context:** The table presents projected amortization expenses over a four-year period. 
+
+Metrics included: Estimated Amortization Expense
+
 | col1 | 2025 | 2026 | 2027 | 2028 |
 |:-------------------------------|:-------|:-------|:-------|:-------|
 | Estimated amortization expense | $207 | $202 | $182 | $155 |
@@ -1566,6 +1698,10 @@ Basic and diluted earnings per share are computed using the two-class method, wh
 Basic earnings per share is calculated by taking net earnings attributable to Boeing shareholders, less Mandatory convertible preferred stock dividends accumulated during the period and earnings available to participating securities, divided by the basic weighted average common shares outstanding.
 Diluted earnings per share is calculated by taking net earnings attributable to Boeing shareholders, less Mandatory convertible preferred stock dividends accumulated during the period and earnings available to participating securities, divided by the diluted weighted average common shares outstanding. Diluted weighted average common shares outstanding is calculated using the treasury stock method for share-based compensation awards and the if-converted method for mandatory convertible preferred shares.
 The elements used in the computation of Basic and Diluted loss per share were as follows:
+
+**Table Context:** The table summarizes the net loss attributable to Boeing shareholders and related metrics over three fiscal years, including share counts and earnings per share. 
+
+Metrics included: Net loss attributable to Boeing shareholders, Mandatory convertible preferred stock dividends, Earnings available to participating securities, Net loss available to common shareholders, Basic weighted average shares outstanding, Participating securities, Diluted weighted average shares outstanding, Net loss per share (Basic), Net loss per share (Diluted)
 
 | (In millions - except per share amounts) | col1 | col4 | col7 |
 |:-----------------------------------------------------------------------------------------------|:----------|:---------|:---------|
@@ -1588,6 +1724,10 @@ The following table represents potential common shares that were not included in
  
 because the effect was antidilutive based on their strike price or the performance condition was not met.
 
+**Table Context:** The table summarizes the performance-based restricted stock units and stock options granted over the years ended December 31 for the years 2022, 2023, and 2024. 
+
+Metrics included: Performance-based restricted stock units, Performance restricted stock units, Restricted stock units, Stock options
+
 | (Shares in millions) | col1 | col4 | col7 |
 |:-----------------------------------------|-------:|-------:|-------:|
 | Years ended December 31, | 2024 | 2023 | 2022 |
@@ -1608,6 +1748,10 @@ In addition, potential common shares of
 
 The components of Loss before income taxes were:
 
+**Table Context:** The table summarizes the financial performance of a company over three years, highlighting net income figures for both U.S. and non-U.S. operations. 
+
+Metrics included: Total Assets, Net Income, Total Liabilities, Operating Expenses, Shareholder Equity, Operating Cash Flow, Gross Margin, Earnings Per Share (EPS), Long-Term Debt, Retained Earnings, Revenue, Cost of Goods Sold, Capital Expenditures.
+
 | Years ended December 31, | 2024 | 2023 | 2022 |
 |:---------------------------|:----------|:---------|:---------|
 | U.S. | ($12,813) | ($2,512) | ($5,457) |
@@ -1615,6 +1759,10 @@ The components of Loss before income taxes were:
 | Total | ($12,210) | ($2,005) | ($5,022) |
 
 Income tax (benefit)/expense consisted of the following:
+
+**Table Context:** The table summarizes the income tax expenses and benefits for a company over three fiscal years, detailing both current and deferred tax components. 
+
+Metrics included: Current tax (benefit)/expense U.S. federal, Non-U.S. tax expense, U.S. state tax expense, Total current tax expense, Deferred tax (benefit)/expense U.S. federal, Non-U.S. deferred tax expense, U.S. state deferred tax expense, Total deferred tax expense, Total income tax (benefit)/expense.
 
 | Years ended December 31, | 2024 | 2023 | 2022 |
 |:--------------------------------------------|:-------|:-------|:-------|
@@ -1637,6 +1785,10 @@ Net income tax payments/(refunds) were $
 ) in 2024, 2023 and 2022, respectively.
 The following is a reconciliation of the U.S. federal statutory tax to actual income tax (benefit)/expense:
 
+**Table Context:** The table summarizes various tax-related financial metrics and adjustments for the years ended December 31 for 2022, 2023, and 2024. 
+
+Metrics included: U.S. federal statutory tax, Valuation allowance, Federal audit settlement, Research and development credits, State income tax provision, Tax on non-U.S. activities, Impact of subsidiary shares purchased from noncontrolling interests, Other provision adjustments, Income tax (benefit)/expense.
+
 | Years ended December 31, | 2024 | 2024 | 2023 | 2023 | 2022 | 2022 |
 |:--------------------------------------------------------------------|:---------|:-------|:-------|:-------|:---------|:-------|
 | nan | Amount | Rate | Amount | Rate | Amount | Rate |
@@ -1657,6 +1809,10 @@ In the second quarter of 2024, we recorded a tax benefit of $
 155
  valuation expense that is recorded in the Valuation allowance line.
 Significant components of our deferred tax assets/(liabilities) at December 31 were as follows:
+
+**Table Context:** The table summarizes various financial metrics related to income recognition, operating losses, expenditures, and deferred tax assets and liabilities for the years 2024 and 2023. 
+
+Metrics included: Inventory, Federal net operating loss, credit, interest and other carryovers, Research expenditures, Fixed assets, intangibles and goodwill, State net operating loss, credit, interest and other carryovers, Other employee benefits, Pension benefits, Accrued expenses and reserves, Other postretirement benefit obligations, Other, Gross deferred tax assets, Valuation allowance, Net deferred tax assets.
 
 | col1 | 2024 | 2023 |
 |:---------------------------------------------------------------------|:---------|:---------|
@@ -1688,6 +1844,10 @@ Of the deferred tax asset for state net operating loss, credit, interest and oth
  may be carried over indefinitely.
 Net deferred tax assets/(liabilities) at December 31 were as follows:
 
+**Table Context:** The table summarizes the company's deferred tax assets and liabilities for the years 2024 and 2023. 
+
+Metrics included: Deferred Tax Assets, Deferred Tax Liabilities, Valuation Allowance, Net Deferred Tax Assets/(Liabilities)
+
 | col1 | 2024 | 2023 |
 |:--------------------------------------|:---------|:---------|
 | Deferred tax assets | $17,991 | $14,743 |
@@ -1714,6 +1874,10 @@ In 2024, we determined that earnings from our non-U.S. subsidiaries are no longe
 As of December 31, 2024 and 2023, the amounts accrued for the payment of income tax-related interest and penalties included in the Consolidated Statements of Financial Position were not significant. The amounts of interest included in the Consolidated Statements of Operations were not significant for 2024, 2023 and 2022.
 A reconciliation of the beginning and ending amount of unrecognized tax benefits is as follows:
 
+**Table Context:** The table summarizes the changes in unrecognized tax benefits over three fiscal years, detailing gross increases and decreases in tax positions. 
+
+Metrics included: Unrecognized tax benefits – January 1, Gross increases – tax positions in prior periods, Gross decreases – tax positions in prior periods, Gross increases – current period tax positions, Gross decreases – current period tax positions, Settlements, Unrecognized tax benefits – December 31.
+
 | col1 | 2024 | 2023 | 2022 |
 |:-------------------------------------------------|:-------|:-------|:-------|
 | Unrecognized tax benefits – January 1 | $1,131 | $915 | $858 |
@@ -1738,6 +1902,10 @@ The Organization for Economic Co-operation and Development has introduced Pillar
 
 Accounts receivable, net at December 31 consisted of the following:
 
+**Table Context:** The table summarizes the revenue generated from various business segments and the total revenue for the years 2024 and 2023. 
+
+Metrics included: U.S. Government Contracts, Commercial Airplanes Revenue, Global Services Revenue, Defense Space & Security Revenue, Other Revenue, Valuation Allowance, Total Revenue
+
 | col1 | 2024 | 2023 |
 |:------------------------------|:-------|:-------|
 | U.S. government contracts(1) | $923 | $970 |
@@ -1757,6 +1925,10 @@ Excludes U.S. government contracts
 
 The change in allowances for expected credit losses for the years ended December 31, 2024 and 2023 consisted of the following:
 
+**Table Context:** The table summarizes the changes in various receivables and other assets over a specified period, detailing balances at the beginning and end of the year, as well as adjustments for estimates, write-offs, and recoveries.
+
+Metrics included: Accounts Receivable, Unbilled Receivables, Other Current Assets, Financing Receivables, Other Assets, Total Assets, Changes in Estimates, Write-offs, Recoveries, Balance at January 1, 2023, Balance at December 31, 2023, Balance at January 1, 2024, Balance at December 31, 2024.
+
 | col1 | Accounts receivable | Unbilled receivables | Other Current Assets | Financing receivables | Other Assets | Total |
 |:-----------------------------|:----------------------|:-----------------------|:-----------------------|:------------------------|:---------------|:--------|
 | Balance at January 1, 2023 | ($116) | ($23) | ($85) | ($55) | ($88) | ($367) |
@@ -1773,6 +1945,10 @@ The change in allowances for expected credit losses for the years ended December
 ### Note 8 – Inventories
 
 Inventories at December 31 consisted of the following:
+
+**Table Context:** The table summarizes the financial data related to commercial aircraft programs and associated costs for the years 2024 and 2023. 
+
+Metrics included: Total Assets, Long-term Contracts in Progress, Capitalized Precontract Costs, Commercial Spare Parts, Used Aircraft, General Stock Materials and Other, Total.
 
 | col1 | 2024 | 2023 |
 |:-------------------------------------------------------------------------|:--------|:--------|
@@ -1860,6 +2036,10 @@ Unbilled receivables increased from $
  at December 31, 2024, primarily driven by revenue recognized in excess of billings at BDS, partially offset by an increase in billings at BGS.
 The following table summarizes our contract assets under long-term contracts that were unbillable or related to outstanding claims as of December 31:
 
+**Table Context:** The table summarizes the unbilled receivables and claims for the years 2024 and 2023, detailing their current values, expected collections, and valuation allowances. 
+
+Metrics included: Unbilled Receivables Current, Unbilled Receivables Expected to be Collected After One Year, Unbilled Receivables Less Valuation Allowance, Unbilled Receivables Total, Claims Current, Claims Expected to be Collected After One Year, Claims Less Valuation Allowance, Claims Total.
+
 | col1 | Unbilled | Unbilled | Claims | Claims |
 |:----------------------------------------|:-----------|:-----------|:---------|:---------|
 | nan | 2024 | 2023 | 2024 | 2023 |
@@ -1888,6 +2068,10 @@ Revenues recognized for the years ended December 31, 2024 and 2023, from amounts
 
 Financing receivables and operating lease equipment, net consisted of the following at December 31:
 
+**Table Context:** The table summarizes the financial position related to financing receivables and operating lease equipment for the years 2024 and 2023. 
+
+Metrics included: Financing Receivables: Investment in Sales-Type Leases, Financing Receivables: Notes, Total Financing Receivables, Allowance for Losses on Receivables, Financing Receivables, Net, Operating Lease Equipment at Cost, Accumulated Depreciation, Total.
+
 | col1 | 2024 | 2023 |
 |:---------------------------------------------------------------------------------|:-------|:-------|
 | Financing receivables: Investment in sales-type leases | $203 | $556 |
@@ -1915,6 +2099,10 @@ decreased primarily due to cash collections
  during the year ended December 31, 2024. 
 The components of investment in sales-type leases at December 31 were as follows:
 
+**Table Context:** The table summarizes the financial metrics related to lease payments and unearned income for the years 2024 and 2023. 
+
+Metrics included: Gross lease payments receivable, Unearned income, Net lease payments receivable, Unguaranteed residual assets, Total
+
 | col1 | 2024 | 2023 |
 |:--------------------------------|:-------|:-------|
 | Gross lease payments receivable | $229 | $697 |
@@ -1935,6 +2123,10 @@ Financing receivables that were past due as of December 31, 2024 and 2023, total
 .
 Our financing receivable balances at December 31, 2024, by internal credit rating category and year of origination, consisted of the following:
 
+**Table Context:** The table summarizes the carrying values of financing receivables categorized by credit ratings over multiple years. 
+
+Metrics included: Total carrying value of financing receivables, BBB rating category, B rating category, CCC rating category, Total carrying value for all rating categories.
+
 | Rating categories | 2023 | 2022 | 2021 | 2020 | Prior | Total |
 |:----------------------------------------------|:-------|:-------|:-------|:-------|:--------|:--------|
 | BBB | $32 | $28 | $122 | $5 | $9 | $196 |
@@ -1950,6 +2142,10 @@ At December 31, 2024, our allowance for losses related to receivables with rati
 0.1
 %, respectively, to the exposure associated with those receivables.
 The majority of our financing receivables and operating lease equipment portfolio is concentrated in the following aircraft models at December 31:
+
+**Table Context:** The table summarizes the financial performance related to various aircraft types accounted for under different leasing arrangements over two fiscal years. 
+
+Metrics included: 717 Aircraft (Accounted for as sales-type leases), 777 Aircraft (Accounted for as operating leases), 747-8 Aircraft (Primarily accounted for as notes), 737 Aircraft (Primarily accounted for as operating leases), 747-400 Aircraft (Accounted for as sales-type leases)
 
 | col1 | 2024 | 2023 |
 |:-----------------------------------------------------------|:-------|:-------|
@@ -1991,6 +2187,10 @@ Profit at the commencement of sales-type leases was recorded in Sales of service
 , respectively.
 As of December 31, 2024, undiscounted cash flows for notes receivable, sales-type and operating leases over the next five years and thereafter are as follows:
 
+**Table Context:** The table summarizes the financial data related to various types of receivables and leases over a five-year period, including total financing receipts and imputed interest. 
+
+Metrics included: Notes Receivable, Sales-type Leases, Operating Leases, Total Financing Receipts, Imputed Interest, Total Receivables, Total Leases.
+
 | col1 | Notes receivable | Sales-type leases | Operating leases |
 |:-------------------------|:-------------------|:--------------------|:-------------------|
 | Year 1 | $9 | $189 | $47 |
@@ -2012,6 +2212,10 @@ At December 31, 2024 and 2023, unguaranteed residual values were $
 ### Note 11 – Property, Plant and Equipment
 
 Property, plant and equipment at December 31 consisted of the following:
+
+**Table Context:** The table summarizes the company's property, plant, and equipment assets over two fiscal years. 
+
+Metrics included: Land, Buildings and land improvements, Machinery and equipment, Construction in progress, Gross property, plant and equipment, Accumulated depreciation, Total Assets
 
 | col1 | 2024 | 2023 |
 |:------------------------------------|:---------|:---------|
@@ -2043,6 +2247,10 @@ During 2024 and 2023, we acquired $
 ### Note 12 – Investments
 
 Our investments, which are recorded in Short-term and other investments or Investments, consisted of the following at December 31:
+
+**Table Context:** The table summarizes the financial position of a company by detailing various investment and cash-related line items for the years 2024 and 2023. 
+
+Metrics included: Time Deposits, Equity Method Investments, Available-for-Sale Debt Investments, Equity and Other Investments, Restricted Cash & Cash Equivalents, Total.
 
 | col1 | 2024 | 2023 |
 |:------------------------------------------|:--------|:-------|
@@ -2086,6 +2294,10 @@ Allowance for losses on available-for-sale debt investments are assessed quarter
 
 Our equity method investments consisted of the following at December 31:
 
+**Table Context:** The table summarizes the investment balances and ownership percentages of various segments within a company for the years 2023 and 2024. 
+
+Metrics included: Total Equity Method Investments, Investment Balance 2024, Investment Balance 2023, Ownership Percentages, United Launch Alliance Investment Balance, Other Investment Balance.
+
 | col1 | Segment | Ownership Percentages | Investment Balance | Investment Balance |
 |:--------------------------------|:------------------------|:------------------------|:---------------------|:---------------------|
 | nan | nan | nan | 2024 | 2023 |
@@ -2123,6 +2335,10 @@ For the years ended December 31, 2024, 2023 and 2022, cash payments against oper
  to recognize operating assets and liabilities for new leases and modifications.
 Supplemental information related to leases included in the Consolidated Statements of Financial Position at December 31 is as follows:
 
+**Table Context:** The table provides a summary of the company's operating lease assets and liabilities, including their current and non-current portions, as well as related metrics for the years 2024 and 2023. 
+
+Metrics included: Operating lease right-of-use assets, Current portion of lease liabilities, Non-current portion of lease liabilities, Total operating lease liabilities, Weighted average remaining lease term, Weighted average discount rate.
+
 | col1 | 2024 | 2023 |
 |:----------------------------------------------------------------------|:-------|:-------|
 | Operating leases: Operating lease right-of-use assets | $1,984 | $1,690 |
@@ -2134,6 +2350,10 @@ Supplemental information related to leases included in the Consolidated Statemen
 
 Operating lease assets are included in Other assets, net, with the related liabilities included in Accrued liabilities and Other long-term liabilities.
 Scheduled payments for operating lease liabilities are as follows:
+
+**Table Context:** The table summarizes the projected total lease payments over several years, including adjustments for imputed interest. 
+
+Metrics included: Total lease payments, Less imputed interest, Total
 
 | 2025 | $421 |
 |:----------------------|:-------|
@@ -2160,6 +2380,10 @@ As of December 31, 2024, we have entered into leases that have not yet commence
 
 Accrued liabilities at December 31 consisted of the following:
 
+**Table Context:** The table summarizes various accrued liabilities and provisions related to a company's financial obligations for the years 2024 and 2023. 
+
+Metrics included: Forward loss recognition, Accrued compensation and employee benefit costs, Product warranties, Environmental liabilities, Accrued interest payable, 737 MAX customer concessions and other considerations, Other customer concessions and considerations, Current portion of retiree healthcare and pension liabilities, Current portion of lease liabilities, Other liabilities, Total liabilities.
+
 | col1 | 2024 | 2023 |
 |:--------------------------------------------------------------|:--------|:--------|
 | Forward loss recognition | $7,634 | $4,699 |
@@ -2181,6 +2405,10 @@ During 2024, we recorded an earnings charge of $
 , net of insurance recoveries, in connection with estimated considerations to customers for disruption related to the Alaska Airlines 737-9 accident and 737-9 grounding. This charge is reflected in the financial statements as a reduction to Sales of products.
 The following table summarizes changes in the 737 MAX customer concessions and other considerations liability during 2024 and 2023.
 
+**Table Context:** The table summarizes the changes in a financial account balance over the years 2023 and 2024, detailing the beginning balance, reductions, changes in estimates, and the ending balance. 
+
+Metrics included: Beginning balance, Reductions for payments made, Reductions for concessions and other in-kind considerations, Changes in estimates, Ending balance
+
 | col1 | 2024 | 2023 |
 |:------------------------------------------------------------|:-------|:-------|
 | Beginning balance – January 1 | $1,327 | $1,864 |
@@ -2199,6 +2427,10 @@ At December 31, 2024, $
 
 The following table summarizes changes in environmental remediation liabilities during the years ended December 31, 2024 and 2023.
 
+**Table Context:** The table summarizes the changes in a financial account balance over the years 2023 and 2024. 
+
+Metrics included: Beginning balance, Reductions for payments made, net of recoveries, Changes in estimates, Ending balance.
+
 | col1 | 2024 | 2023 |
 |:------------------------------------------------|:-------|:-------|
 | Beginning balance – January 1 | $844 | $752 |
@@ -2215,6 +2447,10 @@ The liabilities recorded represent our best estimate or the low end of a range o
 ### Product Warranties
 
 The following table summarizes changes in product warranty liabilities recorded during the years ended December 31, 2024 and 2023.
+
+**Table Context:** The table summarizes the changes in a financial account over the fiscal years 2023 and 2024. 
+
+Metrics included: Beginning balance, Additions for current year deliveries, Reductions for payments made, Changes in estimates, Ending balance.
 
 | col1 | 2024 | 2023 |
 |:--------------------------------------|:-------|:-------|
@@ -2249,6 +2485,10 @@ Financing commitments related to aircraft on order, including options and those 
 17,003
  as of December 31, 2024 and 2023. 
 The estimated earliest potential funding dates for these commitments as of December 31, 2024 are as follows:
+
+**Table Context:** The table summarizes projected financial figures over several years, likely representing a forecast of revenue or cash flows. 
+
+Metrics included: Total Assets, Total Liabilities, Shareholder Equity, Revenue, Operating Cash Flow, Net Income, Operating Expenses, Gross Margin, Earnings Per Share (EPS), Long-Term Debt, Retained Earnings, Cost of Goods Sold, Capital Expenditures.
 
 | 2025 | $3,449 |
 |:-----------|:---------|
@@ -2303,6 +2543,10 @@ The Company has supply chain financing programs in place under which participati
 The following table summarizes changes in 
 Accounts payable
  to suppliers participating in supply chain financing programs:
+
+**Table Context:** The table summarizes the changes in a financial account over the course of the year, detailing the beginning balance, additions, reductions, and ending balance. 
+
+Metrics included: Beginning balance, Additions, Reductions for payments made, Ending balance
 
 | col1 | 2024 |
 |:------------------------------|:---------|
@@ -2508,6 +2752,10 @@ During the fourth quarter of 2024, we announced plans to reduce our overall work
 We enter into arrangements with off-balance sheet risk in the normal course of business, primarily in the form of guarantees.
 The following table provides quantitative data regarding our third party guarantees. The maximum potential payments represent a “worst-case scenario” and do not necessarily reflect amounts that we expect to pay. The carrying amount of liabilities represents the amount included in Accrued liabilities.
 
+**Table Context:** The table outlines the maximum potential payments and estimated proceeds related to contingent repurchase commitments and credit guarantees for the years 2023 and 2024, along with the carrying amounts of liabilities.
+
+Metrics included: Maximum Potential Payments, Estimated Proceeds from Collateral/Recourse, Carrying Amount of Liabilities, Contingent Repurchase Commitments, Credit Guarantees.
+
 | col1 | Maximum Potential Payments | Maximum Potential Payments | Estimated Proceeds from Collateral/ Recourse | Estimated Proceeds from Collateral/ Recourse | Carrying Amount of Liabilities | Carrying Amount of Liabilities |
 |:----------------------------------|:-----------------------------|:-----------------------------|:-----------------------------------------------|:-----------------------------------------------|:---------------------------------|:---------------------------------|
 | December 31, | 2024 | 2023 | 2024 | 2023 | 2024 | 2023 |
@@ -2601,6 +2849,10 @@ Interest incurred, including amounts capitalized, was $
  for the years ended December 31, 2024, 2023 and 2022, respectively.
 Short-term debt and current portion of long-term debt at December 31 consisted of the following:
 
+**Table Context:** The table summarizes the company's unsecured debt, finance lease obligations, and other notes for the years 2024 and 2023. 
+
+Metrics included: Unsecured Debt, Finance Lease Obligations, Other Notes, Total Liabilities
+
 | col1 | 2024 | 2023 |
 |:--------------------------|:-------|:-------|
 | Unsecured debt | $850 | $5,072 |
@@ -2609,6 +2861,10 @@ Short-term debt and current portion of long-term debt at December 31 consisted 
 | Total | $1,278 | $5,204 |
 
 Debt at December 31 consisted of the following:
+
+**Table Context:** The table summarizes the company's debt obligations, including various unsecured debts and their respective due dates, for the years 2024 and 2023. 
+
+Metrics included: Unsecured Debt, Total Debt, Finance Lease Obligations, Other Notes, Debt Due Through 2032, Debt Due Through 2030, Debt Due Through 2059, Debt Due Through 2060, Debt Due Through 2064.
 
 | col1 | 2024 | 2023 |
 |:-------------------------------------------|:--------|:--------|
@@ -2626,11 +2882,19 @@ Debt at December 31 consisted of the following:
 
 Scheduled principal payments for debt for the next five years are as follows:
 
+**Table Context:** The table presents a summary of the company's debt and other notes over a five-year period. 
+
+Metrics included: Debt and other notes
+
 | col1 | 2025 | 2026 | 2027 | 2028 | 2029 |
 |:---------------------|:-------|:-------|:-------|:-------|:-------|
 | Debt and other notes | $1,173 | $8,022 | $4,364 | $1,800 | $2,500 |
 
 Scheduled payments for finance lease obligations are as follows:
+
+**Table Context:** The table summarizes the projected finance lease payments over a series of years, including adjustments for imputed interest. 
+
+Metrics included: Total finance lease payments, Less imputed interest, Total
 
 | 2025 | $95 |
 |:-----------------------------|:------|
@@ -2651,6 +2915,10 @@ We also have other postretirement benefits (OPB) other than pensions which consi
 The funded status of the plans is measured as the difference between the plan assets at fair value and the projected benefit obligation (PBO). We have recognized the aggregate of all overfunded plans in Other assets and the aggregate of all underfunded plans in either Accrued retiree health care or Accrued pension plan liability, net. The portion of the amount by which the actuarial present value of benefits included in the PBO exceeds the fair value of plan assets, payable in the next 12 months, is reflected in Accrued liabilities.
 The components of net periodic benefit (income)/cost were as follows:
 
+**Table Context:** The table summarizes the financial impacts of pension and other postretirement benefits over three years, detailing costs, income, and gains/losses associated with these benefits. 
+
+Metrics included: Service Cost, Interest Cost, Expected Return on Plan Assets, Amortization of Prior Service Credits, Recognized Net Actuarial Loss/(Gain), Settlement/Curtailment Gain, Net Periodic Benefit (Income)/Cost, Net Periodic Benefit Cost Included in Loss from Operations, Net Periodic Benefit Income Included in Other Income, Net Periodic Benefit (Income)/Cost Included in Loss Before Income Taxes.
+
 | col1 | Pension | Pension | Pension | Other Postretirement Benefits | Other Postretirement Benefits | Other Postretirement Benefits |
 |:------------------------------------------------------------------------|:----------|:----------|:----------|:--------------------------------|:--------------------------------|:--------------------------------|
 | Years ended December 31, | 2024 | 2023 | 2022 | 2024 | 2023 | 2022 |
@@ -2666,6 +2934,10 @@ The components of net periodic benefit (income)/cost were as follows:
 | Net periodic benefit (income)/cost included in Loss before income taxes | ($471) | ($527) | ($878) | ($26) | $4 | $21 |
 
 The following tables show changes in the benefit obligation, plan assets and funded status of both pensions and OPB for the years ended December 31, 2024 and 2023. Benefit obligation balances presented below reflect the PBO for our pension plans and accumulated postretirement benefit obligations (APBO) for our OPB plans.
+
+**Table Context:** The table summarizes the changes in pension and other postretirement benefits obligations and plan assets over two fiscal years, detailing various components of these financial metrics. 
+
+Metrics included: Change in benefit obligation, Beginning balance, Service cost, Interest cost, Amendments, Actuarial (gain)/loss, Gross benefits paid, Subsidies, Exchange rate adjustment, Ending balance, Change in plan assets, Beginning balance at fair value, Actual return on plan assets, Plan participants’ contributions, Benefits paid, Exchange rate adjustment, Ending balance at fair value, Other assets, Accrued liabilities, Accrued retiree health care, Accrued pension plan liability, net, Net amount recognized.
 
 | col1 | Pension | Pension | Other Postretirement Benefits | Other Postretirement Benefits |
 |:-----------------------------------------------------------------------------------------------------------------------------------|:----------|:----------|:--------------------------------|:--------------------------------|
@@ -2695,6 +2967,10 @@ The following tables show changes in the benefit obligation, plan assets and fun
 
 Amounts recognized in Accumulated other comprehensive loss (AOCI) at December 31 were as follows:
 
+**Table Context:** The table summarizes the financial impacts of pension and other postretirement benefits on the company's financial statements for the years 2023 and 2024. 
+
+Metrics included: Net actuarial loss/(gain), Prior service credits, Total recognized in AOCI
+
 | col1 | Pension | Pension | Other Postretirement Benefits | Other Postretirement Benefits |
 |:--------------------------|:----------|:----------|:--------------------------------|:--------------------------------|
 | nan | 2024 | 2023 | 2024 | 2023 |
@@ -2709,10 +2985,18 @@ The accumulated benefit obligation (ABO) for all pension plans was $
  at December 31, 2024 and 2023. 
 Key information for our plans with ABO and PBO in excess of plan assets as of December 31 was as follows:
 
+**Table Context:** The table presents information regarding the accumulated benefit obligation and the fair value of plan assets for the years 2024 and 2023. 
+
+Metrics included: Accumulated Benefit Obligation, Fair Value of Plan Assets
+
 | col1 | 2024 | 2023 |
 |:-------------------------------|:--------|:--------|
 | Accumulated benefit obligation | $44,470 | $47,665 |
 | Fair value of plan assets | 38866 | 41666 |
+
+**Table Context:** The table presents projected benefit obligations and the fair value of plan assets for the years 2024 and 2023. 
+
+Metrics included: Projected Benefit Obligation, Fair Value of Plan Assets
 
 | col1 | 2024 | 2023 |
 |:-----------------------------|:--------|:--------|
@@ -2722,6 +3006,10 @@ Key information for our plans with ABO and PBO in excess of plan assets as of De
 ### Assumptions
 
 The following assumptions, which are the weighted average for all plans, are used to calculate the benefit obligation at December 31 of each year and the net periodic benefit cost for the subsequent year.
+
+**Table Context:** The table provides key assumptions and metrics related to pension and postretirement benefits for the years ending December 31 from 2022 to 2024. 
+
+Metrics included: Discount rate: Pension, Other postretirement benefits, Expected return on plan assets, Rate of compensation increase, Interest crediting rates for cash balance plans.
 
 | December 31, | 2024.0 | 2023.0 | 2022.0 |
 |:------------------------------------------------|---------:|---------:|---------:|
@@ -2737,6 +3025,10 @@ The pension fund’s expected return on plan assets assumption is derived from a
  more than the fair market value of assets.
 Assumed health care cost trend rates were as follows:
 
+**Table Context:** The table provides information on health care cost trend rates and their projections over the next few years. 
+
+Metrics included: Health care cost trend rate assumed next year, Ultimate trend rate, Year that trend reaches ultimate rate
+
 | December 31, | 2024.0 | 2023.0 | 2022.0 |
 |:----------------------------------------------|---------:|---------:|---------:|
 | Health care cost trend rate assumed next year | 6 | 5.5 | 5.5 |
@@ -2749,6 +3041,10 @@ Investment Strategy
  The overall objective of our pension assets is to earn a rate of return over time to satisfy the benefit obligations of the pension plans and to maintain sufficient liquidity to pay benefits and address other cash requirements of the pension fund. Specific investment objectives for our long-term investment strategy include reducing the volatility of pension assets relative to pension liabilities, achieving a competitive total investment return, achieving diversification between and within asset classes and managing other risks. Investment objectives for each asset class are determined based on specific risks and investment opportunities identified.
 We periodically update our long-term, strategic asset allocations. We use various analytics to determine the optimal asset mix and consider plan liability characteristics, liquidity characteristics, funding requirements, expected rates of return and the distribution of returns. A key element of our strategy is to de-risk the plan as the funded status of the plan increases. We identify investment benchmarks to evaluate performance for the asset classes in the strategic asset allocation that are market-based and investable where possible. Actual allocations to each asset class vary from target allocations due to periodic investment strategy changes, market value fluctuations, the duration to fully implement investment allocation positions, and the timing of benefit payments and contributions. Short-term investments and exchange-traded derivatives are used to rebalance the actual asset allocation to the target asset allocation. The asset allocation is monitored and adjusted in accordance with our rebalancing policy. 
 The actual and target allocations by asset class for the pension assets at December 31 were as follows:
+
+**Table Context:** The table summarizes the actual and target allocations of various asset classes for the years 2023 and 2024. 
+
+Metrics included: Fixed Income, Global Equity, Private Equity, Real Estate and Real Assets, Hedge Funds, Total Allocations.
 
 | col1 | Actual Allocations | Actual Allocations | Target Allocations | Target Allocations |
 |:----------------------------|---------------------:|---------------------:|---------------------:|---------------------:|
@@ -2779,6 +3075,10 @@ Risk Management
 Fair Value Measurements
  
 The following table presents our plan assets using the fair value hierarchy as of December 31, 2024 and 2023. The fair value hierarchy has three levels based on the reliability of the inputs used to determine fair value. Level 1 refers to fair values determined based on quoted prices in active markets for identical assets. Level 2 refers to fair values estimated using significant other observable inputs, and Level 3 includes fair values estimated using significant unobservable inputs.
+
+**Table Context:** The table summarizes the financial position and investment details of a company as of December 31 for the years 2024 and 2023. 
+
+Metrics included: Total Assets, Total Liabilities, Total Investments Measured at NAV, Cash, Receivables, Payables, Fixed Income Securities: Corporate, Fixed Income Securities: U.S. Government and Agencies, Fixed Income Securities: Mortgage Backed and Asset Backed, Fixed Income Securities: Municipal, Fixed Income Securities: Sovereign, Fixed Income Securities: Other, Derivatives: Assets, Derivatives: Liabilities, Derivatives: Cash Equivalents and Other Short-Term Investments, Equity Securities: U.S. Common and Preferred Stock, Equity Securities: Non-U.S. Common and Preferred Stock, Real Estate and Real Assets: Real Assets, Fixed Income Common/Collective/Pooled Funds, Fixed Income Other, Equity Common/Collective/Pooled Funds, Private Equity, Real Estate and Real Assets, Hedge Funds, Net Income, Operating Cash Flow, Gross Margin, Earnings Per Share (EPS), Long-Term Debt, Retained Earnings, Revenue, Cost of Goods Sold, Operating Expenses.
 
 | col1 | December 31, 2024 | December 31, 2024 | December 31, 2024 | December 31, 2024 | December 31, 2023 | December 31, 2023 | December 31, 2023 | December 31, 2023 |
 |:---------------------------------------------------------------|:--------------------|:--------------------|:--------------------|:--------------------|:--------------------|:--------------------|:--------------------|:--------------------|
@@ -2826,6 +3126,10 @@ Hedge fund NAVs are generally based on the valuation of the underlying investmen
 Investments in private equity, private debt, real estate, real assets and hedge funds are primarily calculated and reported by the General Partner, fund manager or third-party administrator. Additionally, some investments in fixed income and equity are made via commingled vehicles and are valued in a similar fashion. Pension assets invested in commingled and LP structures rely on the NAV of these investments as the practical expedient for the valuations.
 The following tables summarizes the changes of Level 3 assets, reconciled by asset class, held during the years ended December 31, 2024 and 2023. Transfers into and out of Level 3 are reported at the beginning-of-year values.
 
+**Table Context:** The table summarizes the changes in the balance of various fixed income and equity securities over a specified period, detailing net realized and unrealized gains or losses, purchases, issuances, settlements, and transfers.
+
+Metrics included: Fixed Income Securities: Corporate, Fixed Income Securities: Mortgage Backed and Asset Backed, Fixed Income Securities: Other, Fixed Income Securities: Sovereign, Fixed Income Securities: Cash Equivalents and Other Short-Term Investments, Equity Securities: Non-U.S. Common and Preferred Stock, Equity Securities: Real Assets, Total Balance, Net Realized and Unrealized (Losses)/Gains, Net Purchases, Issuances and Settlements, Net Transfers Into/(Out of) Level 3.
+
 | col1 | January 1 2024 Balance | Net Realized and Unrealized (Losses)/Gains | Net Purchases, Issuances and Settlements | Net Transfers Into/(Out of) Level 3 | December 31 2024 Balance |
 |:---------------------------------------------------------------------------|:-------------------------|:---------------------------------------------|:-------------------------------------------|:--------------------------------------|:---------------------------|
 | Fixed income securities: Corporate | $59 | ($3) | ($22) | nan | $34 |
@@ -2836,6 +3140,10 @@ The following tables summarizes the changes of Level 3 assets, reconciled by ass
 | Equity securities: Non-U.S. common and preferred stock | nan | 1 | (1) | nan | nan |
 | Equity securities: Real assets | 3 | nan | (2) | 1 | 2 |
 | Total | $226 | ($3) | ($15) | $5 | $213 |
+
+**Table Context:** The table summarizes the changes in the balances of various fixed income securities over a specified period, detailing net gains or losses, purchases, issuances, settlements, and transfers.
+
+Metrics included: Fixed Income Securities: Corporate, Fixed Income Securities: U.S. Government and Agencies, Fixed Income Securities: Mortgage Backed and Asset Backed, Fixed Income Securities: Municipal, Fixed Income Securities: Other, Fixed Income Securities: Real Assets, Total Balance, Net Realized and Unrealized Gains/(Losses), Net Purchases, Issuances and Settlements, Net Transfers Into/(Out of) Level 3.
 
 | col1 | January 1 2023 Balance | Net Realized and Unrealized Gains/(Losses) | Net Purchases, Issuances and Settlements | Net Transfers Into/(Out of) Level 3 | December 31 2023 Balance |
 |:----------------------------------------------------------|:-------------------------|:---------------------------------------------|:-------------------------------------------|:--------------------------------------|:---------------------------|
@@ -2876,6 +3184,10 @@ Estimated Future Benefit Payments
  
 The table below reflects the total pension benefits expected to be paid from the plans or from our assets, including both our share of the benefit cost and the participants’ share of the cost, which is funded by participant contributions. OPB payments reflect our portion only.
 
+**Table Context:** The table summarizes projected financial obligations related to pensions and other postretirement benefits over a series of years. 
+
+Metrics included: Pensions, Other postretirement benefits: Gross benefits paid, Subsidies, Net other postretirement benefits
+
 | Year(s) | 2025 | 2026 | 2027 | 2028 | 2029 | 2030-2034 |
 |:---------------------------------------------------|:-------|:-------|:-------|:-------|:-------|:------------|
 | Pensions | $4,702 | $4,427 | $4,302 | $4,198 | $4,077 | $18,628 |
@@ -2909,6 +3221,10 @@ Shares issued under the 2023 Incentive Stock Plan will be funded out of treasury
 Share-based plans expense is primarily included in Total costs and expenses and General and administrative expense, as well as a portion allocated to production as inventoried costs. 
 The share-based plans expense and related income tax benefit were as follows:
 
+**Table Context:** The table summarizes the financial performance related to restricted stock units and income tax benefits over three fiscal years. 
+
+Metrics included: Restricted Stock Units, Other Awards, Income Tax Benefit, Valuation Allowance
+
 | Years ended December 31, | 2024 | 2023 | 2022 |
 |:-----------------------------------------------------------------|:-------|:-------|:-------|
 | Restricted stock units and other awards | $409 | $697 | $726 |
@@ -2930,11 +3246,19 @@ In February 2022, we granted
 110
 % of the grant date fair market value of our stock.
 
+**Table Context:** The table summarizes the details of stock option grants, including their expected life, volatility, interest rate, and fair value. 
+
+Metrics included: Grant Year, Grant Date, Expected Life, Expected Volatility, Risk Free Interest Rate, Grant Date Fair Value Per Option
+
 | Grant Year | Grant Date | Expected Life | Expected Volatility | Risk Free Interest Rate | Grant Date Fair Value Per Option |
 |-------------:|:-------------|:----------------|----------------------:|--------------------------:|:-----------------------------------|
 | 2022 | 2/16/2022 | 6.8 years | 36.6 | 2 | $83.04 |
 
 Stock option activity for the year ended December 31, 2024 was as follows:
+
+**Table Context:** The table provides details on stock options, including the number of shares outstanding, granted, exercised, forfeited, and exercisable, along with their respective weighted average exercise prices and contractual life. 
+
+Metrics included: Number of shares under option: Outstanding at beginning of year, Number of shares under option: Granted, Number of shares under option: Exercised, Number of shares under option: Forfeited, Number of shares under option: Outstanding at end of year, Number of shares under option: Exercisable at end of year, Weighted Average Exercise Price Per Option, Weighted Average Remaining Contractual Life (Years), Aggregate Intrinsic Value.
 
 | col1 | Shares | Weighted Average Exercise Price Per Option | Weighted Average Remaining Contractual Life (Years) | Aggregate Intrinsic Value |
 |:----------------------------------------------------------------|:---------|:---------------------------------------------|------------------------------------------------------:|:----------------------------|
@@ -2991,6 +3315,10 @@ In February 2024, 2023 and 2022, we granted to our executives
 In addition to RSUs awarded under our long-term incentive programs, we granted RSUs to certain executives and employees. These RSUs are labeled other RSUs in the table below.
 The fair values of all RSUs are estimated using the average of the high and low stock prices on the date of grant.
 RSU activity for the year ended December 31, 2024 was as follows:
+
+**Table Context:** The table summarizes the details of the Long-Term Incentive Program, including the number of units granted, forfeited, and outstanding, as well as related compensation costs and amortization periods. 
+
+Metrics included: Number of units outstanding at beginning of year, Number of units granted, Number of units forfeited, Number of units distributed, Number of units outstanding at end of year, Number of units undistributed vested units, Unrecognized compensation cost, Weighted average remaining amortization period (years)
 
 | col1 | Long-Term Incentive Program | Other |
 |:------------------------------------------------------------------------|:------------------------------|:----------|
@@ -3086,6 +3414,10 @@ As of December 31, 2024 and 2023, there were
 
 The following table shows changes in each class of shares:
 
+**Table Context:** The table summarizes the changes in various stock categories over a specified period, detailing the balances and transactions related to common stock, treasury stock, and mandatory convertible preferred stock. 
+
+Metrics included: Common Stock, Treasury Stock, Mandatory Convertible Preferred Stock, Balance at January 1, 2022, Issued, Acquired, Balance at December 31, 2022, Balance at December 31, 2023, Balance at December 31, 2024.
+
 | col1 | Commonstock | Treasurystock | Mandatory convertible preferred stock |
 |:-----------------------------|--------------:|:----------------|----------------------------------------:|
 | Balance at January 1, 2022 | 1.01226e+09 | 423343707 | nan |
@@ -3135,6 +3467,10 @@ Dividends are cumulative at an annual rate of
  per share, and were paid in cash on January 15, 2025.
 The following table illustrates the conversion rate per share of Mandatory convertible preferred stock, subject to certain anti-dilution adjustments, based on the applicable market value of the common stock:
 
+**Table Context:** The table outlines the conversion rates of mandatory convertible preferred stock into common stock based on varying market values. 
+
+Metrics included: Applicable Market Value of Common Stock, Conversion Rate per Share of Mandatory Convertible Preferred Stock, Greater than $171.5854, Equal to or less than $171.5854 but greater than or equal to $142.9797, Less than $142.9797, Number of Shares of Common Stock (5.8280, 6.9940).
+
 | Applicable Market Value of Common Stock | Conversion Rate per Share of Mandatory Convertible Preferred Stock |
 |:-----------------------------------------------------------------------|:---------------------------------------------------------------------------------------------------------------|
 | Greater than $171.5854 | 5.8280 shares of common stock |
@@ -3164,6 +3500,10 @@ During the year ended December 31, 2023, Additional paid-in capital included a d
 ### Accumulated Other Comprehensive Loss
 
 Changes in AOCI by component for the years ended December 31, 2024, 2023 and 2022 were as follows:
+
+**Table Context:** The table summarizes the changes in other comprehensive income and losses over multiple periods, detailing adjustments related to various financial instruments and pension plans. 
+
+Metrics included: Balance at January 1, Other comprehensive (loss)/income before reclassifications, Amounts reclassified from AOCI, Net current period Other comprehensive (loss)/income, Balance at December 31, Other comprehensive income/(loss) before reclassifications, Amounts reclassified from AOCI, Net current period Other comprehensive income/(loss), Balance at December 31, Other comprehensive loss before reclassifications, Amounts reclassified from AOCI, Net current period Other comprehensive loss, Balance at December 31.
 
 | col1 | Currency Translation Adjustments | Unrealized Gains and Losses on Certain Investments | Unrealized Gains and Losses on Derivative Instruments | col4 | Defined Benefit Pension Plans & Other Postretirement Benefits | col7 | Total (1) |
 |:-----------------------------------------------------------|:-----------------------------------|:-----------------------------------------------------|:--------------------------------------------------------|:-------|:----------------------------------------------------------------|:-------|:------------|
@@ -3235,6 +3575,10 @@ We have entered into agreements to purchase and sell aluminum to address long-te
 
 The notional amounts and fair values of derivative instruments in the Consolidated Statements of Financial Position as of December 31 were as follows:
 
+**Table Context:** The table summarizes the notional amounts and recorded balances of various derivative instruments and their associated liabilities for the years 2023 and 2024. 
+
+Metrics included: Total Derivatives, Derivatives designated as hedging instruments: Foreign exchange contracts, Derivatives designated as hedging instruments: Commodity contracts, Derivatives not receiving hedge accounting treatment: Foreign exchange contracts, Derivatives not receiving hedge accounting treatment: Commodity contracts, Netting arrangements, Net recorded balance, Accrued liabilities.
+
 | col1 | Notional amounts(1) | Notional amounts(1) | Other assets | Other assets | Accrued liabilities | Accrued liabilities |
 |:---------------------------------------------------------------------------------|:----------------------|:----------------------|:---------------|:---------------|:----------------------|:----------------------|
 | nan | 2024 | 2023 | 2024 | 2023 | 2024 | 2023 |
@@ -3250,12 +3594,20 @@ The notional amounts and fair values of derivative instruments in the Consolidat
 Notional amounts represent the gross contract/notional amount of the derivatives outstanding.
 (Losses)/gains associated with our hedging transactions and forward points recognized in Other comprehensive income are presented in the following table:
 
+**Table Context:** The table summarizes the recognized amounts in other comprehensive income related to foreign exchange and commodity contracts over three fiscal years. 
+
+Metrics included: Foreign exchange contracts, Commodity contracts, Other comprehensive income, net of taxes.
+
 | Years ended December 31, | 2024 | 2023 | 2022 |
 |:-----------------------------------------------------------------------------------|:-------|:-------|:-------|
 | Recognized in Other comprehensive income, net of taxes: Foreign exchange contracts | ($248) | $61 | ($118) |
 | Commodity contracts | (10) | (20) | 78 |
 
 (Losses)/gains associated with our hedging transactions and forward points reclassified from AOCI to earnings are presented in the following table:
+
+**Table Context:** The table summarizes the financial performance of a company over three years, focusing on revenues and various costs and expenses. 
+
+Metrics included: Foreign exchange contracts Revenues, Costs and expenses, General and administrative expenses, Commodity contracts Costs and expenses, General and administrative expense.
 
 | Years ended December 31, | 2024 | 2023 | 2022 |
 |:---------------------------------------|:-------|:-------|:-------|
@@ -3284,6 +3636,10 @@ five years
 The fair value hierarchy has three levels based on the reliability of the inputs used to determine fair value. Level 1 refers to fair values determined based on quoted prices in active markets for identical assets. Level 2 refers to fair values estimated using significant other observable inputs, and Level 3 includes fair values estimated using significant unobservable inputs. 
 The following table presents our assets and liabilities that are measured at fair value on a recurring basis and are categorized using the fair value hierarchy.
 
+**Table Context:** The table summarizes the financial position of a company by detailing its assets and liabilities as of specific dates. 
+
+Metrics included: Total Assets, Money Market Funds, Available-for-Sale Debt Investments: Commercial Paper, Available-for-Sale Debt Investments: Corporate Notes, Available-for-Sale Debt Investments: U.S. Government Agencies, Available-for-Sale Debt Investments: Other Equity Investments, Available-for-Sale Debt Investments: Derivatives, Total Liabilities, Derivatives.
+
 | col1 | December 31, 2024 | December 31, 2024 | December 31, 2024 | December 31, 2023 | December 31, 2023 | December 31, 2023 |
 |:--------------------------------------------------------------|:--------------------|:--------------------|:--------------------|:--------------------|:--------------------|:--------------------|
 | nan | Total | Level 1 | Level 2 | Total | Level 1 | Level 2 |
@@ -3304,6 +3660,10 @@ Derivatives include foreign currency and commodity contracts. Our foreign curren
 Certain assets have been measured at fair value on a nonrecurring basis. 
 The following table presents the nonrecurring losses recognized for the years ended December 31 due to long-lived asset impairment and the fair value of the related assets as of the impairment date:
 
+**Table Context:** The table summarizes the fair value and total losses associated with various asset categories over two fiscal years. 
+
+Metrics included: Fair Value, Total Losses, Property, Plant and Equipment, Investments, Other Assets, Operating Lease Equipment, Total
+
 | col1 | 2024 | 2024 | 2023 | 2023 |
 |:------------------------------|:-----------|:-------------|:-----------|:-------------|
 | nan | Fair Value | Total Losses | Fair Value | Total Losses |
@@ -3315,6 +3675,10 @@ The following table presents the nonrecurring losses recognized for the years en
 
 Level 2 and Level 3 Property, plant and equipment were valued based on third-party valuations using a combination of income and market approaches and adjusted for as-is condition. Level 3 Investments and Other assets were primarily valued using an income approach based on the discounted cash flows associated with the underlying assets. These approaches are considered estimates of net operating income, capitalization rates, and/or comparable property sales. Level 3 operating lease equipment is derived by calculating a median collateral value from a consistent group of third-party aircraft value publications. The values provided by the third-party aircraft publications are derived from their knowledge of market trades and other market factors. Management reviews the publications quarterly to assess the continued appropriateness and consistency with market trends. Under certain circumstances, we adjust values based on the attributes and condition of the specific aircraft or equipment, usually when the features or use of the aircraft vary significantly from the more generic aircraft attributes covered by third-party publications, or on the expected net sales price for the aircraft.
 For Level 3 operating lease equipment that were measured at fair value on a nonrecurring basis during the period ended December 31, 2024, the following table presents the fair value of those assets as of the measurement date, valuation techniques and related unobservable inputs of those assets.
+
+**Table Context:** The table provides details on the fair value of operating lease equipment using different valuation techniques and unobservable inputs. 
+
+Metrics included: Fair Value, Valuation Technique, Unobservable Input, Range Median or Average
 
 | col1 | Fair Value | ValuationTechnique | Unobservable Input | Range Median or Average |
 |:--------------------------|:-------------|:---------------------|:-------------------------------|:--------------------------|
@@ -3330,12 +3694,20 @@ The negative amount represents the sum, for all aircraft subject to fair value m
 
 The fair values and related carrying values of financial instruments that are not required to be remeasured at fair value on the Consolidated Statements of Financial Position at December 31 were as follows:
 
+**Table Context:** The table provides a summary of the carrying amounts and fair values of various financial assets and liabilities, categorized by their valuation levels. 
+
+Metrics included: Total Assets, Notes Receivable, Total Liabilities, Debt Excluding Finance Lease Obligations, Carrying Amount, Total Fair Value, Level 2, Level 3
+
 | col1 | Carrying Amount | Total Fair Value | Level 2 | Level 3 |
 |:------------------------------------------|:------------------|:-------------------|:----------|:----------|
 | Assets | nan | nan | nan | nan |
 | Notes receivable, net | $940 | $953 | $941 | $12 |
 | Liabilities | nan | nan | nan | nan |
 | Debt, excluding finance lease obligations | (53,625) | (51,089) | nan | nan |
+
+**Table Context:** The table provides a summary of the carrying amounts and fair values of various financial line items related to assets and liabilities. 
+
+Metrics included: Total Assets, Notes Receivable, Total Liabilities, Debt Excluding Finance Lease Obligations, Carrying Amount, Total Fair Value
 
 | col1 | Carrying Amount | Total Fair Value |
 |:------------------------------------------|:------------------|:-------------------|
@@ -3374,6 +3746,10 @@ BGS provides parts, maintenance, modifications, logistics support, training, dat
 Our chief operating decision maker is currently our President and Chief Executive Officer (CEO). The primary profitability measurement used by the CEO to review segment operating results is Segment operating (loss)/earnings. The CEO uses Segment operating (loss)/earnings to allocate resources (including employees, financial and capital resources) for each segment predominantly in the annual planning process. Segment operating (loss)/earnings is used to monitor segment results compared to prior period, forecasted results, and the annual plan.
 The following table reconciles segment Revenues to Segment operating (loss)/earnings:
 
+**Table Context:** The table summarizes the financial performance of three segments (BCA, BDS, BGS) over three fiscal years, highlighting revenues, expenses, and operating earnings or losses. 
+
+Metrics included: Revenues, Research and Development Expense, Other Segment Items, Segment Operating Earnings, Total Assets, Net Income, Total Liabilities, Operating Expenses, Shareholder Equity, Operating Cash Flow, Gross Margin, Earnings Per Share (EPS), Long-Term Debt, Retained Earnings, Cost of Goods Sold, Capital Expenditures.
+
 | col1 | BCA | BDS | BGS |
 |:--------------------------------------------|:---------|:---------|:--------|
 | For the year ended December 31, 2022 | nan | nan | nan |
@@ -3396,6 +3772,10 @@ The following table reconciles segment Revenues to Segment operating (loss)/earn
 Primarily includes costs of products and services and general and administrative expenses.
 While our principal operations are in the United States, Canada and Australia, some key suppliers and subcontractors are located in Europe and Japan. 
 Revenues, including foreign military sales, are reported by customer location and consisted of the following:
+
+**Table Context:** The table summarizes the revenue breakdown by region and total revenues for the years ended December 31 from 2022 to 2024. 
+
+Metrics included: Total non-U.S. revenues, United States revenues, Total revenues, Estimated potential concessions and other considerations to 737 MAX customers, net of insurance recoveries, Asia revenues, Europe revenues, Middle East revenues, Oceania revenues, Canada revenues, Africa revenues, Latin America, Caribbean and other revenues.
 
 | Years ended December 31, | 2024 | 2023 | 2022 |
 |:-----------------------------------------------------------------------------------------------------------|:--------|:--------|:--------|
@@ -3425,6 +3805,10 @@ Revenues from the U.S. government (including foreign military sales through the 
 The following tables present BCA, BDS and BGS revenues from contracts with customers disaggregated in a number of ways, such as geographic location, contract type and the method of revenue recognition. We believe these best depict how the nature, amount, timing and uncertainty of our revenues and cash flows are affected by economic factors.
 BCA revenues by customer location consisted of the following:
 
+**Table Context:** The table summarizes the revenue generated from contracts with customers across different regions and segments for the years ended December 31 from 2022 to 2024. 
+
+Metrics included: Revenue from contracts with customers (Asia), Revenue from contracts with customers (Europe), Revenue from contracts with customers (Middle East), Revenue from contracts with customers (Other non-U.S.), Total non-U.S. revenues, Revenue from contracts with customers (United States), Estimated potential concessions and other considerations to 737 MAX customers, Total revenues from contracts with customers, Intersegment revenues, Total segment revenues, Revenue recognized on fixed-price contracts, Revenue recognized at a point in time.
+
 | Years ended December 31, | 2024 | 2023 | 2022 |
 |:-----------------------------------------------------------------------------------------------------------|:--------|:--------|:--------|
 | Revenue from contracts with customers: Asia | $8,060 | $6,328 | $4,488 |
@@ -3442,6 +3826,10 @@ BCA revenues by customer location consisted of the following:
 
 BDS revenues on contracts with customers, based on the customer's location, consisted of the following:
 
+**Table Context:** The table summarizes the revenue generated from contracts with customers across different segments and years. 
+
+Metrics included: Revenue from contracts with customers, Revenue from U.S. customers, Revenue from Non-U.S. customers, Total segment revenue from contracts with customers, Revenue recognized over time, Revenue recognized on fixed-price contracts, Revenue from the U.S. government.
+
 | Years ended December 31, | 2024 | 2023 | 2022 |
 |:------------------------------------------------------|:--------|:--------|:--------|
 | Revenue from contracts with customers: U.S. customers | $18,589 | $20,051 | $17,144 |
@@ -3454,6 +3842,10 @@ BDS revenues on contracts with customers, based on the customer's location, cons
 (1)
 Includes revenues earned from foreign military sales through the U.S. government.
 BGS revenues consisted of the following:
+
+**Table Context:** The table summarizes the revenue generated from various segments and contracts over three fiscal years. 
+
+Metrics included: Revenue from contracts with customers - Commercial, Revenue from contracts with customers - Government, Total revenues from contracts with customers, Intersegment revenues eliminated on consolidation, Total segment revenues, Revenue recognized at a point in time, Revenue recognized on fixed-price contracts, Revenue from the U.S. government.
 
 | Years ended December 31, | 2024 | 2023 | 2022 |
 |:--------------------------------------------------|:--------|:--------|:--------|
@@ -3495,6 +3887,10 @@ Our backlog at December 31, 2024 was $
 Unallocated items, eliminations and other include common internal services that support Boeing’s global business operations and eliminations of certain sales between segments. We generally allocate costs to business segments based on the U.S. Government Cost Accounting Standards (CAS). 
 Components of Unallocated items, eliminations and other income/(expense) are shown in the following table.
 
+**Table Context:** The table summarizes various financial line items related to expenses and unallocated items for the years ended December 31 from 2022 to 2024. 
+
+Metrics included: Share-based plans, Deferred compensation, Amortization of previously capitalized interest, Research and development expense, Eliminations and other unallocated items, Unallocated items, eliminations and other.
+
 | Years ended December 31, | 2024 | 2023 | 2022 |
 |:------------------------------------------------|:---------|:---------|:---------|
 | Share-based plans | $171 | $62 | ($114) |
@@ -3513,6 +3909,10 @@ During the year ended December 31, 2024, Eliminations and other unallocated ite
 Pension costs are allocated to BDS and BGS businesses supporting government customers using CAS, which employ different actuarial assumptions and accounting conventions than GAAP. These costs are allocable to government contracts. Other postretirement benefit costs are allocated to business segments based on CAS, which is generally based on benefits paid. FAS/CAS service cost adjustment represents the difference between the Financial Accounting Standards (FAS) pension and postretirement service costs calculated under GAAP and costs allocated to the business segments. Non-operating pension and postretirement expenses represent the components of net periodic benefit costs other than service cost. 
 These expenses are included in Other income, net. Components of FAS/CAS service cost adjustment are shown in the following table:
 
+**Table Context:** The table summarizes adjustments related to pension and postretirement service costs over three fiscal years. 
+
+Metrics included: Pension FAS/CAS service cost adjustment, Postretirement FAS/CAS service cost adjustment, FAS/CAS service cost adjustment
+
 | Years ended December 31, | 2024 | 2023 | 2022 |
 |:-----------------------------------------------|:-------|:-------|:-------|
 | Pension FAS/CAS service cost adjustment | $811 | $799 | $849 |
@@ -3522,6 +3922,10 @@ These expenses are included in Other income, net. Components of FAS/CAS service 
 ### Assets
 
 Segment assets are summarized in the table below.
+
+**Table Context:** The table summarizes the revenue contributions from different business segments of a company for the years 2024 and 2023. 
+
+Metrics included: Commercial Airplanes Revenue, Defense, Space & Security Revenue, Global Services Revenue, Unallocated Items Revenue, Total Revenue
 
 | December 31, | 2024 | 2023 |
 |:------------------------------------------|:---------|:---------|
@@ -3537,6 +3941,10 @@ three
 
 ### Capital Expenditures
 
+**Table Context:** The table summarizes the revenue generated from different business segments of a company over three fiscal years. 
+
+Metrics included: Commercial Airplanes Revenue, Defense Space & Security Revenue, Global Services Revenue, Unallocated Items Revenue, Total Revenue
+
 | Years ended December 31, | 2024 | 2023 | 2022 |
 |:------------------------------------------|:-------|:-------|:-------|
 | Commercial Airplanes | $508 | $420 | $218 |
@@ -3550,6 +3958,10 @@ three
  principal business segments.
 
 ### Depreciation and Amortization
+
+**Table Context:** The table summarizes the revenue generated from different business segments of a company over three fiscal years. 
+
+Metrics included: Commercial Airplanes Revenue, Defense Space & Security Revenue, Global Services Revenue, Centrally Managed Assets Revenue, Total Revenue
 
 | Years ended December 31, | 2024 | 2023 | 2022 |
 |:-----------------------------|:-------|:-------|:-------|
@@ -3758,6 +4170,10 @@ None.
 
 Our executive officers and their ages as of February 3, 2025, are as follows:
 
+**Table Context:** The table provides information about the executive leadership team of a company, detailing their names, ages, and principal occupations or business affiliations.
+
+Metrics included: Total Assets, Net Income, Total Liabilities, Operating Expenses, Shareholder Equity, Operating Cash Flow, Gross Margin, Earnings Per Share (EPS), Long-Term Debt, Retained Earnings, Revenue, Cost of Goods Sold, Capital Expenditures.
+
 | Name | Age | Principal Occupation or Employment/Other Business Affiliations |
 |:-------------------|------:|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Uma M. Amuluru | 47 | Executive Vice President and Chief Human Resources Officer since April 2024. Ms. Amuluru previously served as Vice President and Assistant General Counsel, Boeing Defense, Space & Security from April 2023 to March 2024; Chief Compliance Officer and Vice President, Global Compliance from May 2020 to April 2023; Vice President and Assistant General Counsel, Engineering, Test & Technology, IT and Manufacturing, Supply Chain & Operations from October 2018 to May 2020; and Senior Counsel from August 2017 to October 2018. |
@@ -3766,12 +4182,20 @@ Our executive officers and their ages as of February 3, 2025, are as follows:
 | Brett C. Gerry | 53 | Chief Legal Officer and Executive Vice President, Global Compliance since May 2020. Mr. Gerry previously served as Senior Vice President and General Counsel from May 2019 to May 2020; President of Boeing Japan from February 2016 to May 2019; Vice President and General Counsel, Boeing Commercial Airplanes from March 2009 to March 2016; and Chief Counsel, Network and Space Systems from September 2008 to March 2009. |
 | Howard E. McKenzie | 58 | Chief Engineer and Executive Vice President, Engineering, Test & Technology since March 2023. Mr. McKenzie joined Boeing in 1987 and his previous positions include Vice President and Chief Engineer of Boeing Commercial Airplanes from August 2021 to March 2023; Vice President and Chief Engineer of Boeing Global Services from June 2020 to August 2021; Vice President of Boeing Test and Evaluation from June 2019 to June 2020; and Vice President and Chief Project Engineer for the 777 program from October 2017 to June 2019. |
 
+**Table Context:** The table provides information about key executives at Boeing, including their ages and principal occupations or business affiliations.
+
+Metrics included: Total Assets, Net Income, Total Liabilities, Operating Expenses, Shareholder Equity, Operating Cash Flow, Gross Margin, Earnings Per Share (EPS), Long-Term Debt, Retained Earnings, Revenue, Cost of Goods Sold, Capital Expenditures.
+
 | Name | Age | Principal Occupation or Employment/Other Business Affiliations |
 |:-----------------------|------:|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Brendan J. Nelson | 66 | Senior Vice President and President, Boeing Global since January 2023. Dr. Nelson previously served as President of Boeing Australia, New Zealand and South Pacific from February 2020 to January 2023. Prior to joining Boeing, he served as the Director of the Australian War Memorial from December 2012 to December 2019 and as the Australian Ambassador to Belgium, Luxembourg, the European Union and NATO from February 2010 to November 2012. |
 | Robert K. Ortberg | 64 | President and Chief Executive Officer, and a member of the Board, since August 8, 2024. Mr. Ortberg’s previous positions include Special Advisor to the Office of the Chief Executive Officer of RTX Corporation from February 2020 to March 2021 and Chief Executive Officer of Collins Aerospace, a United Technologies company, from December 2018 to February 2020. Prior to that, he served in a number of leadership positions at Rockwell Collins, Inc., including Chairman, President and Chief Executive Officer from 2015 to 2018; President and Chief Executive Officer from 2013 to 2015; President from 2012 to 2013; Executive Vice President, Chief Operating Officer of Government Systems from 2010 to 2012; and Executive Vice President, Chief Operating Officer of Commercial Systems from 2006 to 2010. Mr. Ortberg also serves on the board of directors of Aptiv PLC and served on the board of directors of RTX Corporation. |
 | Stephanie F. Pope | 52 | Executive Vice President and Chief Operating Officer since January 2024 and President and Chief Executive Officer, Boeing Commercial Airplanes since March 2024. Ms. Pope joined Boeing in 1994, and her previous positions include Executive Vice President, President and Chief Executive Officer, Boeing Global Services from April 2022 to December 2023; Vice President and Chief Financial Officer of Boeing Commercial Airplanes from December 2020 to March 2022; Vice President and Chief Financial Officer of Boeing Global Services from January 2017 to December 2020; Vice President of Finance and Controller for Boeing Defense, Space & Security from August 2016 to December 2016; and Vice President, Financial Planning & Analysis from February 2013 to July 2016. |
 | D. Christopher Raymond | 60 | Executive Vice President, President and Chief Executive Officer, Boeing Global Services since January 2024. Mr. Raymond joined Boeing in 1986 and his previous positions include Senior Vice President and Chief Sustainability Officer from October 2020 to December 2023; Vice President of Sustainability, Strategy and Corporate Development from April 2019 to October 2020; Vice President and General Manager of Autonomous Systems, a division within Boeing Defense, Space & Security, from April 2015 to July 2018; and a series of other Vice President and General Manager of several businesses for Boeing Defense, Space & Security. |
+
+**Table Context:** The table provides information about key executives at Boeing, detailing their ages and professional backgrounds. 
+
+Metrics included: Total Assets, Net Income, Total Liabilities, Operating Expenses, Shareholder Equity, Operating Cash Flow, Gross Margin, Earnings Per Share (EPS), Long-Term Debt, Retained Earnings, Revenue, Cost of Goods Sold, Capital Expenditures.
 
 | Name | Age | Principal Occupation or Employment/Other Business Affiliations |
 |:---------------|------:|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -3793,6 +4217,10 @@ The information required by this item will be included under “Compensation Di
 ### Equity Compensation Plan Information
 
 Our equity compensation plans approved by our shareholders provide for the issuance of common stock to officers and other employees, directors and consultants. The following table sets forth information regarding outstanding stock options and stock units, and shares available for future issuance under these plans as of December 31, 2024:
+
+**Table Context:** The table summarizes the details of equity compensation plans, including the number of shares, exercise prices, and available securities for future issuance. 
+
+Metrics included: Number of shares to be issued upon exercise of outstanding options and units, Weighted-average exercise price of outstanding options, Number of securities remaining available for future issuance under equity compensation plans, Equity compensation plans approved by shareholders, Stock options, Deferred compensation, Other stock units, Equity compensation plans not approved by shareholders, Total.
 
 | Plan Category | Number of shares to be issued upon exercise of outstanding options and units | Weighted-average exercise price of outstanding options | Number of securities remaining available for future issuance under equity compensation plans (excluding shares reflected in column (a)) | col1 |
 |:--------------------------------------------------------------------|:-------------------------------------------------------------------------------|:---------------------------------------------------------|:------------------------------------------------------------------------------------------------------------------------------------------|:-------|
@@ -3842,6 +4270,10 @@ All schedules are omitted because they are not applicable, not required or the i
 3.
 Exhibits
 
+**Table Context:** The table provides a list of various legal documents and agreements related to The Boeing Company, including merger agreements, corporate governance documents, and securities information. 
+
+Metrics included: Total Assets, Net Income, Total Liabilities, Operating Expenses, Shareholder Equity, Operating Cash Flow, Gross Margin, Earnings Per Share (EPS), Long-Term Debt, Retained Earnings, Revenue, Cost of Goods Sold, Capital Expenditures.
+
 | 2.1† | Agreement and Plan of Merger, dated June 30, 2024, by and among Spirit AeroSystems Holdings, Inc., The Boeing Company and Sphere Acquisition Corp. (Exhibit 2.1 to the Company’s Current Report on Form 8-K, dated July 1, 2024) |
 |-------:|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | 3.1 | Amended and Restated Certificate of Incorporation of The Boeing Company dated May 5, 2006 (Exhibit 3.1 to the Company’s Current Report on Form 8-K dated May 1, 2006) |
@@ -3851,6 +4283,10 @@ Exhibits
 | 4.2 | Senior Debt Securities Indenture dated as of February 1, 2003, between The Boeing Company and The Bank of New York Mellon Trust Company, N.A. (as successor to JPMorgan Chase Bank), as trustee (incorporated herein by reference to Exhibit 4.1 to the Company’s Form S-3 dated March 9, 2009) |
 | 4.3 | First Supplemental Indenture, dated as of May 1, 2024 between The Boeing Company and The Bank of New York Mellon, N.A., as successor trustee to JPMorgan Chase Bank, as Trustee (Exhibit 4.1 to the Company’s Current Report on Form 8-K, dated April 29, 2024) |
 | 4.4 | Form of Certificate for the 6.00% Series A Mandatory Convertible Preferred Stock (Exhibit 4.1 to the Company’s Current Report on Form 8-K dated October 28, 2024) |
+
+**Table Context:** The table provides a list of various agreements and plans related to The Boeing Company, including credit agreements, compensation plans, and joint venture agreements.
+
+Metrics included: Total Assets, Net Income, Total Liabilities, Operating Expenses, Shareholder Equity, Operating Cash Flow, Gross Margin, Earnings Per Share (EPS), Long-Term Debt, Retained Earnings, Revenue, Cost of Goods Sold, Capital Expenditures.
 
 | 4.5 | Deposit Agreement, dated as of October 31, 2024, among The Boeing Company, Computershare Inc. and Computershare Trust Company, N.A., acting jointly as Depositary, and the holders from time to time of the depositary receipts described therein (Exhibit 4.2 to the Company’s Current Report on Form 8-K dated October 28, 2024) |
 |------:|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -3866,6 +4302,10 @@ Exhibits
 | 10.9 | The Boeing Company Global Annual Incentive Plan, as amended and restated effective January 1, 2025 (formerly known as The Boeing Company Annual Incentive Plan)* |
 | 10.1 | The Boeing Company 1997 Incentive Stock Plan, as amended effective May 1, 2000, and further amended effective January 1, 2008 (Exhibit 10.5 to the Company’s Current Report on Form 8-K dated October 28, 2007)* |
 | 10.11 | Supplemental Executive Retirement Plan for Employees of The Boeing Company, as amended and restated as of June 1, 2021 (Exhibit 10.13 to the Company’s Form 10-K for the year ended December 31, 2023)* |
+
+**Table Context:** The table lists various executive compensation plans and stock option agreements related to The Boeing Company, effective from January 1, 2025, and includes forms of notices for stock options and restricted stock units.
+
+Metrics included: Executive Supplemental Savings Plan, Executive Layoff Benefits Plan, Incentive Stock Plan, Non-Qualified Stock Option, Restricted Stock Units, Long-Term Incentive Restricted Stock Units, Non-Qualified Premium-Priced Stock Option, Performance Restricted Stock Units.
 
 | 10.12 | The Boeing Company Executive Supplemental Savings Plan, as amended and restated effective January 1, 2025* |
 |--------:|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -3887,6 +4327,10 @@ Exhibits
 | 10.28 | Form of U.S. Notice of Terms of Long-Term Incentive Performance Restricted Stock Units – CEO (Exhibit 10.2 to the Company’s Form 10-Q for the quarter ended March 31, 2023)* |
 | 10.29 | Form of U.S. Notice of Terms of Long-Term Incentive Restricted Stock Units (Exhibit 10.3 to the Company’s Form 10-Q for the quarter ended March 31, 2023)* |
 | 10.3 | Form of International Notice of Terms of Long-Term Incentive Restricted Stock Units (Stock-Settled) (Exhibit 10.4 to the Company’s Form 10-Q for the quarter ended March 31, 2023)* |
+
+**Table Context:** The table lists various forms and notices related to long-term incentive performance restricted stock units and other compensation-related documents for the company, as well as certifications required under the Sarbanes-Oxley Act.
+
+Metrics included: Total Assets, Net Income, Total Liabilities, Operating Expenses, Shareholder Equity, Operating Cash Flow, Gross Margin, Earnings Per Share (EPS), Long-Term Debt, Retained Earnings, Revenue, Cost of Goods Sold, Capital Expenditures.
 
 | 10.31 | Form of U.S. Notice of Terms of Long-Term Incentive Performance Restricted Stock Units (Exhibit 10.5 to the Company’s Form 10-Q for the quarter ended March 31, 2023)* |
 |--------:|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -3910,6 +4354,10 @@ Exhibits
 | 31.2 | Certification of Chief Financial Officer pursuant to Section 302 of Sarbanes-Oxley Act of 2002 |
 | 32.1 | Certification of Chief Executive Officer pursuant to Section 906 of Sarbanes-Oxley Act of 2002 |
 | 32.2 | Certification of Chief Financial Officer pursuant to Section 906 of Sarbanes-Oxley Act of 2002 |
+
+**Table Context:** The table provides references to various exhibits and documents related to The Boeing Company's Form 10-K for the year ended December 31, 2023, including accounting policies and XBRL taxonomy extensions. 
+
+Metrics included: Total Assets, Net Income, Total Liabilities, Operating Expenses, Shareholder Equity, Operating Cash Flow, Gross Margin, Earnings Per Share (EPS), Long-Term Debt, Retained Earnings, Revenue, Cost of Goods Sold, Capital Expenditures.
 
 | 97 | The Boeing Company Clawback Policy (Exhibit 97 to the Company’s Form 10-K for the year ended December 31, 2023) |
 |:--------|:----------------------------------------------------------------------------------------------------------------------------------|
@@ -3935,11 +4383,19 @@ None.
 Pursuant to the requirements of Section 13 or 15(d) of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned, thereunto duly authorized.
 Date: February 3, 2025
 
+**Table Context:** The table serves to identify the signatory of the SEC 10-K report, specifically highlighting the individual responsible for financial oversight. 
+
+Metrics included: Total Assets, Net Income, Total Liabilities, Operating Expenses, Shareholder Equity, Operating Cash Flow, Gross Margin, Earnings Per Share (EPS), Long-Term Debt, Retained Earnings, Revenue, Cost of Goods Sold, Capital Expenditures.
+
 | /s/ Michael J. Cleary |
 |:---------------------------------------------------------|
 | Michael J. Cleary – Senior Vice President and Controller |
 
 Pursuant to the requirements of the Securities Exchange Act of 1934, this report has been signed below by the following persons on behalf of the registrant and in the capacities indicated on February 3, 2025.
+
+**Table Context:** The table lists the signatures of key executives and directors of the company, indicating their roles and responsibilities. 
+
+Metrics included: Total Assets, Net Income, Total Liabilities, Operating Expenses, Shareholder Equity, Operating Cash Flow, Gross Margin, Earnings Per Share (EPS), Long-Term Debt, Retained Earnings, Revenue, Cost of Goods Sold, Capital Expenditures.
 
 | /s/ Robert K. Ortberg | /s/ Lynn J. Good |
 |:-----------------------------------------------------------------------|:------------------------------------------|

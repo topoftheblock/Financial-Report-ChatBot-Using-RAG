@@ -196,6 +196,10 @@ We support a flexible work environment allowing us to recruit the very best empl
 
 The following sets forth certain information regarding our executive officers, their ages, and positions as of February 21, 2025:
 
+**Table Context:** The table provides information about the executive leadership team of a company, including their names, ages, and positions. 
+
+Metrics included: Total Assets, Net Income, Total Liabilities, Operating Expenses, Shareholder Equity, Operating Cash Flow, Gross Margin, Earnings Per Share (EPS), Long-Term Debt, Retained Earnings, Revenue, Cost of Goods Sold, Capital Expenditures.
+
 | Name | Age | Position |
 |:-----------------|------:|:-----------------------------------------------------|
 | Jen-Hsun Huang | 62 | President and Chief Executive Officer |
@@ -625,6 +629,10 @@ market conditions, applicable legal requirements, and other factors. Our share r
 In fiscal year 2025, we paid cash dividends to our shareholders of $834 million. The payment of future cash dividends is subject to our Board of Directors' continuing determination that the declaration of dividends is in the best interests of our shareholders.
 The following table presents details of our share repurchase transactions during the fourth quarter of fiscal year 2025:
 
+**Table Context:** The table summarizes the share repurchase activity of a company over specific periods, detailing the number of shares purchased, the average price paid, and the remaining value under a publicly announced buyback program. 
+
+Metrics included: Total Number of Shares Purchased, Average Price Paid per Share, Total Number of Shares Purchased as Part of Publicly Announced Program, Approximate Dollar Value of Shares that May Yet Be Purchased Under the Program.
+
 | Period | Total Number of Shares Purchased (In millions) | Average Price Paid per Share (1) | Total Number of Shares Purchased as Part of Publicly Announced Program (In millions) | Approximate Dollar Value of Shares that May Yet Be Purchased Under the Program (In billions) |
 |:--------------------------------------|-------------------------------------------------:|:-----------------------------------|---------------------------------------------------------------------------------------:|:-----------------------------------------------------------------------------------------------|
 | October 28, 2024 - November 24, 2024 | 25.4 | $142.67 | 25.4 | $42.8 |
@@ -650,6 +658,10 @@ The above securities were issued in transactions not involving a public offering
 The following graph compares the cumulative total shareholder return for our common stock, the S&P 500 Index, and the Nasdaq 100 Index for the five years ended January 26, 2025. The graph assumes that $100 was invested on January 26, 2020 in our common stock and in each of the S&P 500 Index and the Nasdaq 100 Index. Our common stock is a component of each of the presented indices. Total return assumes reinvestment of dividends in each of the indices indicated. Total return is based on historical results and is not intended to indicate future performance.
 *$100 invested on 1/26/2020 in stock and in indices, including reinvestment of dividends. 
 Source: FactSet financial data and analytics.
+
+**Table Context:** The table compares the financial performance of NVIDIA Corporation against the S&P 500 and Nasdaq 100 indices over several years. 
+
+Metrics included: Total Assets, Revenue, Net Income, Total Liabilities, Operating Expenses, Shareholder Equity, Operating Cash Flow, Gross Margin, Earnings Per Share (EPS), Long-Term Debt, Retained Earnings, Cost of Goods Sold, Capital Expenditures.
 
 | col1 | 1/26/2020 | 1/31/2021 | 1/30/2022 | 1/29/2023 | 1/28/2024 | 1/26/2025 |
 |:-------------------|:------------|:------------|:------------|:------------|:------------|:------------|
@@ -703,6 +715,10 @@ Macroeconomic factors, including inflation, interest rate changes, capital mar
 We are monitoring the impact of the geopolitical conflict in and around Israel on our operations, including the health and safety of our approximately 4,700 employees in the region who primarily support the research and development, operations, and sales and marketing of our networking products. Our global supply chain for our networking products has not experienced any significant impact. Some of our employees in the region have been on active military duty for an extended period and may continue to be absent, which may cause disruption to our product development or operations. We have not experienced significant impact or expense to our business; however, if the conflict is further extended or expanded, it could impact future product development, operations, and revenue or create other uncertainty for our business.
 
 ### Fiscal Year 2025 Summary
+
+**Table Context:** The table summarizes key financial performance metrics for a company over two fiscal periods, highlighting changes in revenue, expenses, and profitability. 
+
+Metrics included: Revenue, Gross margin, Operating expenses, Operating income, Net income, Net income per diluted share.
 
 | col1 | Jan 26, 2025 | Jan 28, 2024 | Change |
 |:-----------------------------|:---------------------------------------|:---------------|:-----------|
@@ -762,6 +778,10 @@ We allocate the total transaction price to each distinct performance obligation 
 A discussion regarding our financial condition and results of operations for fiscal year 2025 compared to fiscal year 2024 is presented below. A discussion regarding our financial condition and results of operations for fiscal year 2024 compared to fiscal year 2023 can be found under Item 7 in our Annual Report on Form 10-K for the fiscal year ended January 28, 2024, filed with the SEC on February 21, 2024, which is available free of charge on the SEC’s website at http://www.sec.gov and at our investor relations website, http://investor.nvidia.com.
 The following table sets forth, for the periods indicated, certain items in our Consolidated Statements of Income expressed as a percentage of revenue. 
 
+**Table Context:** The table summarizes key financial performance metrics for a company over two fiscal periods, highlighting revenue, expenses, and net income. 
+
+Metrics included: Revenue, Cost of revenue, Gross profit, Operating expenses, Research and development, Sales, general and administrative, Total operating expenses, Operating income, Interest income, Interest expense, Other, net, Other income (expense), net, Income before income tax, Income tax expense, Net income.
+
 | col1 | Jan 26, 2025 | Jan 28, 2024 |
 |:----------------------------------|:---------------|:---------------|
 | Revenue | 100.0 | 100.0 |
@@ -784,6 +804,10 @@ The following table sets forth, for the periods indicated, certain items in our 
 
 ### Revenue by Reportable Segments
 
+**Table Context:** The table summarizes the financial performance of a company in the Compute & Networking and Graphics segments over two fiscal periods, highlighting changes in revenue. 
+
+Metrics included: Total Revenue, Compute & Networking Revenue, Graphics Revenue, $ Change, % Change
+
 | col1 | Jan 26, 2025 | Jan 28, 2024 | $ Change | % Change |
 |:---------------------|:----------------|:---------------|:-----------|-----------:|
 | nan | ($ in millions) | nan | nan | nan |
@@ -792,6 +816,10 @@ The following table sets forth, for the periods indicated, certain items in our 
 | Total | $130497 | $60922 | $69575 | 114 |
 
 ### Operating Income by Reportable Segments
+
+**Table Context:** The table summarizes the financial performance of a company across different segments for two fiscal years, highlighting changes in revenue and other financial metrics. 
+
+Metrics included: Total Revenue, Compute & Networking Revenue, Graphics Revenue, All Other Revenue, Total Revenue Change, Total Revenue Percentage Change.
 
 | col1 | Jan 26, 2025 | Jan 28, 2024 | $ Change | % Change |
 |:---------------------|:----------------|:---------------|:-----------|:-----------|
@@ -816,6 +844,10 @@ We refer to customers who purchase products directly from NVIDIA as direct custo
 Direct Customers
  – Sales to direct customers which represented 10% or more of total revenue, all of which were primarily attributable to the Compute & Networking segment, are presented in the following table:
 
+**Table Context:** The table summarizes the revenue generated from direct customers over two fiscal periods. 
+
+Metrics included: Direct Customer A Revenue, Direct Customer B Revenue, Direct Customer C Revenue
+
 | col1 | Jan 26, 2025 | Jan 28, 2024 |
 |:------------------|---------------:|:---------------|
 | Direct Customer A | 12 | * |
@@ -837,6 +869,10 @@ Provisions for inventory and excess inventory purchase obligations totaled $3.7 
 
 ### Operating Expenses
 
+**Table Context:** The table summarizes the company's operating expenses, including research and development and sales, general and administrative expenses, along with their respective percentages of net revenue for two fiscal years. 
+
+Metrics included: Research and Development Expenses, Sales, General and Administrative Expenses, Total Operating Expenses, % of Net Revenue (Research and Development), % of Net Revenue (Sales, General and Administrative), % of Net Revenue (Total Operating Expenses)
+
 | col1 | Jan 26, 2025 | Jan 28, 2024 | $ Change | % Change |
 |:-------------------------------------------|:----------------|:---------------|:-----------|-----------:|
 | nan | ($ in millions) | nan | nan | nan |
@@ -851,6 +887,10 @@ The increases in research and development expenses for fiscal year 2025 were dri
 The increases in sales, general and administrative expenses for fiscal year 2025 were primarily driven by compensation and benefits, including stock-based compensation, reflecting employee growth and compensation increases.
 
 ### Other Income (Expense), Net
+
+**Table Context:** The table summarizes the financial performance of a company by detailing various income and expense line items for two consecutive fiscal years. 
+
+Metrics included: Interest Income, Interest Expense, Other Income (Expense), Net Income, Total Revenue, Total Expenses, Operating Income, Net Interest Income, Total Other Income (Expense), Change in Interest Income, Change in Interest Expense, Change in Other Income (Expense), Change in Net Income.
 
 | col1 | Jan 26, 2025 | Jan 28, 2024 | $ Change |
 |:----------------------------|:----------------|:---------------|:-----------|
@@ -874,12 +914,20 @@ Refer to Note 13 of the Notes to the Consolidated Financial Statements in Part 
 
 ### Liquidity and Capital Resources
 
+**Table Context:** The table summarizes the cash and cash equivalents, along with marketable securities, for two fiscal periods. 
+
+Metrics included: Cash and cash equivalents, Marketable securities, Cash, cash equivalents, and marketable securities
+
 | col1 | Jan 26, 2025 | Jan 28, 2024 |
 |:--------------------------------------------------|:---------------|:---------------|
 | nan | (In millions) | nan |
 | Cash and cash equivalents | $8589 | $7280 |
 | Marketable securities | 34621 | 18704 |
 | Cash, cash equivalents, and marketable securities | $43210 | $25984 |
+
+**Table Context:** The table summarizes the cash flow activities of a company for two fiscal years, detailing the net cash provided and used in operating, investing, and financing activities. 
+
+Metrics included: Net Cash Provided by Operating Activities, Net Cash Used in Investing Activities, Net Cash Used in Financing Activities
 
 | col1 | Jan 26, 2025 | Jan 28, 2024 |
 |:------------------------------------------|:---------------|:---------------|
@@ -909,6 +957,10 @@ The U.S. Inflation Reduction Act of 2022 requires a 1% excise tax on certain sha
 ### Outstanding Indebtedness and Commercial Paper Program
 
 Our aggregate debt maturities as of January 26, 2025, by year payable, are as follows:
+
+**Table Context:** The table summarizes the company's long-term debt obligations and related financial metrics. 
+
+Metrics included: Due in one year, Due in one to five years, Due in five to ten years, Due in greater than ten years, Unamortized debt discount and issuance costs, Net long-term carrying amount
 
 | Due in one year | $ |
 |:---------------------------------------------|:------|
@@ -995,6 +1047,10 @@ adopted
 terminated
  a trading arrangement that is intended to satisfy the affirmative defense conditions of Rule 10b5-1(c), or a Rule 10b5-1 Trading Arrangement:
 
+**Table Context:** The table outlines actions related to the stock options of directors and officers, including terminations and adoptions of shares. 
+
+Metrics included: Total Shares of Common Stock to be Sold, Expiration Date, Action, Date, Title of Director or Officer, Name
+
 | Name | Title of Director or Officer | Action | Date | Total Shares of Common Stock to be Sold | Expiration Date |
 |:---------------|:-------------------------------|:------------|:------------------|:------------------------------------------|:------------------|
 | Aarti Shah | Director | Termination | November 25, 2024 | 29,000* | nan |
@@ -1064,6 +1120,10 @@ Information regarding accounting fees and services required by this item will be
 
 ## Item 15. Exhibits and Financial Statement Schedules
 
+**Table Context:** The table summarizes the financial statements and related schedules included in the SEC 10-K report, detailing the company's financial performance and position over specified periods. 
+
+Metrics included: Report of Independent Registered Public Accounting Firm, Consolidated Statements of Income, Consolidated Statements of Comprehensive Income, Consolidated Balance Sheets, Consolidated Statements of Shareholders’ Equity, Consolidated Statements of Cash Flows, Notes to the Consolidated Financial Statements, Schedule II Valuation and Qualifying Accounts.
+
 | 1.0 | Financial Statements | col1 |
 |------:|:-----------------------------------------------------------------------------------------------------------------------------------------------|-------:|
 | nan | Report of Independent Registered Public Accounting Firm (PCAOB ID: 238) | 50 |
@@ -1117,6 +1177,10 @@ We have served as the Company’s auditor since 2004.
 
 ### (In millions, except per share data)
 
+**Table Context:** The table summarizes key financial performance metrics for a company over three fiscal years, highlighting revenue, expenses, and net income. 
+
+Metrics included: Revenue, Cost of revenue, Gross profit, Operating expenses, Research and development, Sales, general and administrative, Acquisition termination cost, Total operating expenses, Operating income, Interest income, Interest expense, Other, net, Other income (expense), net, Income before income tax, Income tax expense (benefit), Net income, Net income per share: Basic, Net income per share: Diluted, Weighted average shares used in per share computation: Basic, Weighted average shares used in per share computation: Diluted.
+
 | col1 | Jan 26, 2025 | Jan 28, 2024 | Jan 29, 2023 |
 |:---------------------------------------------------------------|:---------------|:---------------|:---------------|
 | Revenue | $130497 | $60922 | $26974 |
@@ -1148,6 +1212,10 @@ See accompanying Notes to the Consolidated Financial Statements.
 
 ### (In millions)
 
+**Table Context:** The table summarizes the company's net income and other comprehensive income components over three fiscal years. 
+
+Metrics included: Net Income, Other Comprehensive Income (Loss), Available-for-Sale Securities: Net Change in Unrealized Gain (Loss), Available-for-Sale Securities: Reclassification Adjustments for Net Realized Gain Included in Net Income, Cash Flow Hedges: Net Change in Unrealized Gain, Cash Flow Hedges: Reclassification Adjustments for Net Realized Loss Included in Net Income, Cash Flow Hedges: Net Change in Unrealized Loss, Cash Flow Hedges: Other Comprehensive Income (Loss), Total Comprehensive Income.
+
 | col1 | Jan 26, 2025 | Jan 28, 2024 | Jan 29, 2023 |
 |:---------------------------------------------------------------------------------------------------------|:---------------|:---------------|:---------------|
 | Net income | $72880 | $29760 | $4368 |
@@ -1168,6 +1236,10 @@ See accompanying Notes to the Consolidated Financial Statements.
 ### Consolidated Balance Sheets
 
 ### (In millions, except par value)
+
+**Table Context:** The table summarizes the financial position of a company by detailing its assets, liabilities, and shareholders' equity as of two different dates. 
+
+Metrics included: Current assets, Cash and cash equivalents, Marketable securities, Accounts receivable, net, Inventories, Prepaid expenses and other current assets, Total current assets, Property and equipment, net, Operating lease assets, Goodwill, Intangible assets, net, Deferred income tax assets, Other assets, Total assets, Current liabilities, Accounts payable, Accrued and other current liabilities, Short-term debt, Total current liabilities, Long-term debt, Long-term operating lease liabilities, Other long-term liabilities, Total liabilities, Shareholders’ equity, Preferred stock, Common stock, Additional paid-in capital, Accumulated other comprehensive income, Retained earnings, Total shareholders' equity, Total liabilities and shareholders' equity.
 
 | col1 | Jan 26, 2025 | Jan 28, 2024 |
 |:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:---------------|:---------------|
@@ -1209,6 +1281,10 @@ See accompanying Notes to the Consolidated Financial Statements.
 
 ### Consolidated Statements of Shareholders' Equity
 
+**Table Context:** The table summarizes the changes in shareholders' equity over multiple fiscal years, detailing components such as common stock, retained earnings, and comprehensive income. 
+
+Metrics included: Common Stock Outstanding, Additional Paid-in Capital, Accumulated Other Comprehensive Income (Loss), Retained Earnings, Total Shareholders' Equity, Net Income, Other Comprehensive Income (Loss), Issuance of Common Stock from Stock Plans, Tax Withholding Related to Vesting of Restricted Stock Units, Shares Repurchased, Cash Dividends Declared and Paid, Stock-based Compensation.
+
 | col1 | Common Stock Outstanding | Common Stock Outstanding | Additional Paid-in | Accumulated Other Comprehensive | Retained | Total Shareholders' |
 |:-------------------------------------------------------------|:---------------------------|:---------------------------|:---------------------|:----------------------------------|:-----------|:----------------------|
 | nan | Shares | Amount | Capital | Income (Loss) | Earnings | Equity |
@@ -1246,6 +1322,10 @@ See accompanying Notes to the Consolidated Financial Statements.
 ### Consolidated Statements of Cash Flows
 
 ### (In millions)
+
+**Table Context:** The table summarizes the cash flow activities of a company over three fiscal years, detailing the sources and uses of cash from operating, investing, and financing activities.
+
+Metrics included: Net Income, Stock-based Compensation Expense, Depreciation and Amortization, Deferred Income Taxes, Gains/Losses on Non-marketable Equity Securities, Acquisition Termination Cost, Other Adjustments, Accounts Receivable, Inventories, Prepaid Expenses and Other Assets, Accounts Payable, Accrued and Other Current Liabilities, Other Long-term Liabilities, Net Cash Provided by Operating Activities, Proceeds from Maturities of Marketable Securities, Proceeds from Sales of Marketable Securities, Proceeds from Sales of Non-marketable Equity Securities, Purchases of Marketable Securities, Purchases Related to Property and Equipment and Intangible Assets, Purchases of Non-marketable Equity Securities, Acquisitions Net of Cash Acquired, Other Investing Activities, Net Cash Provided by (Used in) Investing Activities, Proceeds Related to Employee Stock Plans, Payments Related to Repurchases of Common Stock, Payments Related to Tax on Restricted Stock Units, Repayment of Debt, Dividends Paid, Principal Payments on Property and Equipment and Intangible Assets, Other Financing Activities, Net Cash
 
 | col1 | Jan 26, 2025 | Jan 28, 2024 | Jan 29, 2023 |
 |:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:---------------|:---------------|:---------------|
@@ -1506,6 +1586,10 @@ In February 2022, NVIDIA and SoftBank Group Corp, or SoftBank, announced the ter
 Stock-based compensation expense is associated with RSUs, PSUs, market-based PSUs, and our ESPP.
 Consolidated Statements of Income include stock-based compensation expense, net of amounts capitalized into inventory and subsequently recognized to cost of revenue, as follows:
 
+**Table Context:** The table summarizes the company's financial performance over three fiscal years, focusing on various expense categories and total expenditures. 
+
+Metrics included: Cost of Revenue, Research and Development, Sales General and Administrative, Total
+
 | col1 | Jan 26, 2025 | Jan 28, 2024 | Jan 29, 2023 |
 |:----------------------------------|:---------------|:---------------|:---------------|
 | nan | (In millions) | nan | nan |
@@ -1525,6 +1609,10 @@ Stock-based compensation capitalized in inventories was not significant during f
 
 (Continued)
 The following is a summary of equity awards granted under our equity incentive plans:
+
+**Table Context:** The table provides information on stock awards and their fair value over three fiscal years, highlighting the company's equity compensation practices. 
+
+Metrics included: Awards granted, Estimated total grant-date fair value, Weighted average grant-date fair value per share, Shares purchased, Weighted average price per share, Weighted average grant-date fair value per share.
 
 | col1 | Jan 26, 2025 | Jan 28, 2024 | Jan 29, 2023 |
 |:-------------------------------------------------|:-------------------------------------|:---------------|:---------------|
@@ -1546,6 +1634,10 @@ As of January 26, 2025, aggregate unearned stock-based compensation expense was
 one year
  for ESPP.
 The fair value of shares issued under our ESPP have been estimated with the following assumptions:
+
+**Table Context:** The table provides information on various financial metrics related to stock options and employee stock purchase plans, including expected life, risk-free interest rates, volatility, and dividend yield.
+
+Metrics included: Weighted average expected life, Risk-free interest rate, Volatility, Dividend yield
 
 | col1 | Jan 26, 2025 | Jan 28, 2024 | Jan 29, 2023 |
 |:------------------------------------------|:--------------------------------|:---------------|:---------------|
@@ -1607,6 +1699,10 @@ six months
 
 The following is a summary of our equity award transactions under our equity incentive plans: 
 
+**Table Context:** The table provides information on the number of shares and their weighted average grant-date fair value over specific periods, reflecting stock option activity. 
+
+Metrics included: Number of Shares, Balance as of Jan 28, 2024, Granted, Vested, Canceled and forfeited, Balance as of Jan 26, 2025, Vested and expected to vest after Jan 26, 2025, Weighted Average Grant-Date Fair Value Per Share.
+
 | col1 | Number of Shares | Weighted Average Grant-Date Fair Value Per Share |
 |:-----------------------------------------------|:-------------------------------------|:---------------------------------------------------|
 | nan | (In millions, except per share data) | nan |
@@ -1642,6 +1738,10 @@ The total fair value of RSUs and PSUs, as of their respective vesting dates, dur
 ### Note 4 - Net Income Per Share
 
 The following is a reconciliation of the denominator of the basic and diluted net income per share computations for the periods presented:
+
+**Table Context:** The table summarizes key financial metrics related to net income and earnings per share over three fiscal years. 
+
+Metrics included: Net Income, Basic Weighted Average Shares, Dilutive Impact of Outstanding Equity Awards, Diluted Weighted Average Shares, Net Income per Share: Basic, Net Income per Share: Diluted, Anti-Dilutive Equity Awards Excluded from Diluted Net Income per Share.
 
 | col1 | Jan 26, 2025 | Jan 28, 2024 | Jan 29, 2023 |
 |:---------------------------------------------------------------------------------------------|:-------------------------------------|:---------------|:---------------|
@@ -1681,6 +1781,10 @@ t impaired.
 
 The components of our amortizable intangible assets are as follows:
 
+**Table Context:** The table summarizes the carrying amounts and amortization of various intangible assets for two fiscal years. 
+
+Metrics included: Gross Carrying Amount, Accumulated Amortization, Net Carrying Amount, Acquisition-related Intangible Assets, Patents and Licensed Technology, Total Intangible Assets.
+
 | col1 | Jan 26, 2025 | Jan 26, 2025 | Jan 26, 2025 | Jan 28, 2024 | Jan 28, 2024 | Jan 28, 2024 |
 |:--------------------------------------|:----------------------|:-------------------------|:--------------------|:----------------------|:-------------------------|:--------------------|
 | nan | Gross Carrying Amount | Accumulated Amortization | Net Carrying Amount | Gross Carrying Amount | Accumulated Amortization | Net Carrying Amount |
@@ -1707,6 +1811,10 @@ Amortization expense associated with intangible assets for fiscal years 2025, 20
 (Continued)
 The following table outlines the estimated future amortization expense related to the net carrying amount of intangible assets as of January 26, 2025:
 
+**Table Context:** The table summarizes projected financial figures for a company over several fiscal years. 
+
+Metrics included: Total Assets, Total Liabilities, Shareholder Equity, Revenue, Net Income, Operating Expenses, Operating Cash Flow, Gross Margin, Earnings Per Share (EPS), Long-Term Debt, Retained Earnings, Cost of Goods Sold, Capital Expenditures.
+
 | Fiscal Year: | col1 |
 |:--------------------|:-------|
 | 2026 | $354 |
@@ -1720,6 +1828,10 @@ The following table outlines the estimated future amortization expense related t
 ### Note 7 - Cash Equivalents and Marketable Securities
 
 The following is a summary of cash equivalents and marketable securities:
+
+**Table Context:** The table summarizes the fair value and amortized cost of various financial instruments held by the company, including their unrealized gains and losses. 
+
+Metrics included: Amortized Cost, Unrealized Gain, Unrealized Loss, Estimated Fair Value, Cash Equivalents, Marketable Securities, Corporate Debt Securities, Debt Securities Issued by the U.S. Treasury, Money Market Funds, Debt Securities Issued by U.S. Government Agencies, Foreign Government Bonds, Certificates of Deposit, Total Debt Securities with Fair Value Adjustments Recorded in Other Comprehensive Income, Publicly-held Equity Securities, Total.
 
 | col1 | Amortized Cost | Unrealized Gain | Unrealized Loss | Estimated Fair Value | Reported as | Reported as |
 |:-----------------------------------------------------------------------------------------|:-----------------|:------------------|:------------------|:-----------------------|:-----------------|:----------------------|
@@ -1752,6 +1864,10 @@ Net realized gains on investments in publicly-held equity securities sold were $
 
 (Continued)
 
+**Table Context:** The table summarizes the fair value and amortized cost of various debt securities and cash equivalents held by the company, along with their unrealized gains and losses. 
+
+Metrics included: Amortized Cost, Unrealized Gain, Unrealized Loss, Estimated Fair Value, Cash Equivalents, Marketable Securities, Corporate Debt Securities, Debt Securities Issued by the U.S. Treasury, Money Market Funds, Debt Securities Issued by U.S. Government Agencies, Certificates of Deposit, Foreign Government Bonds, Total Debt Securities with Fair Value Changes Recorded in Other Comprehensive Income.
+
 | col1 | Amortized Cost | Unrealized Gain | Unrealized Loss | Estimated Fair Value | Reported as | Reported as |
 |:-------------------------------------------------------------------------------------|:-----------------|:------------------|:------------------|:-----------------------|:-----------------|:----------------------|
 | nan | Amortized Cost | Unrealized Gain | Unrealized Loss | Estimated Fair Value | Cash Equivalents | Marketable Securities |
@@ -1766,6 +1882,10 @@ Net realized gains on investments in publicly-held equity securities sold were $
 
 The following tables provide the breakdown of unrealized losses, aggregated by investment category and length of time that individual debt securities have been in a continuous loss position:
 
+**Table Context:** The table summarizes the estimated fair value and gross unrealized losses of various debt securities over different time horizons. 
+
+Metrics included: Estimated Fair Value, Gross Unrealized Loss, Debt Securities Issued by the U.S. Treasury, Corporate Debt Securities, Debt Securities Issued by U.S. Government Agencies, Total
+
 | col1 | Less than 12 Months | Less than 12 Months | 12 Months or Greater | 12 Months or Greater | Total | Total |
 |:---------------------------------------------------|:----------------------|:----------------------|:-----------------------|:-----------------------|:---------------------|:----------------------|
 | nan | Estimated Fair Value | Gross Unrealized Loss | Estimated Fair Value | Gross Unrealized Loss | Estimated Fair Value | Gross Unrealized Loss |
@@ -1774,6 +1894,10 @@ The following tables provide the breakdown of unrealized losses, aggregated by i
 | Corporate debt securities | 5291 | (29) | 15 | — | 5306 | (29) |
 | Debt securities issued by U.S. government agencies | 816 | (5) | 21 | — | 837 | (5) |
 | Total | $12422 | $(56) | $213 | $— | $12635 | $(56) |
+
+**Table Context:** The table summarizes the estimated fair value and gross unrealized losses of various debt securities over different time horizons. 
+
+Metrics included: Estimated Fair Value, Gross Unrealized Loss, Debt Securities Issued by the U.S. Treasury, Corporate Debt Securities, Debt Securities Issued by U.S. Government Agencies, Total.
 
 | col1 | Less than 12 Months | Less than 12 Months | 12 Months or Greater | 12 Months or Greater | Total | Total |
 |:---------------------------------------------------|:----------------------|:----------------------|:-----------------------|:-----------------------|:---------------------|:----------------------|
@@ -1796,6 +1920,10 @@ The amortized cost and estimated fair value of debt securities included in cash 
 
 (Continued)
 
+**Table Context:** The table summarizes the amortized cost and estimated fair value of financial instruments categorized by their maturity periods as of specific dates. 
+
+Metrics included: Total Assets, Total Liabilities, Amortized Cost, Estimated Fair Value, Financial Instruments Due in Less Than One Year, Financial Instruments Due in 1 - 5 Years, Total Financial Instruments.
+
 | col1 | Jan 26, 2025 | Jan 26, 2025 | Jan 28, 2024 | Jan 28, 2024 |
 |:-------------------|:---------------|:---------------------|:---------------|:---------------------|
 | nan | Amortized Cost | Estimated Fair Value | Amortized Cost | Estimated Fair Value |
@@ -1807,6 +1935,10 @@ The amortized cost and estimated fair value of debt securities included in cash 
 ### Note 8 - Fair Value of Financial Assets and Liabilities and Non-marketable Equity Securities
 
 The fair values of our financial assets and liabilities are determined using quoted market prices of identical assets or market prices of similar assets from active markets. We review fair value classification on a quarterly basis.
+
+**Table Context:** The table provides a detailed breakdown of various cash equivalents and marketable securities, along with other assets, as part of the company's financial position. 
+
+Metrics included: Cash equivalents and marketable securities: Money market funds, Cash equivalents and marketable securities: Publicly-held equity securities, Cash equivalents and marketable securities: Corporate debt securities, Cash equivalents and marketable securities: Debt securities issued by the U.S. Treasury, Cash equivalents and marketable securities: Debt securities issued by U.S. government agencies, Cash equivalents and marketable securities: Foreign government bonds, Cash equivalents and marketable securities: Certificates of deposit, Other assets: Publicly-held equity securities, Other assets: Liabilities, Other assets: Notes Due 2024, Other assets: Notes Due 2026, Other assets: Notes Due 2028, Other assets: Notes Due 2030, Other assets: Notes Due 2031, Other assets: Notes Due 2040, Other assets: Notes Due 2050, Other assets: Notes Due 2060.
 
 | col1 | Pricing Category | Jan 26, 2025 | Jan 28, 2024 |
 |:-----------------------------------------------------------------------------------------------|:-------------------|:---------------|:---------------|
@@ -1846,6 +1978,10 @@ Our non-marketable equity securities are recorded in long-term other assets on o
 (Continued)
 Adjustments to the carrying value of our non-marketable equity securities during fiscal years 2025 and 2024 were as follows:
 
+**Table Context:** The table summarizes the adjustments related to non-marketable equity securities over two fiscal periods, highlighting changes in their value and balance. 
+
+Metrics included: Balance at beginning of period, Net additions related to non-marketable equity securities, Unrealized gains related to non-marketable equity securities, Impairments and unrealized losses related to non-marketable equity securities, Balance at end of period.
+
 | col1 | Jan 26, 2025 | Jan 28, 2024 |
 |:-------------------------------------------------------------------------------------------|:---------------|:---------------|
 | nan | (In millions) | nan |
@@ -1881,6 +2017,10 @@ We refer to customers who purchase products directly from NVIDIA as direct custo
 % of our accounts receivable balance as of January 28, 2024.
 Certain balance sheet components are as follows:
 
+**Table Context:** The table provides a breakdown of inventory components for a company as of two different fiscal dates. 
+
+Metrics included: Inventories, Raw Materials, Work in Process, Finished Goods, Total Inventories
+
 | col1 | Jan 26, 2025 | Jan 28, 2024 |
 |:----------------------|:---------------|:---------------|
 | Inventories: | (In millions) | nan |
@@ -1894,6 +2034,10 @@ Certain balance sheet components are as follows:
  billion and $
 774
  million, respectively, in cost of revenue.
+
+**Table Context:** The table provides a detailed breakdown of the company's property and equipment assets, including their gross and net values, as well as accumulated depreciation. 
+
+Metrics included: Property and Equipment, Land, Buildings, leasehold improvements, and furniture, Equipment, compute hardware, and software, Construction in process, Total property and equipment, gross, Accumulated depreciation and amortization, Total property and equipment, net.
 
 | col1 | Jan 26, 2025 | Jan 28, 2024 | Estimated Useful Life |
 |:-------------------------------------------------|:---------------|:---------------|:------------------------|
@@ -1943,6 +2087,10 @@ Property, equipment and intangible assets acquired by assuming related liabiliti
 374
  million, respectively.
 
+**Table Context:** The table summarizes the company's long-term other assets as reported in their SEC 10-K filing for two consecutive fiscal years. 
+
+Metrics included: Other Assets (Long Term), Non-marketable equity securities, Prepaid supply and capacity agreements, Income tax receivable, Prepaid royalties, Other, Total other assets.
+
 | col1 | Jan 26, 2025 | Jan 28, 2024 |
 |:-------------------------------------------|:---------------|:---------------|
 | Other Assets (Long Term): | (In millions) | nan |
@@ -1959,6 +2107,10 @@ Prepaid supply and capacity agreements of $
  billion and $
 2.5
  billion were included in Prepaid expenses and other current assets as of January 26, 2025 and January 28, 2024, respectively.
+
+**Table Context:** The table summarizes the accrued and other current liabilities of a company as of two different fiscal dates. 
+
+Metrics included: Accrued and Other Current Liabilities, Customer Program Accruals, Excess Inventory Purchase Obligations, Product Warranty and Return Provisions, Taxes Payable, Accrued Payroll and Related Expenses, Deferred Revenue, Operating Leases, Licenses and Royalties, Unsettled Share Repurchases, Other, Total Accrued and Other Current Liabilities.
 
 | col1 | Jan 26, 2025 | Jan 28, 2024 |
 |:--------------------------------------------|:---------------|:---------------|
@@ -1988,6 +2140,10 @@ Includes customer advances and unearned revenue related to hardware support, sof
 233
  million of customer advances, respectively.
 
+**Table Context:** The table summarizes the company's long-term liabilities and related financial obligations as of two different reporting dates. 
+
+Metrics included: Other Long-Term Liabilities, Income Tax Payable, Deferred Revenue, Deferred Income Tax, Licenses Payable, Other Long-Term Liabilities Total.
+
 | col1 | Jan 26, 2025 | Jan 28, 2024 |
 |:----------------------------------|:---------------|:---------------|
 | Other Long-Term Liabilities: | (In millions) | nan |
@@ -2015,6 +2171,10 @@ Includes unearned revenue related to hardware support, software support and clou
 ### Deferred Revenue
 
 The following table shows the changes in short- and long-term deferred revenue during fiscal years 2025 and 2024:
+
+**Table Context:** The table summarizes the changes in deferred revenue and revenue recognized over two fiscal periods. 
+
+Metrics included: Balance at beginning of period, Deferred revenue additions, Revenue recognized, Balance at end of period
 
 | col1 | Jan 26, 2025 | Jan 28, 2024 |
 |:-------------------------------|:---------------|:---------------|
@@ -2057,6 +2217,10 @@ We utilize foreign currency forward contracts to mitigate the impact of foreign 
 We also entered into foreign currency forward contracts mitigating the impact of foreign currency movements on monetary assets and liabilities. For our foreign currency contracts for assets and liabilities, the change in fair value of these non-designated contracts was recorded in other income or expense and offsets the change in fair value of the hedged foreign currency denominated monetary assets and liabilities, which was also recorded in other income or expense.
 The table below presents the notional value of our foreign currency contracts outstanding:
 
+**Table Context:** The table summarizes the financial impact of designated and non-designated accounting hedges on the company's financial position over two fiscal periods. 
+
+Metrics included: Designated as accounting hedges, Not designated as accounting hedges
+
 | col1 | Jan 26, 2025 | Jan 28, 2024 |
 |:------------------------------------|:---------------|:---------------|
 | nan | (In millions) | nan |
@@ -2080,6 +2244,10 @@ As of January 26, 2025, all foreign currency contracts mature within 
 ### Note 11 - Debt
 
 ### Long-Term Debt
+
+**Table Context:** The table summarizes the details of various debt instruments, including their terms, interest rates, and carrying amounts, as part of a company's financial obligations. 
+
+Metrics included: Expected Remaining Term, Effective Interest Rate, Notes Due 2024, Notes Due 2026, Notes Due 2028, Notes Due 2030, Notes Due 2031, Notes Due 2040, Notes Due 2050, Notes Due 2060, Unamortized Debt Discount and Issuance Costs, Net Carrying Amount, Short-Term Portion, Total Long-Term Portion.
 
 | col1 | Expected Remaining Term (years) | Effective Interest Rate | Jan 26, 2025 | Jan 28, 2024 |
 |:---------------------------------------------|:----------------------------------|:--------------------------|:---------------|:---------------|
@@ -2134,6 +2302,10 @@ As of January 26, 2025, we had outstanding inventory purchase and long-term sup
 (Continued)
 Total future purchase commitments as of January 26, 2025 are as follows:
 
+**Table Context:** The table summarizes projected financial figures for a company over several fiscal years. 
+
+Metrics included: Total Assets, Total Liabilities, Shareholder Equity, Revenue, Net Income, Operating Expenses, Operating Cash Flow, Gross Margin, Earnings Per Share (EPS), Long-Term Debt, Retained Earnings, Cost of Goods Sold, Capital Expenditures.
+
 | Fiscal Year: | col1 |
 |:--------------------|:-------|
 | 2026 | $35727 |
@@ -2152,6 +2324,10 @@ The estimated amount of product warranty liabilities was $
 306
  million as of January 26, 2025 and January 28, 2024, respectively. 
 The estimated product returns and product warranty activity consisted of the following:
+
+**Table Context:** The table summarizes the changes in a financial account over three fiscal periods, detailing the balance at the beginning and end of each period, as well as additions and utilizations during the periods. 
+
+Metrics included: Balance at beginning of period, Additions, Utilization, Balance at end of period
 
 | col1 | Jan 26, 2025 | Jan 28, 2024 | Jan 29, 2023 |
 |:-------------------------------|:---------------|:---------------|:---------------|
@@ -2204,6 +2380,10 @@ As of January 26, 2025, there are no accrued contingent liabilities associated 
 
 The income tax expense (benefit) applicable to income before income taxes consists of the following:
 
+**Table Context:** The table summarizes the income tax expenses and related deferred tax items for a company over three fiscal years. 
+
+Metrics included: Current Income Taxes: Federal, Current Income Taxes: State, Current Income Taxes: Foreign, Total Current, Deferred Income Taxes: Federal, Deferred Income Taxes: State, Deferred Income Taxes: Foreign, Total Deferred, Income Tax Expense (Benefit)
+
 | col1 | Jan 26, 2025 | Jan 28, 2024 | Jan 29, 2023 |
 |:-------------------------------|:---------------|:---------------|:---------------|
 | nan | (In millions) | nan | nan |
@@ -2219,6 +2399,10 @@ The income tax expense (benefit) applicable to income before income taxes consis
 
 Income before income tax consists of the following:
 
+**Table Context:** The table summarizes the financial performance of a company over three fiscal years, focusing on revenue and income metrics. 
+
+Metrics included: Total Revenue, Income Before Income Tax, U.S. Revenue, Foreign Revenue
+
 | col1 | Jan 26, 2025 | Jan 28, 2024 | Jan 29, 2023 |
 |:-------------------------|:---------------|:---------------|:---------------|
 | nan | (In millions) | nan | nan |
@@ -2227,6 +2411,10 @@ Income before income tax consists of the following:
 | Income before income tax | $84026 | $33818 | $4181 |
 
 The income tax expense (benefit) differs from the amount computed by applying the U.S. federal statutory rate of 21% to income before income taxes as follows:
+
+**Table Context:** The table summarizes various tax-related expenses and benefits as part of the financial reporting for the specified periods. 
+
+Metrics included: Tax Expense, State Income Taxes, Foreign-Derived Intangible Income, Stock-Based Compensation, U.S. Federal Research and Development Tax Credit, Foreign Tax Rate Differential, Acquisition Termination Cost, Other Income Tax Expense (Benefit), Total Income Tax Expense (Benefit)
 
 | col1 | Jan 26, 2025 | Jan 26, 2025 | Jan 26, 2025 | Jan 28, 2024 | Jan 28, 2024 | Jan 28, 2024 | Jan 29, 2023 | Jan 29, 2023 |
 |:-----------------------------------------------------------------------------------|:----------------------------------|:---------------|:---------------|:---------------|:---------------|:---------------|:---------------|:---------------|
@@ -2252,6 +2440,10 @@ The income tax expense (benefit) differs from the amount computed by applying th
 
 (Continued)
 The tax effect of temporary differences that gives rise to significant portions of the deferred tax assets and liabilities are presented below:
+
+**Table Context:** The table summarizes the deferred tax assets and liabilities of the company as of two different fiscal dates, providing insights into the company's tax-related financial position. 
+
+Metrics included: Deferred tax assets: Capitalized research and development expenditure, Deferred tax assets: GILTI deferred tax assets, Deferred tax assets: Accruals and reserves, not currently deductible for tax purposes, Deferred tax assets: Research and other tax credit carryforwards, Deferred tax assets: Net operating loss and capital loss carryforwards, Deferred tax assets: Operating lease liabilities, Deferred tax assets: Stock-based compensation, Deferred tax assets: Property, equipment and intangible assets, Deferred tax assets: Other deferred tax assets, Deferred tax assets: Gross deferred tax assets, Deferred tax assets: Less valuation allowance, Total deferred tax assets, Deferred tax liabilities: Unremitted earnings of foreign subsidiaries, Deferred tax liabilities: Operating lease assets, Deferred tax liabilities: Equity investments, Deferred tax liabilities: Acquired intangibles, Deferred tax liabilities: Gross deferred tax liabilities, Deferred tax liabilities: Net deferred tax asset.
 
 | col1 | Jan 26, 2025 | Jan 28, 2024 |
 |:--------------------------------------------------------------------------------------|:---------------|:---------------|
@@ -2321,6 +2513,10 @@ As of January 26, 2025, we had U.S. federal, state and foreign net operating lo
 (Continued)
 Our tax attributes remain subject to audit and may be adjusted for changes or modification in tax laws, other authoritative interpretations thereof, or other facts and circumstances. Utilization of tax attributes may also be subject to limitations due to ownership changes and other limitations provided by the Internal Revenue Code and similar state and foreign tax provisions. If any such limitations apply, the tax attributes may expire or be denied before utilization.
 A reconciliation of gross unrecognized tax benefits is as follows:
+
+**Table Context:** The table summarizes the changes in tax positions over a specified period, detailing the balance at the beginning and end of the period along with various adjustments. 
+
+Metrics included: Balance at beginning of period, Increases in tax positions for current year, Increases in tax positions for prior years, Decreases in tax positions for prior years, Lapse in statute of limitations, Settlements, Balance at end of period.
 
 | col1 | Jan 26, 2025 | Jan 28, 2024 | Jan 29, 2023 |
 |:--------------------------------------------|:---------------|:---------------|:---------------|
@@ -2411,6 +2607,10 @@ The “All Other” category includes the expenses that are not allocated to eit
 Our CODM does not review any information regarding total assets on a reportable segment basis. There are no intersegment transactions. The accounting policies for segment reporting are the same as for our consolidated financial statements. 
 The table below presents details of our reportable segments and the “All Other” category.
 
+**Table Context:** The table summarizes the financial performance of different business segments over three fiscal years, highlighting revenue, operating income, and other segment-specific items. 
+
+Metrics included: Revenue, Operating income (loss), Other segment items, Consolidated Revenue, Consolidated Operating income (loss)
+
 | col1 | Compute & Networking | Graphics | All Other | Consolidated |
 |:------------------------|:-----------------------|:-----------|:------------|:---------------|
 | nan | (In millions) | nan | nan | nan |
@@ -2452,6 +2652,10 @@ Depreciation and amortization expense attributable to our Compute and Networking
 315
  million, respectively. Acquisition-related intangible amortization expense is not allocated to either Compute & Networking or Graphics for purposes of making operating decisions or assessing financial performance and is included in “All Other”. 
 
+**Table Context:** The table summarizes various reconciling items related to expenses and costs that impact the financial performance of the company over three fiscal years. 
+
+Metrics included: Stock-based compensation expense, Unallocated cost of revenue and operating expenses, Acquisition-related and other costs, Acquisition termination cost, Other, Total.
+
 | col1 | Jan 26, 2025 | Jan 28, 2024 | Jan 29, 2023 |
 |:----------------------------------------------------|:---------------|:---------------|:---------------|
 | Reconciling items included in "All Other" category: | (In millions) | nan | nan |
@@ -2463,6 +2667,10 @@ Depreciation and amortization expense attributable to our Compute and Networking
 | Total | $(6,507) | $(4,890) | $(5,411) |
 
 Revenue by geographic area is based upon the billing location of the customer. The end customer and shipping location may be different from our customer’s billing location.
+
+**Table Context:** The table summarizes the geographic distribution of revenue based on customer billing location for a company over three fiscal years. 
+
+Metrics included: Geographic Revenue, Total Revenue, United States Revenue, Singapore Revenue, Taiwan Revenue, China Revenue, Other Revenue.
 
 | col1 | Jan 26, 2025 | Jan 28, 2024 | Jan 29, 2023 |
 |:---------------------------------------------------------|:---------------|:---------------|:---------------|
@@ -2499,6 +2707,10 @@ We refer to customers who purchase products directly from NVIDIA as direct custo
 (Continued)
 Sales to direct customers which represented 10% or more of total revenue, all of which were primarily attributable to the Compute & Networking segment, are presented in the following table:
 
+**Table Context:** The table summarizes the revenue generated from direct customers over two fiscal periods. 
+
+Metrics included: Direct Customer A Revenue, Direct Customer B Revenue, Direct Customer C Revenue
+
 | col1 | Jan 26, 2025 | Jan 28, 2024 |
 |:------------------|---------------:|:---------------|
 | Direct Customer A | 12 | * |
@@ -2508,6 +2720,10 @@ Sales to direct customers which represented 10% or more of total revenue, all of
 * Less than 10% of total revenue.
 No customer represented 10% or more of total revenue for fiscal year 2023.
 The following table summarizes revenue by specialized markets:
+
+**Table Context:** The table summarizes the revenue generated by different end markets for a company over three fiscal years. 
+
+Metrics included: Revenue by End Market, Data Center Revenue, Compute Revenue, Networking Revenue, Gaming Revenue, Professional Visualization Revenue, Automotive Revenue, OEM and Other Revenue, Total Revenue.
 
 | col1 | Jan 26, 2025 | Jan 28, 2024 | Jan 29, 2023 |
 |:---------------------------|:---------------|:---------------|:---------------|
@@ -2522,6 +2738,10 @@ The following table summarizes revenue by specialized markets:
 | Total revenue | $130497 | $60922 | $26974 |
 
 The following table presents summarized information for long-lived assets by country. Long-lived assets consist of property and equipment and exclude other assets, operating lease assets, goodwill, and intangible assets.
+
+**Table Context:** The table summarizes the long-lived assets of a company across different geographical regions for two fiscal years. 
+
+Metrics included: Long-lived assets, Total long-lived assets, United States long-lived assets, Taiwan long-lived assets, Israel long-lived assets, Other long-lived assets.
 
 | col1 | Jan 26, 2025 | Jan 28, 2024 |
 |:------------------------|:---------------|:---------------|
@@ -2545,6 +2765,10 @@ Future minimum lease obligations under our non-cancelable lease agreements as of
 ### Notes to the Consolidated Financial Statements
 
 (Continued)
+
+**Table Context:** The table summarizes projected financial obligations related to operating lease liabilities over several fiscal years. 
+
+Metrics included: Total Assets, Total Liabilities, Long-term Operating Lease Liabilities, Short-term Operating Lease Liabilities, Present Value of Net Future Minimum Lease Payments, Imputed Interest.
 
 | Fiscal Year: | col1 |
 |:---------------------------------------------------|:-------|
@@ -2576,6 +2800,10 @@ Operating lease expenses for fiscal years 2025, 2024, and 2023 were $
  million, respectively. Short-term and variable lease expenses for fiscal years 2025, 2024, and 2023 were not significant.
 Other information related to leases was as follows:
 
+**Table Context:** The table provides supplemental information regarding cash flows related to operating leases for the specified fiscal years. 
+
+Metrics included: Operating Cash Flow, Operating Lease Assets, Lease Obligations
+
 | col1 | Jan 26, 2025 | Jan 28, 2024 | Jan 29, 2023 |
 |:------------------------------------------------------------------|:---------------|:---------------|:---------------|
 | nan | (In millions) | nan | nan |
@@ -2597,6 +2825,10 @@ As of January 26, 2025, our operating leases have a weighted average remaining 
 ### NVIDIA Corporation and Subsidiaries
 
 ### Schedule II – Valuation and Qualifying Accounts
+
+**Table Context:** The table summarizes the changes in various allowances related to doubtful accounts and sales returns over multiple fiscal years. 
+
+Metrics included: Allowance for Doubtful Accounts, Sales Return Allowance, Deferred Tax Valuation Allowance, Balance at Beginning of Period, Additions, Deductions, Balance at End of Period.
 
 | Description | Balance at Beginning of Period | Additions | col4 | Deductions | col7 | Balance at End of Period |
 |:-------------------------------------------------|:---------------------------------|:------------|:-------|:-------------|:-------|:---------------------------|
@@ -2621,6 +2853,10 @@ Additional valuation allowance on deferred tax assets not likely to be realized.
 Represents sales returns.
 82
 Exhibit Index
+
+**Table Context:** The table provides a list of various exhibits related to NVIDIA Corporation's filings, including agreements, certificates, and plans, as part of their SEC 10-K report.
+
+Metrics included: Total Assets, Net Income, Total Liabilities, Operating Expenses, Shareholder Equity, Operating Cash Flow, Gross Margin, Earnings Per Share (EPS), Long-Term Debt, Retained Earnings, Revenue, Cost of Goods Sold, Capital Expenditures.
 
 | Exhibit No. | Exhibit Description | Schedule/Form | Exhibit | Filing Date |
 |:--------------|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:----------------|:-------------------------|:--------------|
@@ -2653,6 +2889,10 @@ Exhibit Index
 | 10.6+ | Amended and Restated 2007 Equity Incentive Plan – Global Restricted Stock Unit Grant Notice and Global Restricted Stock Unit Agreement (2020) | 10-Q | 10.2 | 5/21/2020 |
 
 83
+
+**Table Context:** The table lists various equity incentive plans and related agreements, along with certifications and other documents required by the SEC for NVIDIA Corporation.
+
+Metrics included: Amended and Restated 2007 Equity Incentive Plan, Global Restricted Stock Unit Grant Notice, Global Restricted Stock Unit Agreement, Variable Compensation Plan, Commercial Paper Dealer Agreement, Insider Trading Policy, Subsidiaries of Registrant, Consent of PricewaterhouseCoopers LLP, Power of Attorney, Certification of Chief Executive Officer, Certification of Chief Financial Officer, Compensation Recovery Policy, XBRL Instance Document, XBRL Taxonomy Extension Schema Document, XBRL Taxonomy Extension Calculation Linkbase Document, XBRL Taxonomy Extension Definition Linkbase Document, XBRL Taxonomy Extension Labels Linkbase Document, XBRL Taxonomy Extension Presentation Linkbase Document, Cover Page Interactive Data File.
 
 | 10.7+ | Amended and Restated 2007 Equity Incentive Plan – Global Restricted Stock Unit Grant Notice and Global Restricted Stock Unit Agreement (2021) | 10-Q | 10.2 | 5/26/2021 |
 |:---------|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:-------|-------:|:------------|
@@ -2708,6 +2948,10 @@ Pursuant to the requirements of Section 13 or 15(d) of the Securities Exchange 
 KNOW ALL PERSONS BY THESE PRESENTS, that each person whose signature appears below constitutes and appoints Jen-Hsun Huang and Colette M. Kress, and each or any one of them, his true and lawful attorney-in-fact and agent, with full power of substitution and resubstitution, for him and in his name, place and stead, in any and all capacities, to sign any and all amendments to this report, and to file the same, with all exhibits thereto, and other documents in connection therewith, with the Securities and Exchange Commission, granting unto said attorneys-in-facts and agents, and each of them, full power and authority to do and perform each and every act and thing requisite and necessary to be done in connection therewith, as fully to all intents and purposes as he might or could do in person, hereby ratifying and confirming all that said attorneys-in-fact and agents, or any of them, or their or his substitutes or substitutes, may lawfully do or cause to be done by virtue hereof.
 86
 Pursuant to the requirements of the Securities Exchange Act of 1934, this report has been signed below by the following persons on behalf of the registrant and in the capacities and on the dates indicated.
+
+**Table Context:** The table lists the signatures and titles of key executives and directors of a company, along with the date of their signatures, as part of the company's SEC 10-K filing. 
+
+Metrics included: Total Assets, Net Income, Total Liabilities, Operating Expenses, Shareholder Equity, Operating Cash Flow, Gross Margin, Earnings Per Share (EPS), Long-Term Debt, Retained Earnings, Revenue, Cost of Goods Sold, Capital Expenditures.
 
 | Signature | Title | Date |
 |:---------------------------------------|:-----------------------------------------------------------------------------------|:------------------|

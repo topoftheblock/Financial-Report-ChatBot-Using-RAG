@@ -68,6 +68,10 @@ Walmart U.S. is our largest segment and operates 4,605 stores in the U.S., inclu
 Omni-channel.
  Walmart U.S. provides a convenient and seamless omni-channel experience to customers, integrating retail stores and eCommerce. Substantially all our stores provide same-day pickup and delivery, including offerings such as express delivery within 90 minutes, in-home delivery and digital pharmacy fulfillment options. Our Walmart+ membership offering provides enhanced omni-channel shopping benefits including unlimited free shipping on eligible items with no order minimum, unlimited delivery from store, fuel discounts, mobile Scan & Go and access to additional member benefits. The following table provides the approximate size of our retail stores as of January 31, 2025:
 
+**Table Context:** The table provides information on the square footage of different types of retail store formats. 
+
+Metrics included: Minimum Square Feet, Maximum Square Feet, Average Square Feet
+
 | col1 | Minimum Square Feet | Maximum Square Feet | Average Square Feet |
 |:----------------------------------------------------------|----------------------:|----------------------:|----------------------:|
 | Supercenters (general merchandise and grocery) | 69000 | 260000 | 178000 |
@@ -127,6 +131,10 @@ Distribution.
 Sam's Club U.S. is a membership-only club that operates 600 clubs in 44 states in the U.S. and Puerto Rico and also operates samsclub.com. Sam's Club U.S. had net sales of $90.2 billion for fiscal 2025, representing 13% of our consolidated fiscal 2025 net sales, and had net sales of $86.2 billion and $84.3 billion for fiscal 2024 and 2023, respectively. As a membership-only club, membership income is a significant component of the segment's operating income. 
 Membership.
  The following two options are available to members:
+
+**Table Context:** The table outlines the membership fee structure and options for two different types of memberships offered by the company. 
+
+Metrics included: Annual Membership Fee, Number of Add-on Memberships
 
 | col1 | Plus Membership | Club Membership |
 |:----------------------------------------|:------------------|:------------------|
@@ -242,6 +250,10 @@ A description of any substantive amendment or waiver of Walmart's Reporting Prot
 ### Information About Our Executive Officers
 
 The following chart names the executive officers of the Company as of the date of the filing of this Annual Report on Form 10-K with the SEC, each of whom is elected by, and serves at the pleasure of, the Board of Directors. The business experience shown for each officer has been his or her principal occupation for at least the past five years, unless otherwise noted.
+
+**Table Context:** The table provides information about the current executive leadership team of a company, including their business experience, positions held, and ages. 
+
+Metrics included: Total Assets, Net Income, Total Liabilities, Operating Expenses, Shareholder Equity, Operating Cash Flow, Gross Margin, Earnings Per Share (EPS), Long-Term Debt, Retained Earnings, Revenue, Cost of Goods Sold, Capital Expenditures.
 
 | Name | Business Experience | Current Position Held Since | Age |
 |:---------------------|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------:|------:|
@@ -493,6 +505,10 @@ As of January 31, 2025
 (1)
 , retail unit counts for Walmart U.S., Sam's Club U.S. and Walmart International are summarized as follows:
 
+**Table Context:** The table provides a breakdown of the total number of retail locations and their corresponding square footage for Walmart's U.S. and international operations. 
+
+Metrics included: Total, Square feet, Walmart U.S., Supercenters, Discount Stores, Neighborhood Markets, Walmart U.S. Total, Sam's Club U.S., U.S. Total, Walmart International, Retail, Wholesale, Walmart International Total, Total Company.
+
 | col1 | Total | Square feet(2) |
 |:---------------------------------------------|--------:|-----------------:|
 | Walmart U.S. | nan | nan |
@@ -518,6 +534,10 @@ Square feet reported in thousands.
 The following table provides further details of our retail units and distribution facilities, including return facilities and dedicated eCommerce fulfillment centers, as of January 31, 2025
 (1)
 : 
+
+**Table Context:** The table provides a breakdown of retail and distribution units owned and leased by Walmart across different segments. 
+
+Metrics included: Retail Units, Walmart U.S. retail units, Sam's Club U.S. retail units, Walmart International retail units, Total retail units, Distribution Facilities, Walmart U.S. distribution facilities, Sam's Club U.S. distribution facilities, Walmart International distribution facilities, Total distribution facilities.
 
 | col1 | Owned | Leased(2) | Total |
 |:----------------------------------------------|--------:|------------:|--------:|
@@ -638,7 +658,15 @@ As of March 12, 2025, there were 194,162 holders of record of Walmart's common 
 
 This graph compares the cumulative total shareholder return on Walmart's common stock during the five fiscal years ended through fiscal 2025 to the cumulative total returns on the S&P 500 Consumer Discretionary Distribution & Retailing Index (formerly named the S&P 500 Retailing Index) and the S&P 500 Index. The comparison assumes $100 was invested on February 1, 2020 in shares of our common stock and in each of the indices shown and assumes that all of the dividends were reinvested.
 
+**Table Context:** The table provides a performance overview of an investment made on February 1, 2020, assuming dividends were reinvested, for the fiscal year ending January 31, 2025. 
+
+Metrics included: Total Assets, Net Income, Total Liabilities, Operating Expenses, Shareholder Equity, Operating Cash Flow, Gross Margin, Earnings Per Share (EPS), Long-Term Debt, Retained Earnings, Revenue, Cost of Goods Sold, Capital Expenditures.
+
 *Assumes $100 Invested on February 1, 2020 | Assumes Dividends Reinvested | Fiscal Year ended January 31, 2025
+
+**Table Context:** The table compares the financial performance of Walmart Inc. against relevant market indices over a series of years. 
+
+Metrics included: Total Assets, Revenue, Net Income, Total Liabilities, Operating Expenses, Shareholder Equity, Operating Cash Flow, Gross Margin, Earnings Per Share (EPS), Long-Term Debt, Retained Earnings, Cost of Goods Sold, Capital Expenditures.
 
 | col1 | 2020 | 2021 | 2022 | 2023 | 2024 | 2025 |
 |:--------------------------------------------------------------|:--------|:--------|:--------|:--------|:--------|:--------|
@@ -651,6 +679,10 @@ This graph compares the cumulative total shareholder return on Walmart's common 
 From time to time, the Company repurchases shares of our common stock under share repurchase programs authorized by the Company's Board of Directors. All repurchases made during fiscal 2025 were made under the current $20.0 billion share repurchase program approved in November 2022, which has no expiration date or other restrictions limiting the period over which the Company can make repurchases. As of January 31, 2025, authorization for $12.0 billion of share repurchases remained under the share repurchase program. Any repurchased shares are constructively retired and returned to an unissued status.
 32
 Share repurchase activity under our share repurchase programs, on a trade date basis, for each month in the quarter ended January 31, 2025, was as follows:
+
+**Table Context:** The table summarizes the company's share repurchase activity over a specified fiscal period, detailing the number of shares repurchased, average price paid, and the remaining dollar value of shares authorized for repurchase. 
+
+Metrics included: Total Number of Shares Repurchased, Average Price Paid per Share, Total Number of Shares Repurchased as Part of Publicly Announced Plans or Programs, Approximate Dollar Value of Shares that May Yet Be Repurchased Under the Plans or Programs.
 
 | Fiscal Period | Total Number ofShares Repurchased | Average Price Paidper Share(in dollars) | Total Number ofShares Repurchasedas Part of PubliclyAnnounced Plans orPrograms | Approximate Dollar Value ofShares that May Yet BeRepurchased Under thePlans or Programs(1)(in billions) |
 |:--------------------|------------------------------------:|:------------------------------------------|---------------------------------------------------------------------------------:|:----------------------------------------------------------------------------------------------------------|
@@ -714,6 +746,10 @@ Our objective of prioritizing growth means we will focus on serving customers an
 Comparable sales is a metric that indicates the performance of our existing stores and clubs by measuring the change in sales for such stores and clubs, including eCommerce sales, for a particular period over the corresponding period in the previous year. The retail industry generally reports comparable sales using the retail calendar (also known as the 4-5-4 calendar). To be consistent with the retail industry, we provide comparable sales using the retail calendar in our quarterly earnings releases. However, when we discuss our comparable sales below, we are referring to our calendar comparable sales calculated using our fiscal calendar, which may result in differences when compared to comparable sales using the retail calendar. We report on comparable sales in the U.S. as we believe it is a meaningful metric within the context of the U.S. retail market where there is a single currency, one inflationary market and generally consistent store and club formats from year to year.
 Calendar comparable sales, as well as the impact of fuel, for fiscal 2025 and 2024, were as follows:
 
+**Table Context:** The table summarizes the percentage changes in performance metrics for Walmart U.S. and Sam's Club U.S. over two fiscal years, highlighting the impact of fuel on these metrics. 
+
+Metrics included: Total U.S. Revenue Growth, Walmart U.S. Revenue Growth, Sam's Club U.S. Revenue Growth, Fuel Impact on Revenue, Percentage Change in Walmart U.S. Revenue, Percentage Change in Sam's Club U.S. Revenue, Percentage Change in Total U.S. Revenue.
+
 | col1 | 2025 | 2024 | 2025 | 2024 |
 |:----------------|:----------|:-------|:------------|:-------|
 | nan | With Fuel | nan | Fuel Impact | nan |
@@ -731,6 +767,10 @@ positively
 ### Margin
 
 Our objective of prioritizing margin focuses on growth with a focus on incremental margin accretion through a combination of productivity improvements as well as category and business mix. We invest in technology and process improvements to increase productivity, manage inventory and reduce costs and we operate with discipline by managing expenses and optimizing the efficiency of how we work. We measure operating discipline through expense leverage, which we define as net sales growing at a faster rate than operating, selling, general and administrative ("operating") expenses. Additionally, we focus on our mix of businesses, including expanding our ecosystem in higher margin areas, such as digital advertising and marketplace. Our objective is to achieve operating income leverage, which we define as growing operating income at a faster rate than net sales. 
+
+**Table Context:** The table summarizes key financial metrics related to the company's sales performance and profitability over two fiscal years. 
+
+Metrics included: Net Sales, Percentage Change from Comparable Period, Gross Profit as a Percentage of Net Sales, Operating Expenses as a Percentage of Net Sales, Operating Income, Operating Income as a Percentage of Net Sales.
 
 | (Amounts in millions, except unit counts) | 2025 | 2024 |
 |:------------------------------------------------|:--------|:--------|
@@ -761,6 +801,10 @@ ROA was 7.9% and 6.6% for fiscal 2025 and 2024, respectively. The increase in RO
 ROI was 15.5% and 15.0% for fiscal 2025 and 2024, respectively. The increase in ROI was the result of an increase in operating income, primarily due to improvements in business performance, partially offset by an increase in average invested capital primarily due to higher purchases of property and equipment. 
 The calculation of ROA and ROI, along with a reconciliation of ROI to the calculation of ROA, the most comparable GAAP financial measure, is as follows: 
 
+**Table Context:** The table provides a calculation of key financial metrics, specifically focusing on Return on Assets (ROA) and Return on Investment (ROI) for the years 2024 and 2025.
+
+Metrics included: Consolidated net income, Average total assets, Return on assets (ROA), Operating income, Interest income, Depreciation and amortization, Rent, ROI operating income, Average accumulated depreciation and amortization, Average accounts payable, Average accrued liabilities, Average invested capital, Return on investment (ROI).
+
 | (Amounts in millions) | 2025 | 2024 |
 |:-------------------------------------------------------|:--------|:--------|
 | CALCULATION OF RETURN ON ASSETS | nan | nan |
@@ -784,6 +828,10 @@ The calculation of ROA and ROI, along with a reconciliation of ROI to the calcul
 (1)
  The average is based on the addition of the account balance at the end of the current period to the account balance at the end of the prior period and dividing by two.
 
+**Table Context:** The table provides a summary of key balance sheet data for a company over three fiscal years. 
+
+Metrics included: Total Assets, Accumulated Depreciation and Amortization, Accounts Payable, Accrued Liabilities
+
 | col1 | 2025 | 2024 | 2023 |
 |:------------------------------------------|:--------|:--------|:--------|
 | Certain Balance Sheet Data | nan | nan | nan |
@@ -795,6 +843,10 @@ The calculation of ROA and ROI, along with a reconciliation of ROI to the calcul
 ### Strategic Capital Allocation
 
 Our strategy includes allocating the majority of our capital to higher-return areas focused on automation such as eCommerce, supply chain and store and club investments. The following table provides additional detail regarding our capital expenditures:
+
+**Table Context:** The table outlines the allocation of capital expenditures for a company over two fiscal years, detailing specific categories of spending. 
+
+Metrics included: Allocation of Capital Expenditures, Supply chain initiatives, Customer-facing initiatives, Technology expenditures, Store and club remodels, New stores and clubs, Total U.S. Capital Expenditures, Walmart International Capital Expenditures, Total Capital Expenditures.
 
 | (Amounts in millions) | Fiscal Years Ended January 31, | Fiscal Years Ended January 31, |
 |:----------------------------------------------------------------|:---------------------------------|:---------------------------------|
@@ -818,6 +870,10 @@ Consolidated Statements of Cash Flows
 Although other companies report their free cash flow, numerous methods may exist for calculating a company's free cash flow. As a result, the method used by management to calculate our free cash flow may differ from the methods used by other companies to calculate their free cash flow.
 The following table sets forth a reconciliation of free cash flow, a non-GAAP financial measure, to net cash provided by operating activities, which we believe to be the GAAP financial measure most directly comparable to free cash flow, as well as information regarding net cash used in investing activities and net cash used in financing activities.
 
+**Table Context:** The table summarizes the cash flow activities of a company over three fiscal years, detailing cash provided and used in operating, investing, and financing activities. 
+
+Metrics included: Net Cash Provided by Operating Activities, Payments for Property and Equipment, Free Cash Flow, Net Cash Used in Investing Activities, Net Cash Used in Financing Activities.
+
 | (Amounts in millions) | 2025 | 2024 | 2023 |
 |:------------------------------------------|:----------|:----------|:----------|
 | Net cash provided by operating activities | $36443 | $35726 | $28841 |
@@ -833,6 +889,10 @@ The following table sets forth a reconciliation of free cash flow, a non-GAAP fi
 ### Results of Operations
 
 ### Consolidated Results of Operations
+
+**Table Context:** The table summarizes key financial metrics and performance indicators for a company over three fiscal years, highlighting revenue, expenses, and net income trends. 
+
+Metrics included: Net Sales, Percentage Change from Comparable Period, Membership and Other Income, Total Revenues, Gross Profit, Operating Expenses, Operating Income, Other (Gains) and Losses, Consolidated Net Income, Percentage of Net Sales Gross Profit, Operating Income Percentage, Unit Counts at Period End, Retail Square Feet at Period End.
 
 | (Dollar amounts and retail square feet in millions) | 2025 | 2024 | 2023 |
 |:------------------------------------------------------|:--------|:--------|:--------|
@@ -868,6 +928,10 @@ As a result of the factors discussed above, we reported $20.2 billion and $16.3 
 
 ### Walmart U.S. Segment
 
+**Table Context:** The table summarizes key financial metrics related to net sales, income, and expenses for a retail company over three fiscal years. 
+
+Metrics included: Net Sales, Net Sales Percentage Change from Comparable Period, Calendar Comparable Sales Increase, Membership and Other Income, Gross Profit, Operating Expenses, Operating Income, Percentage of Net Sales Gross Profit, Operating Income Percentage, Unit Counts at Period End, Retail Square Feet at Period End.
+
 | (Dollar amounts and retail square feet in millions) | 2025 | 2024 | 2023 |
 |:------------------------------------------------------|:--------|:--------|:--------|
 | Net sales | $462415 | $441817 | $420553 |
@@ -891,6 +955,10 @@ As a result of the factors discussed above, segment operating income increased $
 40
 Walmart International Segment
 
+**Table Context:** The table summarizes key financial metrics related to a company's sales performance, profitability, and operational efficiency over multiple years. 
+
+Metrics included: Net Sales, Percentage Change from Comparable Period, Membership and Other Income, Gross Profit, Operating Expenses, Operating Income, Percentage of Net Sales Gross Profit, Operating Expenses (Percentage), Operating Income (Percentage), Unit Counts at Period End, Retail Square Feet at Period End.
+
 | (Dollar amounts and retail square feet in millions) | 2025 | 2024 | 2023 | 2023 |
 |:------------------------------------------------------|:--------|:--------|:--------|:-------|
 | Net sales | $121885 | $114641 | $100983 | nan |
@@ -912,6 +980,10 @@ As a result of the factors discussed above, segment operating income increased $
 41
 
 ### Sam's Club U.S. Segment
+
+**Table Context:** The table summarizes key financial metrics related to net sales, income, and expenses for a retail company over three fiscal years. 
+
+Metrics included: Including Fuel Net Sales, Percentage Change from Comparable Period, Calendar Comparable Sales Increase, Membership and Other Income, Gross Profit, Operating Expenses, Operating Income, Percentage of Net Sales Gross Profit, Operating Income as a Percentage of Net Sales, Unit Counts at Period End, Retail Square Feet at Period End, Excluding Fuel Net Sales, Operating Income as a Percentage of Net Sales.
 
 | (Dollar amounts and retail square feet in millions) | 2025 | 2024 | 2023 |
 |:------------------------------------------------------|:-------|:-------|:-------|
@@ -957,6 +1029,10 @@ The strength and stability of our operations have historically supplied us with 
 
 ### Net Cash Provided by Operating Activities
 
+**Table Context:** The table summarizes the net cash provided by operating activities over three fiscal years. 
+
+Metrics included: Net Cash Provided by Operating Activities
+
 | (Amounts in millions) | 2025 | 2024 | 2023 |
 |:------------------------------------------|:-------|:-------|:-------|
 | Net cash provided by operating activities | $36443 | $35726 | $28841 |
@@ -968,6 +1044,10 @@ We use intercompany financing arrangements in an effort to ensure cash can be ma
 As of January 31, 2025 and 2024, cash and cash equivalents of $3.3 billion and $3.5 billion, respectively, may not be freely transferable to the U.S. due to local laws or other restrictions or are subject to the approval of the noncontrolling interest shareholders.
 
 ### Net Cash Used in Investing Activities
+
+**Table Context:** The table summarizes the net cash used in investing activities over three fiscal years. 
+
+Metrics included: Net Cash Used in Investing Activities
 
 | (Amounts in millions) | 2025 | 2024 | 2023 |
 |:--------------------------------------|:----------|:----------|:----------|
@@ -984,6 +1064,10 @@ Company Performance Metrics
 
 ### Net Cash Used in Financing Activities
 
+**Table Context:** The table summarizes the net cash used in financing activities over three fiscal years. 
+
+Metrics included: Net Cash Used in Financing Activities
+
 | (Amounts in millions) | 2025 | 2024 | 2023 |
 |:--------------------------------------|:----------|:----------|:----------|
 | Net cash used in financing activities | $(14,822) | $(13,414) | $(17,039) |
@@ -996,6 +1080,10 @@ During fiscal 2023, we completed a $0.4 billion buyout of the noncontrolling int
 Short-term Borrowings
 We generally utilize the liquidity provided by short-term borrowings to provide funding for our operations, dividend payments, share repurchases, capital expenditures and other cash requirements. The following table includes additional information related to our short-term borrowings for fiscal 2025, 2024 and 2023:
 
+**Table Context:** The table provides key financial metrics related to short-term borrowings and interest rates over three fiscal years. 
+
+Metrics included: Maximum amount outstanding at any month-end, Average daily short-term borrowings, Annual weighted-average interest rate.
+
 | (Amounts in millions) | 2025 | 2024 | 2023 |
 |:--------------------------------------------|:-------|:-------|:-------|
 | Maximum amount outstanding at any month-end | $7232 | $9942 | $11432 |
@@ -1006,6 +1094,10 @@ Short-term borrowings as of January 31, 2025 and 2024 were $3.1 billion and $0.
 As of January 31, 2025, we have $2.1 billion of syndicated and fronted letters of credit available, of which $1.5 billion was drawn and represents an unrecorded current obligation.
 Long-term Debt
 The following table provides the changes in our long-term debt for fiscal 2025: 
+
+**Table Context:** The table summarizes the long-term debt balances and adjustments for a company over a specified period, detailing changes in debt and related metrics. 
+
+Metrics included: Long-term debt due within one year, Long-term debt, Total, Balances as of February 1, 2024, Repayments of long-term debt, Reclassifications of long-term debt, Currency and other adjustments, Balances as of January 31, 2025.
 
 | (Amounts in millions) | Long-term debt due within one year | Long-term debt | Total |
 |:------------------------------------|:-------------------------------------|:-----------------|:--------|
@@ -1023,6 +1115,9 @@ Estimated contractual interest payments associated with our long-term debt amoun
 Dividends
 Our total dividend payments were $6.7 billion, $6.1 billion and $6.1 billion for fiscal 2025, 2024 and 2023, respectively. Effective February 20, 2025, the Company approved the fiscal 2026 annual dividend of $0.94 per share, an increase over the fiscal 2025 annual dividend of $0.83 per share. For fiscal 2026, the annual dividend will be paid in four quarterly installments of $0.235 per share, according to the following record and payable dates:
 
+**Table Context:** The table outlines the record and payable dates for dividend distributions. 
+Metrics included: Record Date, Payable Date
+
 | Record Date | Payable Date |
 |:------------------|:------------------|
 | March 21, 2025 | April 7, 2025 |
@@ -1034,6 +1129,10 @@ Company Share Repurchase Program
 From time to time, the Company repurchases shares of its common stock under share repurchase programs authorized by the Company's Board of Directors. All repurchases made during fiscal 2025 were made under the current $20.0 billion share repurchase program approved in November 2022, which has no expiration date or other restrictions limiting the period over which the Company can make repurchases. As of January 31, 2025, authorization for $12.0 billion of share repurchases remained under the share repurchase program. Any repurchased shares are constructively retired and returned to an unissued status. 
 We regularly review share repurchase activity and consider several factors in determining when to execute share repurchases, including, among other things, current cash needs, capacity for leverage, cost of borrowings, our results of operations and the market price of our common stock. We anticipate that a majority of the ongoing share repurchase program will be funded through the Company's free cash flow. 
 The following table provides, on a settlement date basis, the number of shares repurchased, average price paid per share and total amount paid for share repurchases for fiscal 2025, 2024 and 2023: 
+
+**Table Context:** The table summarizes the company's share repurchase activities over three fiscal years, detailing the number of shares repurchased, the average price paid per share, and the total amount spent on share repurchases.
+
+Metrics included: Total number of shares repurchased, Average price paid per share, Total amount paid for share repurchases
 
 | (Amounts in millions, except per share data) | 2025 | 2024 | 2023 |
 |:-----------------------------------------------|:-------|:-------|:-------|
@@ -1054,6 +1153,10 @@ As of January 31, 2025, the Company has $37.2 billion of unrecorded purchase ob
 We believe our cash flows from operations, current cash position, short-term borrowings and access to capital markets will continue to be sufficient to meet our anticipated cash requirements and contractual obligations, which includes funding seasonal buildups in merchandise inventories and funding our capital expenditures, acquisitions, dividend payments and share repurchases.
 45
 We have strong commercial paper and long-term debt ratings that have enabled and should continue to enable us to refinance our debt as it becomes due at favorable rates in capital markets. As of January 31, 2025, the ratings assigned to our commercial paper and rated series of our outstanding long-term debt were as follows:
+
+**Table Context:** The table provides ratings from various credit rating agencies for commercial paper and long-term debt instruments. 
+
+Metrics included: Commercial Paper Rating, Long-Term Debt Rating
 
 | Rating agency | Commercial paper | Long-term debt |
 |:--------------------------|:-------------------|:-----------------|
@@ -1126,6 +1229,10 @@ Interest Rate Risk
 We are exposed to changes in interest rates as a result of our short-term borrowings and long-term debt. We hedge a portion of our interest rate risk by managing the mix of fixed and variable rate debt and by entering into interest rate swaps. For fiscal 2025, the net fair value of our interest rate swaps increased $43 million primarily due to fluctuations in market interest rates. 
 The table below provides information about our financial instruments that are sensitive to changes in interest rates. For long-term debt, the table represents the principal cash flows and related weighted-average interest rates by expected maturity dates. For interest rate swaps, the table represents the contractual cash flows and weighted-average interest rates by the contractual maturity date, unless otherwise noted. The notional amounts are used to calculate contractual cash flows to be exchanged under the contracts. The weighted-average variable rates are based upon prevailing market rates as of January 31, 2025.
 
+**Table Context:** The table provides a detailed breakdown of various financial liabilities and interest rates over multiple fiscal years. 
+
+Metrics included: Short-term borrowings, Long-term debt, Weighted-average interest rate, Interest rate derivatives, Interest rate swaps, Weighted-average pay rate, Weighted-average receive rate.
+
 | (Amounts in millions) | Fiscal 2026 | Fiscal 2026 | Fiscal 2027 | Fiscal 2027 | Fiscal 2028 | Fiscal 2028 | Fiscal 2029 | Fiscal 2029 | Fiscal 2030 | Fiscal 2030 | Thereafter | Thereafter | Total |
 |:-----------------------------------------------------------------|:--------------|:--------------|:--------------|:--------------|:--------------|:--------------|:--------------|:--------------|:--------------|:--------------|:-------------|:-------------|:--------|
 | Liabilities Short-term borrowings: Variable rate | $3068 | nan | $— | nan | $— | nan | $— | nan | $— | nan | $— | nan | $3068 |
@@ -1156,6 +1263,10 @@ We are exposed to investment risk primarily related to changes in the fair value
 
 ### Table of Contents
 
+**Table Context:** The table outlines the key financial statements and reports included in the SEC 10-K filing, which provide a comprehensive overview of the company's financial performance and position. 
+
+Metrics included: Total Assets, Total Liabilities, Shareholder Equity, Revenue, Net Income, Operating Expenses, Gross Margin, Earnings Per Share (EPS), Operating Cash Flow, Cost of Goods Sold, Long-Term Debt, Retained Earnings, Capital Expenditures.
+
 | Reports of Independent Registered Public Accounting Firm (PCAOB ID: 42) | 50 |
 |:--------------------------------------------------------------------------|-----:|
 | Consolidated Statements of Income | 53 |
@@ -1185,9 +1296,17 @@ We conducted our audits in accordance with the standards of the PCAOB. Those sta
 
 The critical audit matter communicated below is a matter arising from the current period audit of the financial statements that was communicated or required to be communicated to the audit committee and that: (1) relates to accounts or disclosures that are material to the financial statements and (2) involved our especially challenging, subjective or complex judgments. The communication of the critical audit matter does not alter in any way our opinion on the Consolidated Financial Statements, taken as a whole, and we are not, by communicating the critical audit matter below, providing a separate opinion on the critical audit matter or on the account or disclosures to which it relates.
 
+**Table Context:** The table provides information regarding the company's legal contingencies and the associated liabilities as outlined in the financial statements. 
+
+Metrics included: Total Assets, Total Liabilities, Shareholder Equity, Operating Expenses, Net Income, Operating Cash Flow, Gross Margin, Earnings Per Share (EPS), Long-Term Debt, Retained Earnings, Revenue, Cost of Goods Sold, Capital Expenditures, Legal Proceedings Liability, Regulatory Matters Liability, Loss Contingencies.
+
 Contingencies | Description of the Matter | As described in Note 10 to the Consolidated Financial Statements, at January 31, 2025, the Company is involved in a number of legal proceedings and certain regulatory matters. The Company records a liability for those legal proceedings and regulatory matters when management determines it is probable that a loss has been incurred and the amount of the loss can be reasonably estimated. The Company also discloses when it is reasonably possible that a material loss may be incurred. In assessing the probability of occurrence and whether an estimate of loss can be reasonably estimated for a particular legal proceeding, management exercises judgment on matters relevant to each proceeding. Auditing management's accounting for, and disclosure of, loss contingencies was complex and highly judgmental as it involved our assessment of the significant judgments made by management when assessing the probability of loss for contingencies or when determining whether an estimate of the loss or range of loss could be made.
 
 50
+
+**Table Context:** The table outlines the audit procedures undertaken to evaluate the company's controls over the identification and assessment of contingencies. 
+
+Metrics included: Total Assets, Net Income, Total Liabilities, Operating Expenses, Shareholder Equity, Operating Cash Flow, Gross Margin, Earnings Per Share (EPS), Long-Term Debt, Retained Earnings, Revenue, Cost of Goods Sold, Capital Expenditures.
 
 How We Addressed the Matter in Our Audit | We obtained an understanding, evaluated the design and tested the operating effectiveness of controls over the identification and evaluation of contingencies. For example, we tested controls over the Company's assessment of the likelihood of loss and the Company's determinations regarding the measurement of loss. | To test the Company's assessment of the probability of loss or determination of an estimate of loss, or range of loss, among other procedures, we read the minutes of the meetings of the board of directors and committees of the board of directors, reviewed documents provided to the Company by certain outside legal counsel, read letters received directly by us from internal and outside legal counsel, evaluated the current status of contingencies based on discussions with internal and outside legal counsel, and obtained representations from management. We also assessed the adequacy of the related disclosures.
 
@@ -1227,6 +1346,10 @@ March 14, 2025
 
 ### Consolidated Statements of Income
 
+**Table Context:** The table summarizes key financial metrics for a company over three fiscal years, highlighting revenues, expenses, income, and earnings per share. 
+
+Metrics included: Revenues: Net sales, Membership and other income, Total revenues, Cost of sales, Operating, selling, general and administrative expenses, Operating income, Interest: Debt, Finance lease, Interest income, Interest, net, Other (gains) and losses, Income before income taxes, Provision for income taxes, Consolidated net income, Consolidated net (income) loss attributable to noncontrolling interest, Consolidated net income attributable to Walmart, Net income per common share: Basic net income per common share attributable to Walmart, Diluted net income per common share attributable to Walmart, Weighted-average common shares outstanding: Basic, Diluted, Dividends declared per common share.
+
 | (Amounts in millions, except per share data) | 2025 | 2024 | 2023 |
 |:---------------------------------------------------------------------------------------|:--------|:--------|:--------|
 | Revenues: Net sales | $674538 | $642637 | $605881 |
@@ -1258,6 +1381,10 @@ See accompanying notes.
 
 ### Consolidated Statements of Comprehensive Income
 
+**Table Context:** The table summarizes the consolidated net income and comprehensive income metrics for Walmart over three fiscal years, highlighting the company's financial performance and the impact of noncontrolling interests. 
+
+Metrics included: Consolidated net income, Consolidated net (income) loss attributable to noncontrolling interest, Consolidated net income attributable to Walmart, Other comprehensive income (loss), net of income taxes, Cash flow hedges, Other comprehensive income (loss), net of income taxes, Other comprehensive (income) loss attributable to noncontrolling interest, Other comprehensive income (loss) attributable to Walmart, Comprehensive income, net of income taxes, Comprehensive (income) loss attributable to noncontrolling interest, Comprehensive income attributable to Walmart.
+
 | (Amounts in millions) | 2025 | 2024 | 2023 |
 |:--------------------------------------------------------------------------------------|:--------|:--------|:--------|
 | Consolidated net income | $20157 | $16270 | $11292 |
@@ -1278,6 +1405,10 @@ See accompanying notes.
 ### Walmart Inc.
 
 ### Consolidated Balance Sheets
+
+**Table Context:** The table summarizes the financial position of the company by detailing its assets, liabilities, and shareholders' equity for the years 2024 and 2025. 
+
+Metrics included: Cash and cash equivalents, Receivables, net, Inventories, Prepaid expenses and other, Total current assets, Property and equipment, net, Operating lease right-of-use assets, Finance lease right-of-use assets, net, Goodwill, Other long-term assets, Total assets, Short-term borrowings, Accounts payable, Accrued liabilities, Accrued income taxes, Long-term debt due within one year, Operating lease obligations due within one year, Finance lease obligations due within one year, Total current liabilities, Long-term debt, Long-term operating lease obligations, Long-term finance lease obligations, Deferred income taxes and other, Commitments and contingencies, Redeemable noncontrolling interest, Common stock, Capital in excess of par value, Retained earnings, Accumulated other comprehensive loss, Total Walmart shareholders' equity, Nonredeemable noncontrolling interest, Total shareholders' equity, Total liabilities, redeemable noncontrolling interest, and shareholders' equity.
 
 | (Amounts in millions) | 2025 | 2024 |
 |:---------------------------------------------------------------------------------------------------------------------|:---------|:---------|
@@ -1321,6 +1452,10 @@ See accompanying notes.
 
 ### Consolidated Statements of Shareholders' Equity
 
+**Table Context:** The table summarizes the financial position and performance of a company over multiple fiscal years, detailing changes in equity, net income, and other comprehensive income. 
+
+Metrics included: Total Assets, Common Stock, Total Liabilities, Shareholders' Equity, Retained Earnings, Comprehensive Income (Loss), Consolidated Net Income, Other Comprehensive Income (Loss), Cash Dividends Declared, Purchase of Company Stock, Cash Dividend Declared to Noncontrolling Interest, Purchase of Noncontrolling Interest, Sale of Subsidiary Stock, Other, Long-Term Debt, Operating Cash Flow, Earnings Per Share (EPS), Revenue, Cost of Goods Sold, Capital Expenditures, Gross Margin.
+
 | col1 | col4 | col10 | col13 | col16 | Accumulated | Total | col19 | col22 |
 |:--------------------------------------------------|:-------------|:--------|:-----------|:---------|:--------------|:--------------|:---------------|:--------------|
 | nan | nan | nan | Capital in | nan | Other | Walmart | Nonredeemable | Total |
@@ -1360,6 +1495,10 @@ See accompanying notes.
 ### Walmart Inc.
 
 ### Consolidated Statements of Cash Flows
+
+**Table Context:** The table summarizes the cash flow activities of a company over three fiscal years, detailing the sources and uses of cash from operating, investing, and financing activities. 
+
+Metrics included: Consolidated net income, Depreciation and amortization, Investment (gains) and losses, Deferred income taxes, Other operating activities, Receivables, net, Inventories, Accounts payable, Accrued liabilities, Accrued income taxes, Net cash provided by operating activities, Payments for property and equipment, Proceeds from the disposal of property and equipment, Proceeds from disposal of certain strategic investments, Payments for business acquisitions, net of cash acquired, Other investing activities, Net cash used in investing activities, Net change in short-term borrowings, Proceeds from issuance of long-term debt, Repayments of long-term debt, Dividends paid, Purchase of Company stock, Dividends paid to noncontrolling interest, Purchase of noncontrolling interest, Sale of subsidiary stock, Other financing activities, Net cash used in financing activities, Effect of exchange rates on cash, cash equivalents and restricted cash, Net increase (decrease) in cash, cash equivalents and restricted cash, Cash, cash equivalents and restricted cash at beginning of year, Cash, cash
 
 | (Amounts in millions) | 2025 | 2024 | 2023 |
 |:-----------------------------------------------------------------------------------------------------------------------------|:---------|:---------|:---------|
@@ -1481,6 +1620,10 @@ Property and equipment are initially recorded at cost. Gains or losses on dispos
 . 
 The following table summarizes the Company's property and equipment balances and includes the estimated useful lives that are generally used to depreciate the assets on a straight-line basis:
 
+**Table Context:** The table provides a summary of the company's property and equipment assets, including their estimated useful lives and values as of two different fiscal years. 
+
+Metrics included: Land, Buildings and improvements, Fixtures and equipment, Transportation equipment, Construction in progress, Property and equipment, Accumulated depreciation, Property and equipment, net.
+
 | col1 | Estimated Useful Lives | As of January 31, | As of January 31, |
 |:----------------------------|:-------------------------|:--------------------|:--------------------|
 | (Dollars in millions) | (in Years) | 2025 | 2024 |
@@ -1519,6 +1662,10 @@ Management reviews long-lived assets for indicators of impairment whenever event
 Goodwill represents the excess of the purchase price over the fair value of net assets acquired in business combinations and is allocated to the appropriate reporting unit when acquired. Other acquired intangible assets are stated at the fair value acquired as determined by a valuation technique commensurate with the intended use of the related asset. Goodwill and indefinite-lived intangible assets are not amortized; rather, they are evaluated for impairment annually and whenever events or changes in circumstances indicate that the value of the asset may be impaired. Definite-lived intangible assets are considered long-lived assets and are amortized on a straight-line basis over the periods that expected economic benefits will be provided.
 Goodwill is typically assigned to the reporting unit which consolidates the acquisition. Components within the same reportable segment are aggregated and deemed a single reporting unit if the components have similar economic characteristics. Goodwill and other indefinite-lived acquired intangible assets are evaluated for impairment using either a qualitative or quantitative approach for each of the Company's reporting units. Generally, a qualitative assessment is first performed to determine whether a quantitative goodwill impairment test is necessary. If management determines, after performing an assessment based on the qualitative factors, that the fair value of the reporting unit is more likely than not less than the carrying amount, or that a fair value of the reporting unit substantially in excess of the carrying amount cannot be assured, then a quantitative goodwill impairment test would be required. The quantitative test for goodwill impairment is performed by determining the fair value of the related reporting units. Fair value is measured based on the discounted cash flow method and relative market-based approaches. Management has performed its evaluation and determined the fair value of each reporting unit is significantly greater than the carrying amount and, accordingly, the Company has not recorded any impairment charges related to goodwill during fiscal 2025, fiscal 2024 or fiscal 2023.
 The following table reflects goodwill activity, by reportable segment, for fiscal 2025 and 2024:
+
+**Table Context:** The table summarizes the financial balances and changes in assets for Walmart's various segments over a specified period. 
+
+Metrics included: Total Assets, Changes in Currency Translation, Acquisitions, Balances as of February 1, 2023, Balances as of January 31, 2024, Balances as of January 31, 2025.
 
 | (Amounts in millions) | Walmart U.S. | Walmart International | Sam's Club U.S. | Total |
 |:------------------------------------------|:---------------|:------------------------|:------------------|:--------|
@@ -1584,6 +1731,10 @@ The Company has supplier financing programs with financial institutions, in whic
  days. The Company does not have an economic interest in a supplier's participation in the program or a direct financial relationship with the financial institution funding the program. The Company is responsible for ensuring that participating financial institutions are paid according to the terms negotiated with the supplier, regardless of whether the supplier elects to receive early payment from the financial institution
 . 
 The rollforward of the Company's outstanding payment obligations to financial institutions under these programs is as follows: 
+
+**Table Context:** The table summarizes the confirmed obligations and invoices related to a company's financial activities for the fiscal year 2025. 
+
+Metrics included: Confirmed obligations outstanding at the beginning of the year, Invoices confirmed during the year, Confirmed invoices paid during the year, Translation and other, Confirmed obligations outstanding at the end of the year.
 
 | (Amounts in millions) | Fiscal 2025 |
 |:---------------------------------------------------------------|:--------------|
@@ -1700,6 +1851,10 @@ Basic net income per common share attributable to Walmart is based on the weight
 64
 The following table provides a reconciliation of the numerators and denominators used to determine basic and diluted net income per common share attributable to Walmart:
 
+**Table Context:** The table summarizes key financial metrics related to Walmart's net income and share data over three fiscal years. 
+
+Metrics included: Consolidated net income, Consolidated net (income) loss attributable to noncontrolling interest, Consolidated net income attributable to Walmart, Weighted-average common shares outstanding, basic, Dilutive impact of stock options and other share-based awards, Weighted-average common shares outstanding, diluted, Net income per common share attributable to Walmart Basic, Net income per common share attributable to Walmart Diluted.
+
 | (Amounts in millions, except per share data) | 2025 | 2024 | 2023 |
 |:-----------------------------------------------------------------------|:-------|:-------|:-------|
 | Numerator Consolidated net income | $20157 | $16270 | $11292 |
@@ -1777,6 +1932,10 @@ The Company has awarded share-based compensation to associates and nonemployee d
  billion for fiscal 2025, 2024 and 2023, respectively. 
 The following table summarizes the Company's share-based compensation expense by award type for all plans:
 
+**Table Context:** The table summarizes the share-based compensation expenses and related stock units for the years 2023 to 2025. 
+
+Metrics included: Restricted Stock Units, Restricted Stock and Performance-Based Restricted Stock Units, Other, Share-Based Compensation Expense
+
 | (Amounts in millions) | 2025 | 2024 | 2023 |
 |:--------------------------------------------------------------|:-------|:-------|:-------|
 | Restricted stock units | $1909 | $1258 | $927 |
@@ -1835,6 +1994,10 @@ three years
 In addition to the Plan, certain of the Company's subsidiaries have share-based compensation plans for associates under which options to acquire their own common shares are issued. Share-based compensation expense associated with these plans is included in the Other line in the table above. 
 The following table shows the activity for restricted stock units and restricted stock and performance-based restricted stock units during fiscal 2025:
 
+**Table Context:** The table outlines the changes in outstanding shares of a company over a specified period, detailing various categories such as granted, vested, and forfeited shares. 
+
+Metrics included: Outstanding Shares, Granted Shares, Performance Achievement Adjustments, Vested Shares, Exercised Shares, Forfeited Shares, Outstanding Shares as of January 31, 2025.
+
 | col1 |
 |:------------------------------------------|
 | (Shares in thousands) |
@@ -1850,6 +2013,10 @@ The following table shows the activity for restricted stock units and restricted
  
 The following table includes additional information related to restricted stock units and restricted stock and performance-based restricted stock units:
  
+
+**Table Context:** The table summarizes the fair value and unrecognized compensation costs associated with restricted stock units and performance-based restricted stock units over three fiscal years. 
+
+Metrics included: Fair value of restricted stock units vested, Fair value of restricted stock and performance-based restricted stock units vested, Unrecognized compensation cost for restricted stock units, Unrecognized compensation cost for restricted stock and performance-based restricted stock units, Weighted average remaining period to expense for restricted stock units, Weighted average remaining period to expense for restricted stock and performance-based restricted stock units.
 
 | (Amounts in millions, except years) | 2025 | 2024 | 2023 |
 |:-----------------------------------------------------------------------------------------------------------------------|:-------|:-------|:-------|
@@ -1873,6 +2040,10 @@ From time to time, the Company repurchases shares of its common stock under shar
 The Company regularly reviews share repurchase activity and considers several factors in determining when to execute share repurchases, including, among other things, current cash needs, capacity for leverage, cost of borrowings, results of operations and the market price of the Company's common stock. 
 The following table provides, on a settlement date basis, the number of shares repurchased, average price paid per share and total amount paid for share repurchases for fiscal 2025, 2024 and 2023:
 
+**Table Context:** The table summarizes the company's share repurchase activities over three fiscal years, detailing the number of shares repurchased, the average price paid per share, and the total cash spent on these repurchases. 
+
+Metrics included: Total number of shares repurchased, Average price paid per share, Total cash paid for share repurchases.
+
 | (Amounts in millions, except per share data) | 2025 | 2024 | 2023 |
 |:-----------------------------------------------|:-------|:-------|:-------|
 | Total number of shares repurchased | 61.9 | 54.6 | 221.8 |
@@ -1882,6 +2053,10 @@ The following table provides, on a settlement date basis, the number of shares r
 ### Note 4. Accumulated Other Comprehensive Loss
 
 The following table provides the changes in the composition of total accumulated other comprehensive loss for fiscal 2025, 2024 and 2023: 
+
+**Table Context:** The table summarizes the changes in comprehensive income and losses related to currency translation and cash flow hedges over multiple fiscal periods. 
+
+Metrics included: Balances as of February 1, 2022, Other comprehensive loss before reclassifications, net, Return of currency translation to parent, Reclassifications to income, net, Balances as of January 31, 2023, Other comprehensive income (loss) before reclassifications, net, Reclassifications to income, net, Balances as of January 31, 2024, Other comprehensive loss before reclassifications, net, Reclassifications to income, net, Balances as of January 31, 2025.
 
 | (Amounts in millions and net of immaterial income taxes) | Currency Translation and Other | Cash Flow Hedges | Total |
 |:----------------------------------------------------------------|:---------------------------------|:-------------------|:----------|
@@ -1908,6 +2083,10 @@ Amounts reclassified from accumulated other comprehensive loss for cash flow hed
 ### Note 5. Accrued Liabilities
 
 The Company's accrued liabilities consist of the following as of January 31, 2025 and 2024:
+
+**Table Context:** The table summarizes the accrued liabilities of a company for the years 2025 and 2024, detailing various components that contribute to the total accrued liabilities. 
+
+Metrics included: Accrued wages and benefits, Self-insurance, Accrued non-income taxes, Deferred gift card revenue, Other accrued liabilities, Total accrued liabilities.
 
 | (Amounts in millions) | 2025 | 2024 |
 |:------------------------------|:-------|:-------|
@@ -1940,6 +2119,10 @@ Short-term borrowings consist of commercial paper and lines of credit. Short-ter
 %, respectively. 
 The Company has various committed lines of credit in the U.S. to support its commercial paper program which are summarized in the following table:
 
+**Table Context:** The table summarizes the available, drawn, and undrawn amounts of two credit facilities for the specified dates. 
+
+Metrics included: Total Assets, Total Liabilities, Shareholder Equity, Long-Term Debt, Available Credit, Drawn Credit, Undrawn Credit, Five-Year Credit Facility, 364-Day Revolving Credit Facility.
+
 | col1 | January 31, 2025 | January 31, 2025 | January 31, 2025 | January 31, 2024 | January 31, 2024 | January 31, 2024 |
 |:-------------------------------------|:-------------------|:-------------------|:-------------------|:-------------------|:-------------------|:-------------------|
 | (Amounts in millions) | Available | Drawn | Undrawn | Available | Drawn | Undrawn |
@@ -1971,6 +2154,10 @@ The Company's long-term debt, which includes the fair value instruments further 
 Note 8
 , consists of the following as of January 31, 2025 and 2024:
 
+**Table Context:** The table outlines the various components of a company's debt structure, specifically focusing on unsecured fixed-rate debt in different currencies and total debt metrics. 
+
+Metrics included: Unsecured fixed-rate debt, U.S. dollar denominated debt, Euro denominated debt, Sterling denominated debt, Yen denominated debt, Total unsecured fixed-rate debt, Total other debt, Total debt, Amounts due within one year, Long-term debt.
+
 | col1 |
 |:---------------------------------|
 | (Amounts in millions) |
@@ -1993,6 +2180,10 @@ Includes deferred loan costs, discounts, fair value hedges, foreign-held debt an
 68
 Annual maturities of long-term debt during the next five years and thereafter are as follows:
 
+**Table Context:** The table outlines the scheduled maturities of financial obligations over several fiscal years. 
+
+Metrics included: Maturities, Total Maturities
+
 | (Amounts in millions) | Annual |
 |:------------------------|:-----------|
 | Fiscal Year | Maturities |
@@ -2010,6 +2201,10 @@ no
  long-term debt issuances in fiscal 2025. 
 Information on significant long-term debt issued during fiscal 2024, for general corporate purposes, is as follows:
 
+**Table Context:** The table summarizes the details of debt issuances, including principal amounts, maturity dates, interest rates, and net proceeds from the issuances. 
+
+Metrics included: Principal Amount, Maturity Date, Fixed vs. Floating, Interest Rate, Net Proceeds
+
 | (Amounts in millions) | col1 | col4 | col7 | col10 | col13 |
 |:------------------------|:-----------------|:---------------|:-------------------|:--------------|:-------------|
 | Issue Date | Principal Amount | Maturity Date | Fixed vs. Floating | Interest Rate | Net Proceeds |
@@ -2024,6 +2219,10 @@ These issuances are senior, unsecured notes which rank equally with all other se
 Maturities
 The following tables provide details of significant long-term debt repayments during fiscal 2025 and 2024, respectively: 
 
+**Table Context:** The table outlines the details of debt maturities, including principal amounts, interest rates, and repayment schedules. 
+
+Metrics included: Principal Amount, Fixed vs. Floating, Interest Rate, Repayment, Total repayment of matured debt
+
 | (Amounts in millions) | col1 | col4 | col7 | col10 |
 |:--------------------------------|:-----------------|:-------------------|:--------------|:----------|
 | Maturity Date | Principal Amount | Fixed vs. Floating | Interest Rate | Repayment |
@@ -2032,6 +2231,10 @@ The following tables provide details of significant long-term debt repayments du
 | July 18, 2024 | ¥40,000 | Fixed | 0.298% | 253 |
 | December 15, 2024 | $630 | Fixed | 2.650% | 630 |
 | Total repayment of matured debt | nan | nan | nan | $3373 |
+
+**Table Context:** The table summarizes the details of matured debt, including principal amounts, interest rates, and repayment totals. 
+
+Metrics included: Principal Amount, Fixed vs. Floating, Interest Rate, Repayment, Total repayment of matured debt
 
 | (Amounts in millions) | col1 | col4 | col7 | col10 |
 |:--------------------------------|:-----------------|:-------------------|:--------------|:----------|
@@ -2045,6 +2248,10 @@ The following tables provide details of significant long-term debt repayments du
 The Company leases certain retail locations, distribution and fulfillment centers, warehouses, office spaces, land and equipment throughout the U.S. and internationally. 
 The Company's lease costs recognized in the Consolidated Statements of Income consist of the following:
 
+**Table Context:** The table provides a summary of various lease-related costs incurred by the company over three fiscal years. 
+
+Metrics included: Operating Lease Cost, Finance Lease Cost: Amortization of Right-of-Use Assets, Interest on Lease Obligations, Variable Lease Cost.
+
 | (Amounts in millions) | 2025 | 2024 | 2023 |
 |:--------------------------------------------------------|:-------|:-------|:-------|
 | Operating lease cost | $2347 | $2277 | $2306 |
@@ -2055,6 +2262,10 @@ The Company's lease costs recognized in the Consolidated Statements of Income co
 69
 Other lease information is as follows:
 
+**Table Context:** The table summarizes cash flows and asset transactions related to lease obligations over three fiscal years. 
+
+Metrics included: Cash paid for amounts included in measurement of lease obligations, Operating cash flows from operating leases, Operating cash flows from finance leases, Financing cash flows from finance leases, Assets obtained in exchange for operating lease obligations, Assets obtained in exchange for finance lease obligations.
+
 | (Amounts in millions) | 2025 | 2024 | 2023 |
 |:---------------------------------------------------------------------------------------------------------------|:-------|-------:|-------:|
 | Cash paid for amounts included in measurement of lease obligations: Operating cash flows from operating leases | $2390 | 2273 | 2280 |
@@ -2062,6 +2273,10 @@ Other lease information is as follows:
 | Financing cash flows from finance leases | 908 | 1055 | 563 |
 | Assets obtained in exchange for operating lease obligations | 1974 | 1514 | 1714 |
 | Assets obtained in exchange for finance lease obligations | 1455 | 1572 | 1226 |
+
+**Table Context:** The table provides information on the weighted-average remaining lease terms and discount rates for both operating and finance leases over two fiscal years. 
+
+Metrics included: Weighted-average remaining lease term - operating leases, Weighted-average remaining lease term - finance leases, Weighted-average discount rate - operating leases, Weighted-average discount rate - finance leases.
 
 | col1 | 2025 | 2024 |
 |:---------------------------------------------------------|:-----------|:-----------|
@@ -2071,6 +2286,10 @@ Other lease information is as follows:
 | Weighted-average discount rate - finance leases | 6.7% | 6.8% |
 
 The aggregate annual lease obligations at January 31, 2025, are as follows:
+
+**Table Context:** The table provides a breakdown of operating and finance lease obligations over several fiscal years, including total undiscounted lease obligations and net lease obligations after accounting for imputed interest. 
+
+Metrics included: Operating Leases, Finance Leases, Total Undiscounted Lease Obligations, Imputed Interest, Net Lease Obligations.
 
 | (Amounts in millions) | col1 | col4 |
 |:-------------------------------------|:-----------------|:---------------|
@@ -2099,6 +2318,10 @@ Note 1
 , the Company measures the fair value of certain equity investments, including certain immaterial equity method investments where the Company has elected the fair value option, on a recurring basis within other long-term assets in the accompanying Consolidated Balance Sheets. The amounts of gains and losses included in earnings from fair value changes for these investments are recognized within other gains and losses in the Consolidated Statements of Income. 
 The fair value of these investments is as follows:
 
+**Table Context:** The table summarizes the fair value of equity investments measured using different levels of inputs as of January 31 for the years 2025 and 2024. 
+
+Metrics included: Equity investments measured using Level 1 inputs, Equity investments measured using Level 2 inputs, Total Fair Value.
+
 | (Amounts in millions) | Fair Value as of January 31, 2025 | Fair Value as of January 31, 2024 |
 |:-------------------------------------------------|:------------------------------------|:------------------------------------|
 | Equity investments measured using Level 1 inputs | $959 | $2835 |
@@ -2121,6 +2344,10 @@ Derivatives
 The Company also has derivatives recorded at fair value. Derivative fair values are the estimated amounts the Company would receive or pay upon termination of the related derivative agreements as of the reporting dates. The fair values have been measured using the income approach and Level 2 inputs, which include the relevant interest rate and foreign currency forward curves. 
 As of January 31, 2025 and January 31, 2024, the notional amounts and fair values of these derivatives were as follows:
 
+**Table Context:** The table summarizes the notional amounts and fair values of various interest rate swaps and cross-currency swaps for two fiscal years, providing insights into the company's hedging activities. 
+
+Metrics included: Notional Amount, Fair Value, Receive fixed-rate, pay variable-rate interest rate swaps, Receive fixed-rate, pay fixed-rate cross-currency swaps, Total
+
 | col1 | January 31, 2025 | January 31, 2025 | col4 | January 31, 2024 | January 31, 2024 | col7 |
 |:------------------------------------------------------------------------------------------|:-------------------|:-------------------|:-------|:-------------------|:-------------------|:-------|
 | (Amounts in millions) | Notional Amount | Fair Value | nan | Notional Amount | Fair Value | nan |
@@ -2138,6 +2365,10 @@ The Company records cash and cash equivalents, restricted cash and short-term bo
 The Company's long-term debt is also recorded at cost. The fair value is estimated using Level 2 inputs based on observable prices of identical instruments in less active markets. 
 The carrying value and fair value of the Company's long-term debt as of January 31, 2025 and 2024, are as follows:
 
+**Table Context:** The table provides a comparison of the carrying and fair values of long-term debt for two fiscal years. 
+
+Metrics included: Long-term debt, Carrying Value, Fair Value
+
 | col1 | January 31, 2025 | January 31, 2025 | January 31, 2024 | January 31, 2024 |
 |:------------------------------------------------------|:-------------------|:-------------------|:-------------------|:-------------------|
 | (Amounts in millions) | Carrying Value | Fair Value | Carrying Value | Fair Value |
@@ -2147,6 +2378,10 @@ The carrying value and fair value of the Company's long-term debt as of January�
 
 The components of income before income taxes are as follows: 
 
+**Table Context:** The table summarizes the total income before income taxes for both U.S. and Non-U.S. segments over three fiscal years. 
+
+Metrics included: Total Income Before Income Taxes, U.S. Income, Non-U.S. Income
+
 | (Amounts in millions) | 2025 | 2024 | 2023 |
 |:---------------------------------|:-------|:-------|:-------|
 | U.S. | $18571 | $20092 | $15089 |
@@ -2154,6 +2389,10 @@ The components of income before income taxes are as follows:
 | Total income before income taxes | $26309 | $21848 | $17016 |
 
 A summary of the provision for income taxes is as follows:
+
+**Table Context:** The table summarizes the company's income tax provisions and related deferred tax expenses over three fiscal years. 
+
+Metrics included: Current U.S. federal tax provision, Current U.S. state and local tax provision, Current international tax provision, Total current tax provision, Deferred U.S. federal tax expense, Deferred U.S. state and local tax expense, Deferred international tax expense, Total deferred tax expense (benefit), Total provision for income taxes.
 
 | (Amounts in millions) | 2025 | 2024 | 2023 |
 |:-------------------------------------|:-------|:-------|:-------|
@@ -2171,6 +2410,10 @@ A summary of the provision for income taxes is as follows:
 Effective Income Tax Rate Reconciliation
 A reconciliation of the significant differences between the U.S. statutory tax rate and the effective income tax rate on pre-tax income from continuing operations is as follows:
 
+**Table Context:** The table summarizes various tax-related metrics and their impact on the company's financial performance over multiple years. 
+
+Metrics included: U.S. statutory tax rate, U.S. state income taxes, net of federal income tax benefit, income taxed outside the U.S., separation, disposal and wind-down of certain business operations, valuation allowance, net impact of repatriated international earnings, federal tax credits, change in unrecognized tax benefits, other, net, effective income tax rate.
+
 | col1 | 2025 | 2025 | 2024 | 2024 | 2023 |
 |:------------------------------------------------------------------|:-------|:-------|:-------|:-------|:-------|
 | U.S. statutory tax rate | 21.0 | nan | 21.0 | nan | 21.0 |
@@ -2186,6 +2429,10 @@ A reconciliation of the significant differences between the U.S. statutory tax r
 
 Deferred Taxes 
 The significant components of the Company's deferred tax account balances are as follows:
+
+**Table Context:** The table summarizes various deferred tax assets and liabilities, along with related financial metrics for the years 2024 and 2025. 
+
+Metrics included: Deferred tax assets: Loss and tax credit carryforwards, Accrued liabilities, Share-based compensation, Lease obligations, Other, Total deferred tax assets, Valuation allowances, Deferred tax assets, net of valuation allowances, Deferred tax liabilities: Property and equipment, Acquired intangibles, Inventory, Lease right of use assets, Mark-to-market investments, Other, Total deferred tax liabilities, Net deferred tax liabilities.
 
 | (Amounts in millions) | 2025 | 2024 |
 |:-------------------------------------------------------|:--------|:--------|
@@ -2207,6 +2454,10 @@ The significant components of the Company's deferred tax account balances are as
 | Net deferred tax liabilities | $5271 | $5585 |
 
 The deferred taxes noted above are classified as follows in the Company's Consolidated Balance Sheets:
+
+**Table Context:** The table summarizes key financial line items related to assets and liabilities from a company's balance sheet for the years 2024 and 2025. 
+
+Metrics included: Other Long-Term Assets, Deferred Income Taxes, Net Deferred Tax Liabilities
 
 | (Amounts in millions) | 2025 | 2024 |
 |:------------------------------------------------------------|:-------|:-------|
@@ -2240,6 +2491,10 @@ As of January 31, 2025 and 2024, the amount of gross unrecognized tax benefits 
 1.7
  billion as of January 31, 2025 and 2024, respectively.
 A reconciliation of gross unrecognized tax benefits from continuing operations is as follows:
+
+**Table Context:** The table summarizes the changes in gross unrecognized tax benefits over three fiscal years, detailing increases and decreases related to tax positions. 
+
+Metrics included: Gross unrecognized tax benefits, beginning of year, Increases related to prior year tax positions, Decreases related to prior year tax positions, Increases related to current year tax positions, Settlements during the period, Lapse in statutes of limitations, Gross unrecognized tax benefits, end of year.
 
 | (Amounts in millions) | 2025 | 2024 | 2023 |
 |:---------------------------------------------------|:-------|:-------|:-------|
@@ -2386,6 +2641,10 @@ one year
 Associates in international countries who are not U.S. citizens are covered by various defined contribution post-employment benefit arrangements. These plans are administered based upon the legislative and tax requirements in the countries in which they are established.
 The following table summarizes the contribution expense related to the Company's defined contribution plans for fiscal 2025, 2024 and 2023:
 
+**Table Context:** The table summarizes the total contribution expenses for defined contribution plans in the U.S. and internationally over three fiscal years. 
+
+Metrics included: Total Contribution Expense for Defined Contribution Plans, Defined Contribution Plans: U.S., Defined Contribution Plans: International
+
 | (Amounts in millions) | 2025 | 2024 | 2023 |
 |:----------------------------------------------------------|:-------|:-------|:-------|
 | Defined contribution plans: U.S. | $1751 | $1528 | $1491 |
@@ -2404,6 +2663,10 @@ The Company measures the profit or loss of its segments using operating income. 
 Note 1
 . 
 Information for the Company's segments, as well as for Corporate and support, including the reconciliation to income before income taxes, is provided as follows:
+
+**Table Context:** The table summarizes key financial metrics for Walmart across multiple years, highlighting revenue, expenses, and income figures. 
+
+Metrics included: Walmart U.S. Net Sales, Membership and Other Income (Walmart U.S.), Total Revenues (Walmart U.S.), Cost of Sales (Walmart U.S.), Operating, Selling, General and Administrative Expenses (Walmart U.S.), Operating Income (Walmart U.S.), Walmart International Net Sales, Membership and Other Income (Walmart International), Total Revenues (Walmart International), Cost of Sales (Walmart International), Operating, Selling, General and Administrative Expenses (Walmart International), Operating Income (Walmart International), Sam's Club U.S. Net Sales, Membership and Other Income (Sam's Club U.S.), Total Revenues (Sam's Club U.S.), Cost of Sales (Sam's Club U.S.), Operating, Selling, General and Administrative Expenses (Sam's Club U.S.), Operating Income (Sam's Club U.S.), Corporate and Support Membership and Other Income, Operating, Selling, General and Administrative Expenses (Corporate and Support), Operating Loss, Consolidated Net Sales, Membership and Other Income (Consolidated), Total Revenues (Consolidated), Cost of Sales (Consolidated),
 
 | (Amounts in millions) | 2025 | 2024 | 2023 |
 |:--------------------------------------------------------|:---------|:---------|:---------|
@@ -2451,6 +2714,10 @@ Total fuel-related expenses for Sam's Club U.S. were $
 78
 Total assets, depreciation and amortization, and capital expenditures for the Company's segments, as well as for Corporate and support, are as follows:
 
+**Table Context:** The table summarizes the total assets, depreciation and amortization, and capital expenditures for Walmart's various segments over the years 2023 to 2025. 
+
+Metrics included: Total Assets, Depreciation and Amortization, Capital Expenditures, Walmart U.S. Total Assets, Walmart International Total Assets, Sam's Club U.S. Total Assets, Corporate Total Assets, Consolidated Total Assets.
+
 | (Amounts in millions) | 2025 | 2024 | 2023 |
 |:-----------------------------------|:--------|:--------|:--------|
 | Walmart U.S. Total assets | $150006 | $137782 | $130659 |
@@ -2471,6 +2738,10 @@ Total assets, depreciation and amortization, and capital expenditures for the Co
 
 Total revenues and long-lived assets, consisting primarily of net property and equipment and lease right-of-use assets, aggregated by the Company's U.S. and non-U.S. operations, are as follows:
 
+**Table Context:** The table summarizes the financial performance and asset composition of a company over three fiscal years, focusing on revenues and long-lived assets from both U.S. and non-U.S. operations. 
+
+Metrics included: Revenues U.S. operations, Revenues Non-U.S. operations, Total revenues, Long-lived assets U.S. operations, Long-lived assets Non-U.S. operations, Total long-lived assets.
+
 | (Amounts in millions) | 2025 | 2024 | 2023 |
 |:----------------------------------|:--------|:--------|:--------|
 | Revenues U.S. operations | $557622 | $532076 | $508685 |
@@ -2483,6 +2754,10 @@ Total revenues and long-lived assets, consisting primarily of net property and e
 No individual country outside of the U.S. had total revenues or long-lived assets that were material to the consolidated totals. Additionally, the Company did not generate material revenues from any single customer.
 Disaggregated Revenues
 In the following tables, segment net sales are disaggregated by either merchandise category or market. In addition, net sales related to eCommerce are provided for each segment. Net sales related to eCommerce include omni-channel sales where a customer initiates an order digitally and the order is fulfilled through a store or club, as well as net sales from other business offerings that are part of the Company's ecosystem such as certain advertising arrangements, fulfillment services, and data insights. From time to time, the Company revises the assignment of net sales of a particular item to a merchandise category. When the assignment changes, previous period amounts are reclassified to be comparable to the current period's presentation. 
+
+**Table Context:** The table summarizes Walmart U.S. net sales by merchandise category over three fiscal years. 
+
+Metrics included: Grocery Sales, General Merchandise Sales, Health and Wellness Sales, Other Sales, Total Net Sales.
 
 | (Amounts in millions) | Fiscal Years Ended January 31, | Fiscal Years Ended January 31, | Fiscal Years Ended January 31, |
 |:-----------------------------------------------|:---------------------------------|:---------------------------------|:---------------------------------|
@@ -2502,6 +2777,10 @@ Of Walmart U.S.'s total net sales, approximately $
  billion related to eCommerce for fiscal 2025, 2024 and 2023, respectively. 
 79
 
+**Table Context:** The table summarizes Walmart International's net sales by market for the fiscal years ended January 31 for three consecutive years. 
+
+Metrics included: Walmart International net sales, Mexico and Central America net sales, Canada net sales, China net sales, Other net sales, Total net sales.
+
 | (Amounts in millions) | Fiscal Years Ended January 31, | Fiscal Years Ended January 31, | Fiscal Years Ended January 31, |
 |:------------------------------------------|:---------------------------------|:---------------------------------|:---------------------------------|
 | Walmart International net sales by market | 2025 | 2024 | 2023 |
@@ -2518,6 +2797,10 @@ Of Walmart International's total net sales, approximately $
  billion and $
 20.3
  billion related to eCommerce for fiscal 2025, 2024 and 2023, respectively. 
+
+**Table Context:** The table summarizes the net sales of Sam's Club U.S. by merchandise category over three fiscal years. 
+
+Metrics included: Grocery Sales, Fuel and Other Sales, General Merchandise Sales, Health and Wellness Sales, Total Net Sales.
 
 | (Amounts in millions) | Fiscal Years Ended January 31, | Fiscal Years Ended January 31, | Fiscal Years Ended January 31, |
 |:--------------------------------------------------|:---------------------------------|:---------------------------------|:---------------------------------|
@@ -2548,6 +2831,9 @@ The Company approved, effective February 20, 2025, the fiscal 2026 annual divid
 For fiscal 2026, the annual dividend will be paid in four quarterly installments of $
 0.235
  per share, according to the following record and payable dates:
+
+**Table Context:** The table outlines the record and payable dates for dividend payments. 
+Metrics included: Record Date, Payable Date
 
 | Record Date | Payable Date |
 |:------------------|:------------------|
@@ -2641,6 +2927,10 @@ The information required by this Item 14 is incorporated herein by reference to 
 
 (a)     Documents filed as part of this report are as follows: 
 
+**Table Context:** The table serves to reference the financial statements and schedules included in the SEC 10-K report, indicating the presence or absence of specific financial information. 
+
+Metrics included: Total Assets, Net Income, Total Liabilities, Operating Expenses, Shareholder Equity, Operating Cash Flow, Gross Margin, Earnings Per Share (EPS), Long-Term Debt, Retained Earnings, Revenue, Cost of Goods Sold, Capital Expenditures.
+
 | 1.0 | Financial Statements: See the Financial Statements in "Item 8. Financial Statements and Supplementary Data." |
 |------:|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | 2 | Financial Statement Schedules:Certain schedules have been omitted because the required information is not present or is not present in amounts sufficient to require submission of the schedule, or because the information required is included in the Consolidated Financial Statements, including the notes thereto. |
@@ -2649,6 +2939,10 @@ The information required by this Item 14 is incorporated herein by reference to 
 (b)    The required exhibits are filed as part of this Form 10-K or are incorporated by reference herein.
 (1)
  
+
+**Table Context:** The table provides references to various legal documents related to the company's incorporation and indentures, which are essential for understanding its corporate structure and obligations. 
+
+Metrics included: Total Assets, Net Income, Total Liabilities, Operating Expenses, Shareholder Equity, Operating Cash Flow, Gross Margin, Earnings Per Share (EPS), Long-Term Debt, Retained Earnings, Revenue, Cost of Goods Sold, Capital Expenditures.
 
 | 3.1(a) | Restated Certificate of Incorporation of the Company dated February 1, 2018 is incorporated herein by reference to Exhibit 3.1 to the Report on Form 8-K filed by the Company on February 1, 2018 |
 |:---------|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -2664,6 +2958,10 @@ The information required by this Item 14 is incorporated herein by reference to 
 | 4.8 | Description of Registrant's Securities is incorporated by reference to Exhibit 4.8 to the Company's Annual Report on Form 10-K for the fiscal year ended January 31, 2024 filed on March 15, 2024 |
 
 83
+
+**Table Context:** The table provides references to various compensation and incentive plans related to Walmart Inc., as disclosed in their SEC 10-K report.
+
+Metrics included: Deferred Compensation Matching Plan, Management Incentive Plan, Associate Stock Purchase Plan, Stock Incentive Plan, Supplemental Executive Retirement Plan, Director Compensation Deferral Plan, Post-Termination Agreement, Stock Incentive Plan Restricted Stock Notification, Stock Incentive Plan Performance-Based Restricted Stock Unit Notification, Officer Deferred Compensation Plan, Share Issuance and Acquisition Agreement, Share Purchase Agreement, Retirement Agreement.
 
 | 10.1 | Walmart Inc. Deferred Compensation Matching Plan, as amended and restated effective November 8, 2023 is incorporated by reference to Exhibit 10.1 to the Company's Annual Report on Form 10-K for the fiscal year ended January 31, 2024 filed on March 15, 2024 (C) |
 |:--------|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -2684,6 +2982,10 @@ The information required by this Item 14 is incorporated herein by reference to 
 
 84
 
+**Table Context:** The table outlines various certifications and policies related to corporate governance and compliance as part of the company's SEC 10-K report. 
+
+Metrics included: Insider Trading Policy, Significant Subsidiaries, Consent of Independent Registered Public Accounting Firm, CEO Section 302 Certification, CFO Section 302 Certification, CEO Section 906 Certification, CFO Section 906 Certification, Executive Compensation Recoupment Policy, Non-MDL Opioids Litigation Case Citations, Inline XBRL Instance Document, Inline XBRL Taxonomy Extension Schema Document, Inline XBRL Taxonomy Extension Calculation Linkbase Document, Inline XBRL Taxonomy Extension Definition Linkbase Document, Inline XBRL Taxonomy Extension Label Linkbase Document, Inline XBRL Taxonomy Extension Presentation Linkbase Document, Cover Page Interactive Data File.
+
 | 19* | Insider Trading Policy |
 |:---------|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | 21* | List of the Company's Significant Subsidiaries |
@@ -2701,6 +3003,10 @@ The information required by this Item 14 is incorporated herein by reference to 
 | 101.LAB* | Inline XBRL Taxonomy Extension Label Linkbase Document |
 | 101.PRE* | Inline XBRL Taxonomy Extension Presentation Linkbase Document |
 | 104 | Cover Page Interactive Data File (formatted as Inline XBRL and contained in Exhibit 101) |
+
+**Table Context:** The purpose of the table is to outline the nature and classification of various exhibits and documents filed with the SEC as part of the 10-K report. 
+
+Metrics included: Total Assets, Net Income, Total Liabilities, Operating Expenses, Shareholder Equity, Operating Cash Flow, Gross Margin, Earnings Per Share (EPS), Long-Term Debt, Retained Earnings, Revenue, Cost of Goods Sold, Capital Expenditures.
 
 | * | Filed herewith as an Exhibit. |
 |:----|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -2720,11 +3026,19 @@ None.
 
 Pursuant to the requirements of Section 13 or 15(d) of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned, thereunto duly authorized.
 
+**Table Context:** The table serves to identify the signatory of the SEC 10-K report, specifically the President and Chief Executive Officer. 
+
+Metrics included: Total Assets, Net Income, Total Liabilities, Operating Expenses, Shareholder Equity, Operating Cash Flow, Gross Margin, Earnings Per Share (EPS), Long-Term Debt, Retained Earnings, Revenue, Cost of Goods Sold, Capital Expenditures.
+
 | /s/ C. Douglas McMillon |
 |:----------------------------------------------------------|
 | C. Douglas McMillon President and Chief Executive Officer |
 
 Pursuant to the requirements of the Securities Exchange Act of 1934, this report has been signed below by the following persons on behalf of the registrant and in the capacities and on the dates indicated:
+
+**Table Context:** The table provides signatures and titles of key executives from a company's SEC 10-K report, indicating their roles and responsibilities. 
+
+Metrics included: Total Assets, Net Income, Total Liabilities, Operating Expenses, Shareholder Equity, Operating Cash Flow, Gross Margin, Earnings Per Share (EPS), Long-Term Debt, Retained Earnings, Revenue, Cost of Goods Sold, Capital Expenditures.
 
 | Date: March 14, 2025 | By | /s/ C. Douglas McMillon |
 |:-----------------------|:-----|:-----------------------------------------------------|
@@ -2746,6 +3060,10 @@ Pursuant to the requirements of the Securities Exchange Act of 1934, this report
 Signature Page to Walmart Inc.
 Form 10-K for the Fiscal Year Ended January 31, 2025 
 86
+
+**Table Context:** The table lists the signatures of various directors, indicating their approval or acknowledgment of the document dated March 14, 2025. 
+
+Metrics included: Total Assets, Net Income, Total Liabilities, Operating Expenses, Shareholder Equity, Operating Cash Flow, Gross Margin, Earnings Per Share (EPS), Long-Term Debt, Retained Earnings, Revenue, Cost of Goods Sold, Capital Expenditures.
 
 | Date: March 14, 2025 | By | /s/ Cesar Conde |
 |:-----------------------|:-----|:--------------------------|
