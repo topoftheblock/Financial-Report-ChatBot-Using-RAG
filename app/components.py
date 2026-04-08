@@ -1,26 +1,16 @@
 import streamlit as st
-import os
 
 def render_sidebar():
     """Renders the sidebar with instructions, controls, and architecture visuals."""
     with st.sidebar:
-        st.title("📊 Financial RAG Agent")
+        st.title("Financial RAG Agent")
         st.markdown("""
         **Capabilities:**
         - Semantic Search (MD&A, Risk Factors)
         - Exact Table Lookups (Revenue, EPS)
         - Mathematical Calculations (YoY Growth, Margins)
         """)
-        
-        st.divider()
-        
-        # --- NEW: View Agent Interactions Visually ---
-        st.markdown("### Agent Architecture")
-        if st.checkbox("Show Multi-Agent Architecture"):
-            if os.path.exists("main_agent_graph.png"):
-                st.image("main_agent_graph.png", caption="Main Graph (Supervisor Agent)")
-            if os.path.exists("subgraph.png"):
-                st.image("subgraph.png", caption="Sub Graph (Worker Agent)")
+                
                 
         st.divider()
         
@@ -29,57 +19,45 @@ def render_sidebar():
             st.rerun()
             
         st.divider()
-        st.caption("Powered by LangGraph, GPT-4o, and Streamlit.")
+        st.caption("Powered by LangChain, OpenAI/GPT, and Streamlit.")
+
 
 def render_agent_thoughts(intermediate_steps):
     """
-    Renders LangGraph node executions to show how the agents interact.
-    Expects a list of dictionaries where keys are the Node Names.
+    Renders LangChain agent thoughts and tool calls to show how it thinks under the hood.
+    Expects a list of tuples containing (AgentAction, Observation).
     """
     if not intermediate_steps:
         return
 
-    with st.expander("🕵️‍♂️ View Multi-Agent Interaction Flow", expanded=False):
+    with st.expander(" View Agent Thought Process", expanded=False):
         for i, step in enumerate(intermediate_steps):
-            # LangGraph stream events usually look like: {'node_name': {'state_key': 'state_value'}}
-            if isinstance(step, dict):
-                for node_name, state_update in step.items():
-                    # Color code the nodes based on which agent they belong to
-                    if node_name in ["summarize_history", "rewrite_query", "aggregate_answers"]:
-                        agent_type = "👔 Supervisor Agent"
-                        color = "blue"
-                    elif node_name in ["orchestrator", "tools", "should_compress_context", "compress_context", "collect_answer"]:
-                        agent_type = "👷 Worker Agent"
-                        color = "green"
-                    else:
-                        agent_type = "⚙️ System Node"
-                        color = "gray"
-
-                    st.markdown(f"### :{color}[Step {i+1}: {agent_type} -> `{node_name}`]")
-                    
-                    # Extract useful state information to show the user
-                    if "messages" in state_update:
-                        last_msg = state_update["messages"][-1]
-                        
-                        # Handle Tool Calls
-                        if hasattr(last_msg, "tool_calls") and last_msg.tool_calls:
-                            for tool in last_msg.tool_calls:
-                                st.write(f"**🛠️ Calling Tool:** `{tool['name']}`")
-                                st.json(tool['args'])
-                        # Handle Tool Responses
-                        elif getattr(last_msg, "type", "") == "tool":
-                            obs_str = str(last_msg.content)
-                            if len(obs_str) > 300:
-                                obs_str = obs_str[:300] + " ... [Truncated]"
-                            st.info(f"**Tool Result:**\n{obs_str}")
-                        # Handle standard AI messages
-                        elif hasattr(last_msg, "content") and last_msg.content:
-                            st.write(f"**Output:** {last_msg.content[:200]}...")
-
-                    # Show rewritten queries from the supervisor
-                    if "rewrittenQuestions" in state_update:
-                        st.write("**📝 Supervisor drafted tasks for Worker:**")
-                        for q in state_update["rewrittenQuestions"]:
-                            st.write(f"- {q}")
-                            
-                    st.divider()
+            
+            # Ensure it's the expected LangChain tuple format
+            if isinstance(step, tuple) and len(step) == 2:
+                action, observation = step
+                
+                st.markdown(f"### Step {i+1}: Agent Reasoning")
+                
+                # 1. Print the Agent's raw internal monologue (Thought)
+                if hasattr(action, "log") and action.log:
+                    # Escape dollar signs here as well so the UI doesn't break
+                    safe_log = action.log.replace("$", r"\$")
+                    st.info(f"**Internal Thought:**\n\n{safe_log}")
+                
+                # 2. Print the exact Tool and Input used
+                tool_name = getattr(action, 'tool', 'Unknown')
+                tool_input = getattr(action, 'tool_input', 'None')
+                st.write(f"** Tool Called:** `{tool_name}`")
+                st.write(f"** Tool Input:** `{tool_input}`")
+                
+                # 3. Print the Observation (What the database/calculator returned)
+                obs_str = str(observation).replace("$", r"\$")
+                
+                # Truncate massive DB returns so the UI doesn't freeze
+                if len(obs_str) > 600:
+                    obs_str = obs_str[:600] + "\n\n... [Truncated for UI readability]"
+                
+                st.success(f"**Observation (Result):**\n\n{obs_str}")
+                
+                st.divider()
