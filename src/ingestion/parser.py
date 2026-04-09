@@ -397,13 +397,11 @@ def _summarize_table_with_llm(table_md: str) -> str:
     prompt = (
         "You are a financial data assistant. Below is a markdown table extracted from an SEC 10-K report. "
         "First, provide a brief 1-sentence summary of the table's purpose. "
-        "Second, and most importantly, provide a comprehensive comma-separated list of all major financial "
-        "line items, metrics, and indicators found in the rows/columns of the table. "
-        "Explicitly look for and include items such as: 'Total Assets, Net Income, Total Liabilities, "
-        "Operating Expenses, Shareholder Equity, Operating Cash Flow, Gross Margin, Earnings Per Share (EPS), "
-        "Long-Term Debt, Retained Earnings, Revenue, Cost of Goods Sold, and Capital Expenditures'. "
-        "Do not include the numeric values, but be highly specific with the metric names to aid semantic search. "
-        "Start directly with the summary, followed by 'Metrics included: '.\n\n"
+        "Second, provide a comma-separated list of the major financial line items ACTUALLY PRESENT in the table. "
+        "CRITICAL: Only list metrics that you can explicitly see in the rows or columns. Do not invent or assume metrics. "
+        "If the table is not a financial metrics table (e.g., it is a list of executive signatures, addresses, or formatting artifacts), do NOT list any financial metrics. "
+        "Do not include the numeric values, just the specific metric names to aid semantic search. "
+        "Start directly with the summary, followed by 'Metrics included: ' (or leave the metrics list blank if none apply).\n\n"
         f"Table:\n{table_md}"
     )
 
@@ -507,7 +505,7 @@ def parse_10k_html(file_path: str, output_path: str) -> str:
     # Ensure the output directory exists
     os.makedirs(os.path.dirname(output_path), exist_ok=True)
  
-    with open(output_path + "/10-K.txt", 'w', encoding='utf-8') as f:
+    with open(output_path + "/10-K.md", 'w', encoding='utf-8') as f:
         f.write(text)
  
     print(f'Done → {output_path}')

@@ -4,16 +4,24 @@ from langchain_classic.agents import create_tool_calling_agent, AgentExecutor
 from langchain_core.messages import AIMessage, HumanMessage
 
 from src.agent.prompt import get_financial_agent_prompt
-# --- NEW IMPORT ---
-from src.agent.tools import semantic_financial_search, python_calculator
+
+# Ensure all tools are imported
+from src.agent.tools import (
+    semantic_financial_search, 
+    multi_year_financial_search, 
+    calculate_financial_kpi, 
+    python_calculator
+)
 
 class FinancialLangChainAgent:
     def __init__(self, model_name: str = "gpt-4o", temperature: float = 0.0):
         self.llm = ChatOpenAI(model=model_name, temperature=temperature)
         
-        # --- NEW TOOLS LIST ---
+        # Add the missing tools to the agent's toolkit
         self.tools = [
             semantic_financial_search, 
+            multi_year_financial_search,
+            calculate_financial_kpi,
             python_calculator
         ]
         

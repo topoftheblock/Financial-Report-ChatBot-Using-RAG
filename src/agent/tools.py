@@ -50,10 +50,13 @@ def semantic_financial_search(query: str, company_ticker: str = None, year: int 
             meta = results['metadatas'][0][i]
             chunk = results['documents'][0][i]
             
-            # Keep the citation formatting so the Reviewer instruction still works
-            # CHANGED: 'Item' was replaced with 'section' to pull the correct header metadata
             source_citation = f"[Source: {meta.get('Ticker', 'Unknown')} | Year: {meta.get('Year', 'Unknown')} | Section: {meta.get('Section', 'Unknown')}]"
-            formatted_chunk = f"{source_citation}\nExact Passage: {chunk}"
+            
+            # Extract the table summary from metadata so the agent can read it
+            table_summary = meta.get('table_summary', '')
+            summary_text = f"\nTable Summary: {table_summary}" if table_summary else ""
+            
+            formatted_chunk = f"{source_citation}{summary_text}\nExact Passage: {chunk}"
             
             valid_chunks.append(formatted_chunk)
                     
@@ -97,7 +100,12 @@ def multi_year_financial_search(query: str, company_ticker: str, years: list[int
             chunk = results['documents'][0][i]
             
             source_citation = f"[Source: {meta.get('Ticker', 'Unknown')} | Year: {meta.get('Year', 'Unknown')} | Section: {meta.get('Section', 'Unknown')}]"
-            formatted_chunk = f"{source_citation}\nExact Passage: {chunk}"
+            
+            # Extract the table summary from metadata so the agent can read it
+            table_summary = meta.get('table_summary', '')
+            summary_text = f"\nTable Summary: {table_summary}" if table_summary else ""
+            
+            formatted_chunk = f"{source_citation}{summary_text}\nExact Passage: {chunk}"
             valid_chunks.append(formatted_chunk)
                     
         return "\n\n---\n\n".join(valid_chunks)

@@ -75,7 +75,7 @@ def embed_all_processed_files():
         years = [y for y in os.listdir(company_path) if os.path.isdir(os.path.join(company_path, y))]
         
         for year in years:
-            target_file = os.path.join(company_path, year, "10-K.txt")
+            target_file = os.path.join(company_path, year, "10-K.md")
             
             if os.path.exists(target_file):
                 print(f"Chunking and embedding: {company} - {year}")
