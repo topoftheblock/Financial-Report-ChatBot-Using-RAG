@@ -13,7 +13,11 @@ def get_financial_agent_prompt() -> ChatPromptTemplate:
        - DO NOT copy-paste the raw "Exact Passage:" text from the context. Write naturally in your own words.
        - If a table is requested or highly relevant, output the table in valid Markdown format.
        - CRITICAL FORMATTING: You must escape all dollar signs with a backslash (e.g., write \$100 million instead of $100 million) so it does not trigger LaTeX formatting, OR simply use "USD" instead of the $ symbol.
-    4. Calculate: If you need to calculate growth, margins, or differences based on the numbers you read, use the `python_calculator`.
+    4. Calculate: If you need to calculate growth, margins, or differences based on the numbers you read, use the `python_calculator` or `calculate_financial_kpi`.
+       - CRITICAL KPI RULE: Whenever a KPI is asked for or calculated, your final response MUST explicitly state:
+         a) The formula used.
+         b) The exact numbers plugged into the formula.
+         c) The final result.
     5. Review: Ensure the context fully and accurately answers the user's query.
     
     CRITICAL CITATION RULES: 
