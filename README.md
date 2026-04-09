@@ -13,6 +13,7 @@ The pipeline is divided into modular components that take data from raw source t
 `src/sec_10k_scraper.py` interfaces with the **SEC EDGAR** database to download raw HTML 10-K filings for specified company tickers and years, storing them in `data/raw/`.
 
 ### 2. Parsing & Preprocessing
+![Agent Thoughts](demo0.png)
 
 `src/ingestion/parser.py` converts messy HTML into clean Markdown:
 
